@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "84ee939e5cfa5fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7352cfa6f27a436e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9c9d328772bd8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "174aa8e4a46c3767",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15e1168a1eee83f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0a6dddaba50f0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8c45b65a2cfc062",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2284de68d834ed87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f42cb5075f9cc94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6aa6a817b5e4c25e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b36b82be6f751cee",
+        "type": "tabs",
+        "dimension": 49.875,
+        "children": [
+          {
+            "id": "2542bcf1f6986c2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37fea2f3856dd081",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b2d71f8f9064ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a63d6c5b6fd49b4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "97f44c6d4ce34a07",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "aa9b6c7c010ecbfb",
+        "type": "tabs",
+        "dimension": 50.125,
+        "children": [
+          {
+            "id": "3e8551d28bbfc98f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2f9c9d328772bd8c",
+  "lastOpenFiles": [
+    "Pasted image 20230307124813.png",
+    "未命名 1.canvas",
+    "导数 9d84dd65c78e4957830d71298a2eccd0.md",
+    "未命名.canvas",
+    "未命名.md",
+    "未命名思维导图.md",
+    "canver.md",
+    "templates/now.md",
+    "Untitled.md",
+    "templates",
+    "2023-03-06.md"
+  ]
+}
