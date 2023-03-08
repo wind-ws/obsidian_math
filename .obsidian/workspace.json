@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7352cfa6f27a436e",
+        "id": "d4202f5bd6b58957",
         "type": "tabs",
         "children": [
           {
-            "id": "2f9c9d328772bd8c",
+            "id": "04a3367946a216e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "chaos/big_chaos_table_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a63d6c5b6fd49b4c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#inline_/notion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -120,23 +133,23 @@
             }
           },
           {
-            "id": "a63d6c5b6fd49b4c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "97f44c6d4ce34a07",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5a4b5715474c26ae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -150,16 +163,50 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b59ab2e95ad57e8e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4084433249421998,
+                  "close": true
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,21 +217,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2f9c9d328772bd8c",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "Pasted image 20230307124813.png",
-    "未命名 1.canvas",
-    "导数 9d84dd65c78e4957830d71298a2eccd0.md",
-    "未命名.canvas",
-    "未命名.md",
-    "未命名思维导图.md",
-    "canver.md",
-    "templates/now.md",
-    "Untitled.md",
-    "templates",
-    "2023-03-06.md"
+    "old_notion_chaos/2023_3_8迁移notion/Math - 混沌海/Math - 混沌海/极限.md",
+    "old_notion_chaos/2023_3_8迁移notion/Math - 混沌海/Math - 混沌海/极限/极限基础.md",
+    "src/微积分-/极限-/极限基础-/连续点&间断点.md",
+    "chaos/big_chaos_table_.md",
+    "src/微积分-/极限-/极限基础-/两个重要的极限.md",
+    "src/微积分-/极限-/极限基础-/无穷小.md",
+    "src/微积分-/极限_.md",
+    "src/微积分-/极限-/极限基础-/邻域.md",
+    "附件/v2-550942b311c8d744a5d47a76804e79dd_720w.webp",
+    "附件/v2-3763e58e68fde005f81cb3ffa68f83c4_720w.webp",
+    "附件/v2-e6ed3b55e5fa767b86c59d2f2425a9ae_720w.webp",
+    "附件/v2-7d173ec22c9d366df140df7dd9ef1879_720w.webp",
+    "附件/v2-a97dbc6ec06691f76bc40d4e553dc68a_720w.webp",
+    "src/微积分-/极限-/极限基础-/单侧极限.md",
+    "附件/v2-f09a317527df1110b9f8ea675d839462_720w.webp",
+    "附件/v2-1498a64eb90a0759455a02309ac223e6_720w.png",
+    "src/微积分-/极限-/极限基础_.md",
+    "src/微积分-/极限-/极限基础-",
+    "src/微积分-/极限-/数列极限_.md",
+    "src/微积分-/极限-/数列极限-/聚点.md",
+    "src/微积分-/极限-/数列极限-/子列.md",
+    "old_notion_chaos/2023_3_8迁移notion/Math - 混沌海/Math - 混沌海/极限/数列极限.md",
+    "src/微积分-/极限-/数列极限-/收敛数列的性质.md",
+    "src/微积分-/极限-/数列极限-",
+    "src/微积分-/导数_.md",
+    "src/微积分-/导数-",
+    "src/微积分_.md",
+    "src/微积分-",
+    "src/微积分-/极限-",
+    "chaos/chaos_1_.canvas",
+    "old_notion_chaos/2023_3_8迁移notion/Math - 混沌海/Math - 混沌海/为什么要用sin(x)… ;函数的 抽象特征 运用.md",
+    "chaos/chaos_1-/为什么要用sin(x)… ;函数的 抽象特征 运用.md",
+    "old_notion_chaos/2023_3_8迁移notion/Math - 混沌海/Math - 混沌海/函数特征-集合.md",
+    "src/函数-/基本函数_.md",
+    "old_notion_chaos/2023_3_8迁移notion/Math - 混沌海/Math - 混沌海/基本函数.md",
+    "src/函数-/基本函数-/双曲函数.md",
+    "src/函数-/基本函数-/指数函数 & 对数函数.md",
+    "src/函数-/基本函数-/幂函数.md",
+    "src/函数-/基本函数-/常函数.md",
+    "src/函数-/基本函数-",
+    "附件/Sin.svg.png",
+    "附件/Circle-trig6.svg.png",
+    "附件/Circle-trig6.svg 1.png",
+    "三%E8%A7%92%E5%87%BD%E6%95%B0",
+    "src/函数-",
+    "src/运算法则-",
+    "src/集合-",
+    "未命名 1.canvas"
   ]
 }

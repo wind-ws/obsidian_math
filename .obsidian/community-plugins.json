@@ -5,10 +5,11 @@
   "obsidian-mind-map",
   "obsidian-desmos",
   "templater-obsidian",
-  "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-contextual-typography",
   "obsidian-hider",
-  "calendar"
+  "calendar",
+  "obsidian-auto-link-title",
+  "custom-sort"
 ]

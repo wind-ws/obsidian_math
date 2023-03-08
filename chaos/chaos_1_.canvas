@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"file","file":"chaos/chaos_1-/一堆记号.md","id":"0925a29c928850b8","x":-640,"y":-339,"width":400,"height":400},
+		{"type":"file","file":"chaos/chaos_1-/上界, 下界, 有界集.md","id":"168a3c709de1b65a","x":-140,"y":-339,"width":400,"height":400},
+		{"type":"file","file":"chaos/chaos_1-/未整理.md","id":"dab2a028dea145e0","x":-640,"y":140,"width":400,"height":400},
+		{"type":"file","file":"chaos/chaos_1-/充分&必要&充分必要条件.md","id":"edb5060f318d817d","x":-140,"y":140,"width":400,"height":400},
+		{"id":"619b28a4a0fad3c2","x":-640,"y":640,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/为什么要用sin(x)… ;函数的 抽象特征 运用.md"}
+	],
+	"edges":[]
+}

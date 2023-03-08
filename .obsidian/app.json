@@ -1,5 +1,12 @@
 {
   "showLineNumber": true,
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "vimMode": false,
+  "attachmentFolderPath": "/附件",
+  "trashOption": "local",
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false
 }

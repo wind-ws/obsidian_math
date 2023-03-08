@@ -5,5 +5,8 @@
   "theme": "obsidian",
   "showViewHeader": true,
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "文件分界线",
+    "custom-admonitions.2c47eb"
+  ]
 }

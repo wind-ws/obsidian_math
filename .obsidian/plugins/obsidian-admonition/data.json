@@ -1,5 +1,45 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "light": {
+      "type": "light",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "_",
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false
+    },
+    "dl定理_": {
+      "type": "dl定理_",
+      "color": "194, 196, 110",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "定理",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "dy定义": {
+      "type": "dy定义",
+      "color": "114, 216, 218",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "定义",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.2.1",

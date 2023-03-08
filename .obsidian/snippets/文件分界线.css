@@ -1,0 +1,27 @@
+/* @replete Folder Separators v2 tested with Obsidian 1.1.9 */
+
+/* Separator  below nav item */
+.nav-folder-children > [class*=nav-]:has([data-path="Daily"])::after,
+.nav-folder-children > [class*=nav-]:has([data-path="folder_introductions.md"])::after,
+.nav-folder-children > [class*=nav-]:has([data-path="chaos"])::after
+{
+    content:'';
+    display:block;
+    height:1px;
+    width:100%;
+    background:linear-gradient(to right, var(--divider-color), transparent);
+    margin:6px 0 6px -8px;
+}
+
+/* Separator above nav item */
+.nav-folder-children > [class*=nav-]:has([data-path="chaos"])::before,
+.nav-folder-children > [class*=nav-]:has([data-path="sortspec.md"])::before,
+.nav-folder-children > [class*=nav-]:has([data-path="README.md"])::before
+{
+    content:'';
+    display:block;
+    height:1px;
+    width:100%;
+    background:linear-gradient(to right, var(--divider-color), transparent);
+    margin:6px 0 6px -8px;
+}
