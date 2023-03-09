@@ -1,9 +1,11 @@
 /* @replete Folder Separators v2 tested with Obsidian 1.1.9 */
 
 /* Separator  below nav item */
-.nav-folder-children > [class*=nav-]:has([data-path="Daily"])::after,
 .nav-folder-children > [class*=nav-]:has([data-path="folder_introductions.md"])::after,
-.nav-folder-children > [class*=nav-]:has([data-path="chaos"])::after
+.nav-folder-children > [class*=nav-]:has([data-path="chaos"])::after,
+.nav-folder-children > [class*=nav-]:has([data-path="src/术语-"])::after,
+.nav-folder-children > [class*=nav-]:has([data-path="src/运算法则-"])::after,
+.nav-folder-children > [class*=nav-]:has([data-path="____"])::after
 {
     content:'';
     display:block;
@@ -16,7 +18,8 @@
 /* Separator above nav item */
 .nav-folder-children > [class*=nav-]:has([data-path="chaos"])::before,
 .nav-folder-children > [class*=nav-]:has([data-path="sortspec.md"])::before,
-.nav-folder-children > [class*=nav-]:has([data-path="README.md"])::before
+.nav-folder-children > [class*=nav-]:has([data-path="README.md"])::before,
+.nav-folder-children > [class*=nav-]:has([data-path="____"])::before
 {
     content:'';
     display:block;

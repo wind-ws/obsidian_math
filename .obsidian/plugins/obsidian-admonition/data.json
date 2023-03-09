@@ -17,7 +17,7 @@
       "type": "dl定理_",
       "color": "194, 196, 110",
       "icon": {
-        "name": "lightbulb",
+        "name": "angle-right",
         "type": "font-awesome"
       },
       "command": false,
@@ -38,6 +38,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "yl引理": {
+      "type": "yl引理",
+      "color": "208, 173, 98",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "引理",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

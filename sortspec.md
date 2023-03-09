@@ -2,6 +2,7 @@
 sorting-spec: |
     target-folder: /*
     < a-z
+    
     target-folder: /
     chaos
     src
@@ -13,4 +14,14 @@ sorting-spec: |
     templates
     README
     folder_introductions
+    
+    target-folder: src/...
+    符号&记号_
+    符号&记号-
+    术语_
+    术语-
+    数学公理系统_
+    数学公理系统-
+    运算法则_
+    运算法则-
 ---

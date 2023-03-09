@@ -4,7 +4,13 @@
 		{"type":"file","file":"chaos/chaos_1-/上界, 下界, 有界集.md","id":"168a3c709de1b65a","x":-140,"y":-339,"width":400,"height":400},
 		{"type":"file","file":"chaos/chaos_1-/未整理.md","id":"dab2a028dea145e0","x":-640,"y":140,"width":400,"height":400},
 		{"type":"file","file":"chaos/chaos_1-/充分&必要&充分必要条件.md","id":"edb5060f318d817d","x":-140,"y":140,"width":400,"height":400},
-		{"id":"619b28a4a0fad3c2","x":-640,"y":640,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/为什么要用sin(x)… ;函数的 抽象特征 运用.md"}
+		{"type":"file","file":"chaos/chaos_1-/为什么要用sin(x)… ;函数的 抽象特征 运用.md","id":"619b28a4a0fad3c2","x":-640,"y":640,"width":400,"height":400},
+		{"id":"88d20b1a2001c191","x":-140,"y":640,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/非规范小数.md"},
+		{"id":"dac4b27b50212557","x":340,"y":-339,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/符号(海维赛德,Heviside)函数.md"},
+		{"id":"e3ee717e22b556df","x":340,"y":140,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/勾股定理.md"},
+		{"id":"1f0ab70e44c887b5","x":340,"y":640,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/皮亚诺公理.md"},
+		{"id":"7e03017a038e4daa","x":820,"y":-339,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/圆的面积公式.md"},
+		{"id":"b735557c60413e34","x":820,"y":140,"width":400,"height":400,"type":"file","file":"chaos/chaos_1-/一堆记号.md"}
 	],
 	"edges":[]
 }
