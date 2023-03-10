@@ -4,17 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4c62d638909dfa9b",
+        "id": "b7ad23d38c9dfc93",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "04a3367946a216e4",
+            "id": "3d59127f49377471",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
+                "file": "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5b8aa5ea0c4db7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chaos/chaos_1-/未整理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "886d04dd80bd96f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/术语-/极值&极值点&极大值&极小值.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#consensus",
+                "query": "tag:#描述2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 311.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -95,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/费马引理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,9 +162,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "3f97ab2deb697c05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -159,7 +186,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -169,16 +196,15 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -187,22 +213,23 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4084433249421998,
+                  "collapse-forces": false,
+                  "centerStrength": 0.760416666666667,
+                  "repelStrength": 14.7916666666667,
+                  "linkStrength": 0.979166666666667,
+                  "linkDistance": 189,
+                  "scale": 0.8360386601669908,
                   "close": true
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,38 +244,40 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "04a3367946a216e4",
+  "active": "3f97ab2deb697c05",
   "lastOpenFiles": [
-    "src/微积分-/定理&引理&法则&公式&...-/达布中值定理.md",
-    "src/微积分-/极限_.md",
-    "src/微积分-/导数_.md",
-    "math_study_resource/books.md",
-    "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
-    "src/微积分_.md",
-    "src/符号&记号_.md",
-    "chaos/chaos_1_.canvas",
-    "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&….md",
-    "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&…/术语&符号/Untitled/375px-Codomain2.SVG.png",
-    "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&…/术语&符号/Untitled.md",
-    "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&…/术语&符号.md",
-    "src/符号&记号-/(定义为).md",
-    "src/符号&记号-/二项式系数.md",
-    "README.md",
-    "chaos/chaos_1-/符号(海维赛德,Heviside)函数.md",
-    "chaos/chaos_1-/非规范小数.md",
-    "chaos/chaos_1-/圆的面积公式.md",
-    "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
-    "src/微积分-/定理&引理&法则&公式&...-/洛必达法则.md",
-    "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
-    "src/微积分-/定理&引理&法则&公式&...-/柯西中值定理.md",
-    "chaos/证明库-/柯西中值定理.md",
-    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
+    "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
+    "src/术语-/极值&极值点&极大值&极小值.md",
+    "chaos/chaos_1-/未整理.md",
+    "chaos/chaos_1-/一堆记号.md",
+    "src/微积分-/极限-/极限基础-/无穷小.md",
+    "src/微积分-/导数-/高阶导数.md",
+    "src/微积分-/导数-/导数基础-/可微性,微分.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
+    "src/微积分-/导数-/导数基础-/符号定义.md",
+    "src/术语-/内点.md",
+    "src/符号&记号-/(包含).md",
+    "src/术语-/临界点.md",
+    "src/术语-/邻域.md",
+    "未命名.canvas",
     "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md",
+    "src/微积分-/导数-/常数和基本初等函数的导数公式.md",
+    "src/术语-/推论.md",
+    "src/符号&记号-/≡(恒等于).md",
+    "README.md",
+    "src/微积分-/导数-/求导法则-/函数的 和&差&积&商 的求导法则.md",
+    "src/微积分-/导数-/求导法则_.md",
     "src/微积分-/定理&引理&法则&公式&...-/罗尔定理.md",
-    "src/微积分-/定理&引理&法则&公式&..._.md",
+    "Idea_.md",
+    "sortspec.md",
+    "Idea-",
+    "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
+    "chaos/chaos_1_.canvas",
+    "src/函数-/基本函数_.md",
+    "src/函数-/函数性质.md",
+    "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
+    "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&…/术语&符号/Untitled/375px-Codomain2.SVG.png",
     "src/微积分-/定理&引理&法则&公式&...-",
-    "src/术语-/首项系数.md",
-    "src/术语-/多项式的次数.md",
     "附件/375px-Codomain2.SVG.png",
     "附件/25234dsgsrg",
     "src/术语-",
@@ -265,7 +294,6 @@
     "附件/v2-f09a317527df1110b9f8ea675d839462_720w.webp",
     "src/微积分-/极限-/极限基础-",
     "src/微积分-/极限-/数列极限-",
-    "src/微积分-/导数-",
     "未命名 1.canvas"
   ]
 }

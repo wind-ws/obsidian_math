@@ -13,8 +13,8 @@
       "noTitle": false,
       "copy": false
     },
-    "dl定理_": {
-      "type": "dl定理_",
+    "dl定理": {
+      "type": "dl定理",
       "color": "194, 196, 110",
       "icon": {
         "name": "angle-right",

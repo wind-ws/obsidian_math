@@ -31,5 +31,6 @@
   "minimal-style@@blockquote-size": "1.2em",
   "minimal-style@@blockquote-font-style": "normal",
   "minimal-style@@titlebar-text-weight": 600,
-  "minimal-style@@inline-title-weight": 600
+  "minimal-style@@inline-title-weight": 600,
+  "minimal-style@@minimal-strike-lists": false
 }

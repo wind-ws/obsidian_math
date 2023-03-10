@@ -7,6 +7,7 @@
   "nativeMenus": false,
   "enabledCssSnippets": [
     "文件分界线",
-    "custom-admonitions.2c47eb"
+    "custom-admonitions.2c47eb",
+    "big-math"
   ]
 }

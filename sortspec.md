@@ -13,6 +13,8 @@ sorting-spec: |
     附件
     templates
     README
+    Idea_
+    Idea-
     folder_introductions
     
     target-folder: src/...
