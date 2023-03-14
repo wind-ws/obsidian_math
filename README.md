@@ -1,5 +1,6 @@
 # obsidian_math
 my math note
+此笔记主要以文字为主, 参考和学习资料也是如此, 你若依赖视频, 那么这笔记并不咋样
 
 # Note Format
 ### 文件和文件夹命名

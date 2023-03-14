@@ -50,6 +50,18 @@
       "title": "引理",
       "injectColor": true,
       "noTitle": false
+    },
+    "xz性质": {
+      "type": "xz性质",
+      "color": "209, 122, 240",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "性质",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
