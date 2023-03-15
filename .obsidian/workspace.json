@@ -8,31 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d59127f49377471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93506ace03a507a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/导数基础-/导数定义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a44e0381a0354989",
             "type": "leaf",
             "state": {
@@ -40,11 +15,52 @@
               "state": {
                 "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb99dd12ebbd124c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d923485e6c3bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f11a7f65c8b184d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#unsafe/self",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -120,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
+                "file": "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
+                "file": "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md"
+                "file": "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md"
               }
             }
           },
@@ -170,7 +185,7 @@
             }
           },
           {
-            "id": "3f97ab2deb697c05",
+            "id": "3d59127f49377471",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -202,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
+                "file": "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,12 +246,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 937.5
+    "width": 647.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,13 +265,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b59ab2e95ad57e8e",
+  "active": "01d923485e6c3bda",
   "lastOpenFiles": [
     "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
-    "src/微积分-/导数-/导数基础-/导数定义.md",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/术语-/系数.md",
     "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
+    "src/微积分-/导数-/导数基础_.md",
+    "README.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
+    "src/术语-/断言.md",
+    "src/术语-/系数.md",
     "src/术语-/多项式.md",
     "src/术语-/多项式的次数.md",
     "chaos/chaos_1-/未整理.md",
@@ -268,11 +285,9 @@
     "附件/数学分析（上册） 1 (华东师范大学数学系) (Z-Library).pdf",
     "src/微积分-/不定积分_.md",
     "src/微积分-/不定积分-",
-    "README.md",
     "src/微积分-/极限-/极限基础-/函数极限的性质.md",
     "src/微积分-/极限-/极限基础-/单侧极限.md",
     "未命名.canvas",
-    "src/微积分-/导数-/导数基础_.md",
     "chaos/chaos_1-/充分&必要&充分必要条件.md",
     "src/术语-/极值&极值点&极大值&极小值.md",
     "src/微积分-/极限-/极限基础-/无穷小.md",
@@ -281,7 +296,6 @@
     "src/微积分-/导数-/导数基础-/符号定义.md",
     "src/术语-/内点.md",
     "src/符号&记号-/(包含).md",
-    "src/术语-/临界点.md",
     "Idea-",
     "chaos/chaos_1_.canvas",
     "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
