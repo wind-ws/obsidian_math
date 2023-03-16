@@ -4,76 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ad23d38c9dfc93",
+        "id": "4c8ba6f9bc011f87",
         "type": "tabs",
         "children": [
           {
-            "id": "a44e0381a0354989",
+            "id": "858f2f9cfc07b4d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f11a7f65c8b184d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4c9de7cc4fd3dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/函数的凹凸性和拐点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "458a70bf3cf804a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/函数-/函数性质.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "571a006f6d45077f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/chaos_1-/充分&必要&充分必要条件.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#chaos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -141,7 +82,7 @@
       {
         "id": "b36b82be6f751cee",
         "type": "tabs",
-        "dimension": 49.875,
+        "dimension": 53.61904761904762,
         "children": [
           {
             "id": "2542bcf1f6986c2e",
@@ -149,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/函数-/函数性质.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/函数-/函数性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/函数-/函数性质.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,22 +134,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "3d59127f49377471",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
         "type": "tabs",
-        "dimension": 50.125,
+        "dimension": 46.38095238095238,
         "children": [
           {
             "id": "3e8551d28bbfc98f",
@@ -231,7 +160,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/函数-/函数性质.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -260,11 +188,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 954.5
+    "width": 652.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,37 +208,44 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "458a70bf3cf804a7",
+  "active": "858f2f9cfc07b4d0",
   "lastOpenFiles": [
-    "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
+    "chaos/chaos_1-/皮亚诺公理.md",
+    "chaos/big_chaos_table_.md",
+    "chaos/证明库_.md",
+    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
+    "src/术语-/邻域.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
+    "README.md",
+    "src/术语-/-微积分/鞍点.md",
+    "src/术语-/-微积分/驻点(稳定点).md",
+    "附件/525px-Stationary_vs_inflection_pts.svg.png",
+    "src/术语-/内点.md",
     "src/微积分-/导数-/函数的凹凸性和拐点.md",
+    "src/术语-/-微积分/上极限和下极限.md",
+    "src/术语-/微积分_.md",
+    "src/术语-/-微积分",
+    "src/微积分-/极限-/极限基础-/邻域.md",
+    "src/术语-/-微积分/拐点.md",
+    "附件/Screenshot_20230316_215142.png",
+    "chaos/chaos_1-/两点连线的方程.md",
+    "src/函数-/函数性质.md",
+    "src/术语-/非严格不等式.md",
+    "src/术语-/严格不等式.md",
+    "src/微积分-/导数-/导数基础-/符号定义.md",
+    "src/微积分-/导数-/高阶导数.md",
     "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
-    "chaos/chaos_1-/充分&必要&充分必要条件.md",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
+    "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
+    "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",
+    "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
+    "chaos/chaos_1-/充分&必要&充分必要条件.md",
     "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
     "src/微积分-/定理&引理&法则&公式&...-/费马定理.md",
-    "src/微积分-/定理&引理&法则&公式&...-/拉格朗日中值定理.md",
-    "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
-    "src/微积分-/导数-/导数基础_.md",
-    "README.md",
-    "src/微积分-/导数-/导数基础-/导数定义.md",
-    "src/术语-/断言.md",
-    "src/术语-/系数.md",
-    "src/术语-/多项式.md",
-    "src/术语-/多项式的次数.md",
-    "chaos/chaos_1-/未整理.md",
-    "src/微积分-/定理&引理&法则&公式&...-/洛必达法则.md",
-    "src/微积分-/导数-/求导法则-/函数的 和&差&积&商 的求导法则.md",
-    "chaos/chaos_1-/一堆记号.md",
-    "math_study_resource/books.md",
     "附件/数学分析（上册） 1 (华东师范大学数学系) (Z-Library).pdf",
-    "src/微积分-/不定积分_.md",
     "src/微积分-/不定积分-",
-    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
-    "src/微积分-/极限-/极限基础-/单侧极限.md",
     "未命名.canvas",
-    "src/术语-/极值&极值点&极大值&极小值.md",
-    "src/微积分-/极限-/极限基础-/无穷小.md",
     "Idea-",
     "chaos/chaos_1_.canvas",
     "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
@@ -322,13 +258,6 @@
     "chaos/证明库-",
     "附件/Screenshot_20230305_233320.png",
     "附件/Screenshot_20230228_220951.png",
-    "src/微积分-/导数-/导数基础-",
-    "附件/v2-550942b311c8d744a5d47a76804e79dd_720w.webp",
-    "附件/v2-3763e58e68fde005f81cb3ffa68f83c4_720w.webp",
-    "附件/v2-e6ed3b55e5fa767b86c59d2f2425a9ae_720w.webp",
-    "附件/v2-7d173ec22c9d366df140df7dd9ef1879_720w.webp",
-    "附件/v2-a97dbc6ec06691f76bc40d4e553dc68a_720w.webp",
-    "附件/v2-f09a317527df1110b9f8ea675d839462_720w.webp",
     "未命名 1.canvas"
   ]
 }

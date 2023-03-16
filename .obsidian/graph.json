@@ -8,30 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:src",
-      "color": {
-        "a": 1,
-        "rgb": 5947288
-      }
-    },
-    {
       "query": "path:chaos",
       "color": {
         "a": 1,
         "rgb": 14703442
+      }
+    },
+    {
+      "query": "path:src",
+      "color": {
+        "a": 1,
+        "rgb": 5693898
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00598958333333,
+  "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1.00598958333333,
   "collapse-forces": false,
-  "centerStrength": 0.390625,
-  "repelStrength": 11.4583333333333,
-  "linkStrength": 0.375,
+  "centerStrength": 0.229166666666667,
+  "repelStrength": 13.6458333333333,
+  "linkStrength": 0.151041666666667,
   "linkDistance": 478,
-  "scale": 0.10877338427997078,
+  "scale": 0.0635626101325074,
   "close": true
 }
