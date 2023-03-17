@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8ba6f9bc011f87",
+        "id": "27ee893e49e4e6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "858f2f9cfc07b4d0",
+            "id": "0fd133f6b2f1fbec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/不定积分_.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1f4ea107bff60a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/不定积分-/原函数与不定积分的概念.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -90,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/微积分-/不定积分-/原函数与不定积分的概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/微积分-/不定积分-/原函数与不定积分的概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/微积分-/不定积分-/原函数与不定积分的概念.md"
+              }
             }
           },
           {
@@ -134,9 +158,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "858f2f9cfc07b4d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -160,6 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "src/微积分-/不定积分-/原函数与不定积分的概念.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.5
+    "width": 952.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +241,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "858f2f9cfc07b4d0",
+  "active": "a1f4ea107bff60a6",
   "lastOpenFiles": [
+    "src/术语-/常量函数.md",
+    "src/微积分-/不定积分-/原函数与不定积分的概念.md",
+    "src/术语-/-微积分/原函数.md",
+    "src/微积分-/不定积分_.md",
+    "src/微积分-/定积分_.md",
+    "src/微积分-/定积分-",
     "chaos/chaos_1-/皮亚诺公理.md",
     "chaos/big_chaos_table_.md",
     "chaos/证明库_.md",
@@ -234,15 +273,10 @@
     "src/术语-/严格不等式.md",
     "src/微积分-/导数-/导数基础-/符号定义.md",
     "src/微积分-/导数-/高阶导数.md",
-    "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
     "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
     "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
     "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",
     "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
-    "chaos/chaos_1-/充分&必要&充分必要条件.md",
-    "src/微积分-/定理&引理&法则&公式&...-/费马引理.md",
-    "src/微积分-/定理&引理&法则&公式&...-/费马定理.md",
     "附件/数学分析（上册） 1 (华东师范大学数学系) (Z-Library).pdf",
     "src/微积分-/不定积分-",
     "未命名.canvas",
@@ -255,7 +289,6 @@
     "附件/25234dsgsrg",
     "src/术语-",
     "src/微积分-/导数-/求导法则-",
-    "chaos/证明库-",
     "附件/Screenshot_20230305_233320.png",
     "附件/Screenshot_20230228_220951.png",
     "未命名 1.canvas"
