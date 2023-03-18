@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "0fb5574592397777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "418ae932c3e913d7",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/不定积分-/换元积分法与分部积分法.md",
+                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/不定积分-/换元积分法与分部积分法.md",
+                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/不定积分-/换元积分法与分部积分法.md"
+                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md"
               }
             }
           },
@@ -200,14 +213,14 @@
             }
           },
           {
-            "id": "b59ab2e95ad57e8e",
+            "id": "edbe402da21a6668",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/不定积分-/换元积分法与分部积分法.md",
+                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -215,7 +228,7 @@
                   "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": true,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
@@ -224,11 +237,11 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.760416666666667,
-                  "repelStrength": 14.7916666666667,
-                  "linkStrength": 0.979166666666667,
-                  "linkDistance": 189,
-                  "scale": 0.8360386601669901,
+                  "centerStrength": 0.526041666666667,
+                  "repelStrength": 10.9375,
+                  "linkStrength": 0.578125,
+                  "linkDistance": 270,
+                  "scale": 0.8360386601669942,
                   "close": true
                 }
               }
@@ -254,11 +267,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f5c53cb5741edbf6",
+  "active": "0fb5574592397777",
   "lastOpenFiles": [
+    "src/术语-/有理函数(代数分数).md",
+    "src/术语-/假分式.md",
+    "src/术语-/真分式.md",
+    "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+    "src/微积分-/不定积分-/换元积分法与分部积分法.md",
     "src/微积分-/不定积分-/积分表.md",
     "src/微积分-/不定积分-/原函数与不定积分的概念.md",
-    "src/微积分-/不定积分-/换元积分法与分部积分法.md",
     "src/微积分-/不定积分_.md",
     "src/术语-/常量函数.md",
     "src/术语-/-微积分/原函数.md",
@@ -282,10 +299,6 @@
     "src/微积分-/极限-/极限基础-/邻域.md",
     "src/术语-/-微积分/拐点.md",
     "附件/Screenshot_20230316_215142.png",
-    "chaos/chaos_1-/两点连线的方程.md",
-    "src/函数-/函数性质.md",
-    "src/术语-/非严格不等式.md",
-    "src/术语-/严格不等式.md",
     "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
     "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
     "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",
