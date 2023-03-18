@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "724d864fd15043dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/不定积分-/积分表.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -226,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 952.5
+    "width": 886.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,8 +256,9 @@
   },
   "active": "a1f4ea107bff60a6",
   "lastOpenFiles": [
-    "src/术语-/常量函数.md",
+    "src/微积分-/不定积分-/积分表.md",
     "src/微积分-/不定积分-/原函数与不定积分的概念.md",
+    "src/术语-/常量函数.md",
     "src/术语-/-微积分/原函数.md",
     "src/微积分-/不定积分_.md",
     "src/微积分-/定积分_.md",
@@ -272,7 +286,6 @@
     "src/术语-/非严格不等式.md",
     "src/术语-/严格不等式.md",
     "src/微积分-/导数-/导数基础-/符号定义.md",
-    "src/微积分-/导数-/高阶导数.md",
     "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
     "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
     "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",

@@ -14,5 +14,6 @@
   "multi-column-markdown",
   "obsidian-latex-suite",
   "obsidian-auto-link-title",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-regex-replace"
 ]
