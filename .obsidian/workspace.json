@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1f4ea107bff60a6",
+            "id": "67670cf2a9aa719c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/不定积分-/原函数与不定积分的概念.md",
+                "file": "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "f5c53cb5741edbf6",
+            "id": "46383e1243901187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/不定积分-/换元积分法与分部积分法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fb5574592397777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "file": "src/微积分-/积分-/定积分-/定积分的概念.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/不定积分-/积分表.md",
+                "file": "src/微积分-/积分-/积分表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chaos",
+                "query": "tag:#play",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "file": "src/微积分-/积分-/定积分-/定积分的概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "file": "src/微积分-/积分-/定积分-/定积分的概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md"
+                "file": "src/微积分-/积分-/定积分-/定积分的概念.md"
               }
             }
           },
@@ -218,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "file": "src/微积分-/积分-/定积分-/定积分的概念.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,7 +228,7 @@
                   "repelStrength": 10.9375,
                   "linkStrength": 0.578125,
                   "linkDistance": 270,
-                  "scale": 0.8360386601669942,
+                  "scale": 0.8360386601669938,
                   "close": true
                 }
               }
@@ -252,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 886.5
+    "width": 970.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,44 +254,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0fb5574592397777",
+  "active": "46383e1243901187",
   "lastOpenFiles": [
+    "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
+    "src/微积分-/积分-/定积分-/定积分的概念.md",
+    "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+    "src/微积分-/导数_.md",
+    "src/微积分-/积分-/不定积分_.md",
+    "src/微积分-/积分_.md",
+    "src/微积分-/积分-",
+    "src/微积分-/积分-/不定积分-/换元积分法与分部积分法.md",
+    "chaos/chaos_1-/部分分式分解.md",
+    "chaos/chaos_1-/因式分解.md",
+    "src/术语-/系数.md",
+    "src/符号&记号-/二项式系数.md",
     "src/术语-/有理函数(代数分数).md",
+    "math_study_resource/books.md",
+    "README.md",
+    "src/微积分-/积分-/积分表.md",
     "src/术语-/假分式.md",
     "src/术语-/真分式.md",
-    "src/微积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
-    "src/微积分-/不定积分-/换元积分法与分部积分法.md",
-    "src/微积分-/不定积分-/积分表.md",
-    "src/微积分-/不定积分-/原函数与不定积分的概念.md",
-    "src/微积分-/不定积分_.md",
     "src/术语-/常量函数.md",
     "src/术语-/-微积分/原函数.md",
-    "src/微积分-/定积分_.md",
-    "src/微积分-/定积分-",
+    "src/微积分-/积分-/定积分_.md",
+    "src/微积分-/积分-/定积分-",
     "chaos/chaos_1-/皮亚诺公理.md",
     "chaos/big_chaos_table_.md",
     "chaos/证明库_.md",
     "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
     "src/术语-/邻域.md",
     "src/微积分-/导数-/导数基础-/导数定义.md",
-    "README.md",
-    "src/术语-/-微积分/鞍点.md",
-    "src/术语-/-微积分/驻点(稳定点).md",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
-    "src/术语-/内点.md",
-    "src/微积分-/导数-/函数的凹凸性和拐点.md",
-    "src/术语-/-微积分/上极限和下极限.md",
-    "src/术语-/微积分_.md",
     "src/术语-/-微积分",
-    "src/微积分-/极限-/极限基础-/邻域.md",
-    "src/术语-/-微积分/拐点.md",
     "附件/Screenshot_20230316_215142.png",
     "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
     "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
     "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",
     "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
     "附件/数学分析（上册） 1 (华东师范大学数学系) (Z-Library).pdf",
-    "src/微积分-/不定积分-",
+    "src/微积分-/积分-/不定积分-",
     "未命名.canvas",
     "Idea-",
     "chaos/chaos_1_.canvas",
@@ -314,7 +302,6 @@
     "附件/375px-Codomain2.SVG.png",
     "附件/25234dsgsrg",
     "src/术语-",
-    "src/微积分-/导数-/求导法则-",
     "附件/Screenshot_20230305_233320.png",
     "附件/Screenshot_20230228_220951.png",
     "未命名 1.canvas"
