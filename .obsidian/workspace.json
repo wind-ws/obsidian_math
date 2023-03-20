@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67670cf2a9aa719c",
+            "id": "46383e1243901187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "file": "src/微积分-/积分-/定积分-/定积分的概念.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "46383e1243901187",
+            "id": "e57e6da18088f4e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的概念.md",
+                "file": "src/微积分-/积分-/积分的性质.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#play",
+                "query": "tag:#chaos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,9 +255,12 @@
   },
   "active": "46383e1243901187",
   "lastOpenFiles": [
-    "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
+    "src/微积分-/积分-/积分的性质.md",
     "src/微积分-/积分-/定积分-/定积分的概念.md",
+    "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
+    "chaos/chaos_1-/一堆记号.md",
     "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+    "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
     "src/微积分-/导数_.md",
     "src/微积分-/积分-/不定积分_.md",
     "src/微积分-/积分_.md",
@@ -282,8 +284,6 @@
     "chaos/big_chaos_table_.md",
     "chaos/证明库_.md",
     "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
-    "src/术语-/邻域.md",
-    "src/微积分-/导数-/导数基础-/导数定义.md",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
     "src/术语-/-微积分",
     "附件/Screenshot_20230316_215142.png",
@@ -296,7 +296,6 @@
     "未命名.canvas",
     "Idea-",
     "chaos/chaos_1_.canvas",
-    "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
     "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&…/术语&符号/Untitled/375px-Codomain2.SVG.png",
     "src/微积分-/定理&引理&法则&公式&...-",
     "附件/375px-Codomain2.SVG.png",
