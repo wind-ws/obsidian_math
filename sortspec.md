@@ -16,6 +16,7 @@ sorting-spec: |
     Idea_
     Idea-
     folder_introductions
+    当前计划
     
     target-folder: src/...
     符号&记号_
@@ -26,4 +27,12 @@ sorting-spec: |
     数学公理系统-
     运算法则_
     运算法则-
+    函数_
+    函数-
+    集合论_
+    集合论-
+    微积分_
+    微积分-
+    数理逻辑_
+    数理逻辑-
 ---

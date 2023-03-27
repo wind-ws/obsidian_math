@@ -19,6 +19,7 @@
 .nav-folder-children > [class*=nav-]:has([data-path="chaos"])::before,
 .nav-folder-children > [class*=nav-]:has([data-path="sortspec.md"])::before,
 .nav-folder-children > [class*=nav-]:has([data-path="README.md"])::before,
+.nav-folder-children > [class*=nav-]:has([data-path="src/1以下为未开始的模块,上面是已经开始的.md"])::before,
 .nav-folder-children > [class*=nav-]:has([data-path="____"])::before
 {
     content:'';
