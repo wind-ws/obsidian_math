@@ -2,7 +2,7 @@
   "findText": "!\\[(.*?)\\]\\(.*?\\)",
   "replaceText": "$$$1$$",
   "useRegEx": true,
-  "selOnly": true,
+  "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": false,
   "processTab": false,
