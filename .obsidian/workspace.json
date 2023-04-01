@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "48a453c9e25e8df0",
+        "id": "45199d1dc1e5a59c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f077b6cac1b0e29",
+            "id": "73eb7db26a6379fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/数理逻辑-/预热-/集合.md",
+                "file": "src/数理逻辑-/预热-/关系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ef94ea23cb03a3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chaos/chaos_关于集合论或数理逻辑/有序对.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ace1fbfb2922f1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chaos/chaos_关于集合论或数理逻辑/二元关系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c278c5aaf530c318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chaos/chaos_关于集合论或数理逻辑/关系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20678710f7dc781e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math_study_resource/books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/数理逻辑-/预热-/集合.md",
+                "file": "math_study_resource/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/数理逻辑-/预热-/集合.md",
+                "file": "math_study_resource/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/数理逻辑-/预热-/集合.md"
+                "file": "math_study_resource/books.md"
               }
             }
           },
@@ -177,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/数理逻辑-/预热-/集合.md",
+                "file": "math_study_resource/books.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 970.5
+    "width": 914.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,11 +279,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9f077b6cac1b0e29",
+  "active": "20678710f7dc781e",
   "lastOpenFiles": [
-    "src/集合论-/chaos/集合族.md",
-    "src/数理逻辑-/预热-/集合.md",
+    "附件/[逻辑与形而上学教科书系列] 郝兆宽 - 集合论_ 对无穷概念的探索 (2014, 复旦大学出版社) - libgen.li.pdf",
+    "chaos/chaos_关于集合论或数理逻辑/关系.md",
+    "chaos/chaos_关于集合论或数理逻辑/二元关系.md",
+    "chaos/chaos_关于集合论或数理逻辑/有序对.md",
     "src/数理逻辑-/预热-/关系.md",
+    "chaos/chaos_关于集合论或数理逻辑/类.md",
+    "chaos/chaos_关于集合论或数理逻辑/搜集.md",
+    "chaos/chaos_关于集合论或数理逻辑",
+    "src/数理逻辑-/预热-/集合.md",
+    "src/集合论-/chaos/集合族.md",
     "src/集合论-/chaos/空集.md",
     "[src/集合论-/chaos/空集.md",
     "[src/集合论-/chaos",
@@ -255,15 +315,8 @@
     "src/数理逻辑-/预热_.md",
     "src/数理逻辑-/命题逻辑_.md",
     "当前计划.md",
-    "math_study_resource/books.md",
     "src/数理逻辑-/预热-",
-    "src/数理逻辑-/一阶逻辑_.md",
     "附件/数理逻辑：证明及其限度（第二版） (郝兆宽 ,杨睿之, 杨跃) (Z-Library).tar.gz",
-    "附件/数理逻辑：证明及其限度（第二版） (郝兆宽 ,杨睿之, 杨跃) (Z-Library).zip",
-    "src/术语-/-数理逻辑/悖论.md",
-    "src/术语-/主张.md",
-    "src/1以下为未开始的模块,上面是已经开始的.md",
-    "sortspec.md",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
