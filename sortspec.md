@@ -18,6 +18,7 @@ sorting-spec: |
     folder_introductions
     当前计划
     版本控制
+    历史遗留问题
     
     target-folder: src/...
     符号&记号_

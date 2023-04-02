@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "45199d1dc1e5a59c",
+        "id": "008e61f979613bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "73eb7db26a6379fc",
+            "id": "a304ce8b7acb5622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/关系.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76aa3511c97c38da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/二元关系.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b655744aad19fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/有序对.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09983b2f0c5e950f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/二元关系.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "637ec6d4f26753d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/二元关系.md",
+                "file": "版本控制.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chaos",
+                "query": ":=",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/有序对.md",
+                "file": "版本控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/有序对.md",
+                "file": "版本控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/有序对.md"
+                "file": "版本控制.md"
               }
             }
           },
@@ -230,9 +177,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chaos/chaos_关于集合论或数理逻辑/有序对.md",
+                "file": "版本控制.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -253,7 +200,7 @@
                   "repelStrength": 10.9375,
                   "linkStrength": 0.578125,
                   "linkDistance": 270,
-                  "scale": 0.6989606412938214,
+                  "scale": 0.9999999999999948,
                   "close": true
                 }
               }
@@ -279,45 +226,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1b655744aad19fb1",
+  "active": "a304ce8b7acb5622",
   "lastOpenFiles": [
-    "版本控制.md",
+    "src/数理逻辑-/预热-/关系.md",
+    "src/集合论-/关系-/n元关系.md",
+    "src/集合论-/chaos/笛卡儿积(直积).md",
+    "src/集合论-/chaos/n元序组.md",
+    "src/集合论-/关系-/二元关系.md",
+    "src/集合论-/关系-/特殊的二元关系.md",
+    "src/集合论-/关系-/关系的基本运算.md",
+    "src/集合论_.md",
+    "src/集合论-/chaos/搜集.md",
+    "src/符号&记号-/(定义为).md",
+    "src/数理逻辑-/预热-/集合.md",
+    "src/集合论-/表达方式.md",
+    "src/集合论-/关系_.md",
+    "src/集合论-/关系-/关系的定义域&值域&域.md",
+    "src/集合论-/chaos/集合的交&并&差.md",
+    "src/集合论-/chaos/有序对.md",
+    "src/集合论-/关系-",
+    "历史遗留问题.md",
     "sortspec.md",
-    "chaos/chaos_关于集合论或数理逻辑/有序对.md",
-    "chaos/chaos_关于集合论或数理逻辑/二元关系.md",
-    "chaos/chaos_关于集合论或数理逻辑/关系.md",
-    "src/集合论-/chaos/笛卡儿积.md",
+    "版本控制.md",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)_.md",
     "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)-",
-    "src/数理逻辑-/预热-/关系.md",
     "src/集合论-/chaos/超无穷.md",
     "src/集合论-/chaos/父集(超集).md",
     "src/集合论-/chaos/基数.md",
     "src/集合论-/chaos/集合族.md",
     "src/集合论-/chaos/空集.md",
     "src/集合论-/chaos/幂集.md",
-    "src/集合论-/chaos/搜集.md",
-    "src/集合论-/chaos/真父集(真超集).md",
-    "src/集合论-/chaos/真子集.md",
-    "src/集合论-/chaos/子集.md",
-    "src/集合论-/chaos/潜无穷&实无穷.md",
-    "src/集合论-/chaos/有穷集合.md",
-    "math_study_resource/books.md",
     "附件/[逻辑与形而上学教科书系列] 郝兆宽 - 集合论_ 对无穷概念的探索 (2014, 复旦大学出版社) - libgen.li.pdf",
-    "chaos/chaos_关于集合论或数理逻辑/类.md",
     "chaos/chaos_关于集合论或数理逻辑",
-    "src/数理逻辑-/预热-/集合.md",
-    "[src/集合论-/chaos/空集.md",
     "[src/集合论-/chaos",
     "[src/集合论-",
     "[src",
-    "src/数理逻辑-/预热-/证明的必要性.md",
-    "src/集合论-/公理化集合论_.md",
     "src/集合论-/公理化集合论-",
     "src/集合论-/chaos",
     "附件/数理逻辑:证明及其限度(第二版)pdf.txt",
-    "附件/数理逻辑:证明及其限度(第二版).pdf.txt",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
