@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "008e61f979613bfb",
+        "id": "fe340fcd5aee7a2d",
         "type": "tabs",
         "children": [
           {
-            "id": "a304ce8b7acb5622",
+            "id": "dc8a287706abafaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制.md",
+                "file": "math_study_resource/books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制.md",
+                "file": "math_study_resource/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制.md",
+                "file": "math_study_resource/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制.md"
+                "file": "math_study_resource/books.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "版本控制.md",
+                "file": "math_study_resource/books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,37 +226,37 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a304ce8b7acb5622",
+  "active": "dc8a287706abafaa",
   "lastOpenFiles": [
+    "src/集合论-/关系-/关系的定义域&值域&域.md",
+    "src/集合论-/关系-/关系的基本运算.md",
+    "src/数理逻辑-/预热-/函数.md",
+    "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
+    "math_study_resource/books.md",
+    "src/集合论-/关系-/二元关系.md",
+    "src/术语-/当且仅当.md",
+    "src/集合论-/表达方式.md",
+    "src/集合论_.md",
+    "src/数理逻辑-/预热_.md",
+    "src/数理逻辑-/预热-/证明的必要性.md",
     "src/数理逻辑-/预热-/关系.md",
+    "src/数理逻辑-/预热-/集合.md",
+    "版本控制.md",
     "src/集合论-/关系-/n元关系.md",
     "src/集合论-/chaos/笛卡儿积(直积).md",
     "src/集合论-/chaos/n元序组.md",
-    "src/集合论-/关系-/二元关系.md",
     "src/集合论-/关系-/特殊的二元关系.md",
-    "src/集合论-/关系-/关系的基本运算.md",
-    "src/集合论_.md",
     "src/集合论-/chaos/搜集.md",
     "src/符号&记号-/(定义为).md",
-    "src/数理逻辑-/预热-/集合.md",
-    "src/集合论-/表达方式.md",
     "src/集合论-/关系_.md",
-    "src/集合论-/关系-/关系的定义域&值域&域.md",
     "src/集合论-/chaos/集合的交&并&差.md",
     "src/集合论-/chaos/有序对.md",
     "src/集合论-/关系-",
     "历史遗留问题.md",
     "sortspec.md",
-    "版本控制.md",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)_.md",
     "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)-",
-    "src/集合论-/chaos/超无穷.md",
-    "src/集合论-/chaos/父集(超集).md",
-    "src/集合论-/chaos/基数.md",
-    "src/集合论-/chaos/集合族.md",
-    "src/集合论-/chaos/空集.md",
-    "src/集合论-/chaos/幂集.md",
     "附件/[逻辑与形而上学教科书系列] 郝兆宽 - 集合论_ 对无穷概念的探索 (2014, 复旦大学出版社) - libgen.li.pdf",
     "chaos/chaos_关于集合论或数理逻辑",
     "[src/集合论-/chaos",
@@ -264,7 +264,6 @@
     "[src",
     "src/集合论-/公理化集合论-",
     "src/集合论-/chaos",
-    "附件/数理逻辑:证明及其限度(第二版)pdf.txt",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
