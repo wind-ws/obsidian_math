@@ -62,6 +62,19 @@
       "title": "性质",
       "injectColor": true,
       "noTitle": false
+    },
+    "证明": {
+      "type": "证明",
+      "color": "244, 113, 113",
+      "icon": {
+        "name": "angle-right",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "证明",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
