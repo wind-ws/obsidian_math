@@ -10,27 +10,6 @@ my math note
 	文件和文件夹必须在同一目录下
 	文件和文件夹必须同名 且 文件加"\_" 文件夹加"-" 后缀
 	文件内不一定需要存在内容,但是文件本身必须存在
-### 标签系统
-#chaos : 表示内容混沌,无法分类...
-#discard : 表示内容以被废弃
-#pending_deletion : 表示内容 等待移除,一般需要给出解释
-#pending_deletion/file : 表示当前文件 等待移除,一般需要给出解释
-#todo : 未做完,一般需要给出解释
-#todo/imperfect : 未做完,做的不完美,需要改善
-#todo/prior/-2 #todo/prior/-1 #todo/prior/0 #todo/prior/1 #todo/prior/2 : 
-	优先执行todo目标, 越小越优先, 例如: -2 优先 2
-	赋予意义: -2非常急, 2无所谓 , -1越快越好 , 1不急不急 , 0需要时在执行
-#term : 表示内容存在 术语 的介绍
-#symbol : 表示内容存在 符号&记号 的介绍
-#consensus : 表示内容存在 共识 的介绍
-#not_understand : 表示内容无法理解,需要加强理解
-#not_understand/all : 表示内容全部没有理解
-#not_understand/some : 表示内容有一些没有理解
-#unsafe : 表示内容无法保证安全性
-#unsafe/ai : 表示内容 由AI 生成,并不能保证一定的安全性
-#unsafe/self : 表示内容 由自己想出,并不能保证一定的安全性
-#from : 必须给出解释,表示内容来源
-#play : 哈哈~玩玩~犯贱贱~ 表示内容并不重要,只是我喜欢在内容中加各种各样奇奇怪怪的东西而已~
 
 ### 关于中英混用的问题
 

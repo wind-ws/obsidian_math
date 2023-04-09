@@ -19,6 +19,7 @@ sorting-spec: |
     当前计划
     版本控制
     历史遗留问题
+    标签系统
     
     target-folder: src/...
     符号&记号_
