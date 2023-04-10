@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/集合论-/关系-/等价关系与划分.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,33 @@
             }
           },
           {
-            "id": "2333e8c15cc956c5",
+            "id": "4ac29ef05a9f76f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/集合论-/关系-/序.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312a2d84e6c66c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/集合论-/关系-/等价关系.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3f1159ac86d2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,33 +60,7 @@
             }
           },
           {
-            "id": "1cd032140ba05a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/chaos/幂集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dceb0c269a595c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/chaos/商集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "714a0813da147b8b",
+            "id": "84a5cb9506807316",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,19 +73,20 @@
             }
           },
           {
-            "id": "cd2eb23196978d5e",
+            "id": "016411a6653a891d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/集合论-/关系-/二元关系.md",
+                "file": "src/集合论-/chaos/商集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/集合论-/关系-/序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/集合论-/关系-/序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制.md"
+                "file": "src/集合论-/关系-/序.md"
               }
             }
           },
@@ -242,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/集合论-/关系-/序.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,12 +272,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 674.5
+    "width": 930.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,21 +291,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a6b6b1179cceb77f",
+  "active": "4ac29ef05a9f76f2",
   "lastOpenFiles": [
     "src/集合论-/关系-/等价关系与划分.md",
-    "src/集合论-/关系-/划分.md",
-    "src/集合论-/chaos/幂集.md",
+    "src/集合论-/关系-/序.md",
+    "src/集合论-/关系-/等价关系.md",
     "src/集合论-/关系-/等价类.md",
     "src/集合论-/chaos/商集.md",
+    "src/集合论-/关系-/划分.md",
+    "src/集合论-/关系-/二元关系.md",
+    "src/集合论-/关系-/二元关系的性质.md",
+    "src/集合论-/关系-/核关系.md",
+    "历史遗留问题与内容污染问题.md",
+    "sortspec.md",
+    "版本控制.md",
+    "src/集合论-/chaos/幂集.md",
     "标签系统.md",
     "README.md",
-    "sortspec.md",
-    "src/集合论-/关系-/二元关系.md",
     "src/集合论-/表达方式.md",
     "src/数理逻辑-/预热-/等价关系与划分.md",
     "src/术语-/蕴涵.md",
-    "src/集合论-/关系-/二元关系的性质.md",
     "src/数理逻辑-/预热-/函数.md",
     "src/集合论-/关系-/关系的基本运算.md",
     "math_study_resource/books.md",
@@ -316,11 +321,6 @@
     "src/术语-/当且仅当.md",
     "src/集合论_.md",
     "src/数理逻辑-/预热_.md",
-    "src/数理逻辑-/预热-/证明的必要性.md",
-    "src/数理逻辑-/预热-/关系.md",
-    "src/数理逻辑-/预热-/集合.md",
-    "版本控制.md",
-    "src/集合论-/关系-/n元关系.md",
     "src/集合论-/关系-",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)-",

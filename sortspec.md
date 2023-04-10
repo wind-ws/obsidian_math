@@ -16,10 +16,11 @@ sorting-spec: |
     Idea_
     Idea-
     folder_introductions
+    标签系统
     当前计划
     版本控制
-    历史遗留问题
-    标签系统
+    历史遗留问题与内容污染问题
+    
     
     target-folder: src/...
     符号&记号_
