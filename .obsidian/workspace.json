@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7d307adc3901e2",
+        "id": "469659d102dc3b06",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b6b1179cceb77f",
+            "id": "60c45b0e028a69de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/关系-/等价关系与划分.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ac29ef05a9f76f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/关系-/序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312a2d84e6c66c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/关系-/等价关系.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad3f1159ac86d2b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/关系-/划分.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84a5cb9506807316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/关系-/等价类.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "016411a6653a891d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/集合论-/chaos/商集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ":=",
+                "query": "原描述",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/集合论-/关系-/序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/集合论-/关系-/序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/集合论-/关系-/序.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,7 +168,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/集合论-/关系-/序.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,13 +190,14 @@
                   "repelStrength": 10.9375,
                   "linkStrength": 0.578125,
                   "linkDistance": 270,
-                  "scale": 0.5843581180567492,
+                  "scale": 0.6989606412938202,
                   "close": true
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,45 +216,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4ac29ef05a9f76f2",
+  "active": "60c45b0e028a69de",
   "lastOpenFiles": [
+    "src/抽象代数-/chaos/域.md",
+    "src/数理逻辑-/预热-/结构的例子.md",
+    "src/抽象代数-/chaos/单位元.md",
+    "src/抽象代数-/chaos/模.md",
+    "src/抽象代数-/chaos/格.md",
+    "src/抽象代数-/chaos/原群.md",
+    "src/抽象代数-/chaos/半群.md",
+    "src/抽象代数-/chaos/幺半群.md",
+    "src/抽象代数-/chaos/群.md",
+    "src/抽象代数-/chaos/阿贝尔群(交换群).md",
+    "src/抽象代数-/chaos/环.md",
+    "src/抽象代数-/chaos",
+    "src/抽象代数-/chaos.md",
+    "src/集合论-/集合-/集合的交&并&差.md",
     "src/集合论-/关系-/等价关系与划分.md",
-    "src/集合论-/关系-/序.md",
-    "src/集合论-/关系-/等价关系.md",
-    "src/集合论-/关系-/等价类.md",
-    "src/集合论-/chaos/商集.md",
-    "src/集合论-/关系-/划分.md",
-    "src/集合论-/关系-/二元关系.md",
-    "src/集合论-/关系-/二元关系的性质.md",
-    "src/集合论-/关系-/核关系.md",
-    "历史遗留问题与内容污染问题.md",
-    "sortspec.md",
-    "版本控制.md",
-    "src/集合论-/chaos/幂集.md",
-    "标签系统.md",
-    "README.md",
-    "src/集合论-/表达方式.md",
+    "chaos/chaos_关于集合论或数理逻辑/类.md",
     "src/数理逻辑-/预热-/等价关系与划分.md",
-    "src/术语-/蕴涵.md",
-    "src/数理逻辑-/预热-/函数.md",
-    "src/集合论-/关系-/关系的基本运算.md",
-    "math_study_resource/books.md",
-    "src/概率统计_.md",
+    "src/集合论-/集合-/数的集合.md",
+    "src/集合论-/集合-/真父集(真超集).md",
+    "src/集合论-/集合-/幂集.md",
+    "src/集合论-/关系-/二元关系的性质.md",
+    "README.md",
+    "src/集合论-/关系-/全序关系(线序,线性顺序).md",
+    "src/集合论-/关系-/偏序关系.md",
+    "当前计划.md",
+    "src/集合论-/关系-/等价类.md",
+    "src/集合论-/关系-/二元关系.md",
+    "src/集合论-/映射-",
+    "src/集合论-/集合-",
     "src/概率统计-",
-    "src/集合论-/关系-/关系的定义域&值域&域.md",
     "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
-    "src/术语-/当且仅当.md",
-    "src/集合论_.md",
-    "src/数理逻辑-/预热_.md",
     "src/集合论-/关系-",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)-",
     "附件/[逻辑与形而上学教科书系列] 郝兆宽 - 集合论_ 对无穷概念的探索 (2014, 复旦大学出版社) - libgen.li.pdf",
     "chaos/chaos_关于集合论或数理逻辑",
     "[src/集合论-/chaos",
-    "[src/集合论-",
-    "[src",
-    "src/集合论-/公理化集合论-",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
