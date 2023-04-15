@@ -8,14 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60c45b0e028a69de",
+            "id": "e389bb78d448510c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/极限-/极限基础-/极限运算法则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f898820e0881db0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06a1042964642753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md"
+              }
             }
           },
           {
@@ -168,6 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 930.5
+    "width": 639.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +254,32 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "60c45b0e028a69de",
+  "active": "f898820e0881db0f",
   "lastOpenFiles": [
+    "src/微积分-/极限-/极限基础-/极限运算法则.md",
+    "src/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+    "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/函数-/基本函数-/三角函数_.md",
+    "src/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
+    "src/微积分-/定理&引理&法则&公式&...-/洛必达法则.md",
+    "src/函数-/基本函数-/三角函数-/未命名",
+    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
+    "src/函数-/基本函数-/三角函数-",
+    "附件/Pasted image 20230416003039.png",
+    "src/函数_.md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "sortspec.md",
+    "src/基础数学(高中数学)",
+    "src/函数-/基本函数-/指数函数 & 对数函数.md",
+    "src/微积分-/极限-/极限基础_.md",
+    "src/数理逻辑-/chaos/一些符号.md",
+    "src/集合论-/关系-/二元运算.md",
+    "math_study_resource/books.md",
+    "src/数理逻辑-/命题表达式_.md",
+    "src/数理逻辑-/命题表达式-/逻辑符号.md",
+    "src/数理逻辑-/命题表达式-/命题符号.md",
+    "src/数理逻辑-/命题表达式-",
+    "src/数理逻辑-/chaos",
     "src/抽象代数-/chaos/域.md",
     "src/数理逻辑-/预热-/结构的例子.md",
     "src/抽象代数-/chaos/单位元.md",
@@ -226,35 +288,12 @@
     "src/抽象代数-/chaos/原群.md",
     "src/抽象代数-/chaos/半群.md",
     "src/抽象代数-/chaos/幺半群.md",
-    "src/抽象代数-/chaos/群.md",
-    "src/抽象代数-/chaos/阿贝尔群(交换群).md",
-    "src/抽象代数-/chaos/环.md",
     "src/抽象代数-/chaos",
-    "src/抽象代数-/chaos.md",
-    "src/集合论-/集合-/集合的交&并&差.md",
-    "src/集合论-/关系-/等价关系与划分.md",
-    "chaos/chaos_关于集合论或数理逻辑/类.md",
-    "src/数理逻辑-/预热-/等价关系与划分.md",
-    "src/集合论-/集合-/数的集合.md",
-    "src/集合论-/集合-/真父集(真超集).md",
-    "src/集合论-/集合-/幂集.md",
-    "src/集合论-/关系-/二元关系的性质.md",
-    "README.md",
-    "src/集合论-/关系-/全序关系(线序,线性顺序).md",
-    "src/集合论-/关系-/偏序关系.md",
-    "当前计划.md",
-    "src/集合论-/关系-/等价类.md",
-    "src/集合论-/关系-/二元关系.md",
     "src/集合论-/映射-",
     "src/集合论-/集合-",
     "src/概率统计-",
     "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
-    "src/集合论-/关系-",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
-    "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)-",
-    "附件/[逻辑与形而上学教科书系列] 郝兆宽 - 集合论_ 对无穷概念的探索 (2014, 复旦大学出版社) - libgen.li.pdf",
-    "chaos/chaos_关于集合论或数理逻辑",
-    "[src/集合论-/chaos",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
@@ -265,7 +304,6 @@
     "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
     "未命名.canvas",
     "chaos/chaos_1_.canvas",
-    "old_notion_chaos/2023_3_8迁移notion/术语&符号&概念&公式&…/术语&符号/Untitled/375px-Codomain2.SVG.png",
     "未命名 1.canvas"
   ]
 }
