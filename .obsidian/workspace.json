@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "469659d102dc3b06",
+        "id": "bb92fa072a497927",
         "type": "tabs",
         "children": [
           {
-            "id": "e389bb78d448510c",
+            "id": "d42c2591ecf3940b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/极限-/极限基础-/极限运算法则.md",
+                "file": "src/微积分-/微分方程-/微分方程初步-/一阶线性微分方程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f898820e0881db0f",
+            "id": "15eb01ad7b7da972",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/微积分-/微分方程-/微分方程初步_.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "06a1042964642753",
+            "id": "6e5e94cd7911f712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+                "file": "src/微积分-/微分方程-/1_微分方程基础介绍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e146cf17285560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7fc453f631032d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,6 +126,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d2dcc62d519122e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md"
+                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md"
               }
             }
           },
@@ -204,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,45 +288,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f898820e0881db0f",
+  "active": "f7fc453f631032d4",
   "lastOpenFiles": [
+    "README.md",
+    "Idea_.md",
+    "src/微积分-/微分方程-/1_微分方程基础介绍.md",
+    "src/微积分-/微分方程-/chaos/常微分方程.md",
+    "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
+    "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
+    "src/微积分-/微分方程-/chaos",
+    "src/微积分-/积分-/定积分-/定积分的概念.md",
+    "src/微积分-/微分方程-/微分方程初步_.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
+    "src/微积分-/导数-/导数基础-/可微性,微分.md",
+    "src/微积分-/导数-/导数基础-/符号定义.md",
+    "src/微积分-/导数-/导数基础-/单侧导数.md",
+    "src/微积分-/导数-/导数基础_.md",
+    "src/微积分-/极限-/极限基础-/无穷小.md",
+    "src/微积分-/极限-/极限基础-/邻域.md",
+    "src/微积分-/极限-/极限基础-/连续点&间断点.md",
+    "src/微积分-/极限-/极限基础-/两个重要的极限.md",
     "src/微积分-/极限-/极限基础-/极限运算法则.md",
-    "src/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-    "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/函数-/基本函数-/三角函数_.md",
-    "src/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
-    "src/微积分-/定理&引理&法则&公式&...-/洛必达法则.md",
-    "src/函数-/基本函数-/三角函数-/未命名",
     "src/微积分-/极限-/极限基础-/函数极限的性质.md",
+    "src/微积分-/微分方程-/微分方程初步-/一阶线性微分方程.md",
+    "src/微积分-/极限-/极限基础_.md",
+    "src/微积分-/极限_.md",
+    "src/微积分-/导数_.md",
+    "src/微积分-/sortspec.md",
+    "sortspec.md",
+    "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/函数-/基本函数-/三角函数-/未命名",
     "src/函数-/基本函数-/三角函数-",
     "附件/Pasted image 20230416003039.png",
-    "src/函数_.md",
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "sortspec.md",
     "src/基础数学(高中数学)",
-    "src/函数-/基本函数-/指数函数 & 对数函数.md",
-    "src/微积分-/极限-/极限基础_.md",
-    "src/数理逻辑-/chaos/一些符号.md",
-    "src/集合论-/关系-/二元运算.md",
-    "math_study_resource/books.md",
-    "src/数理逻辑-/命题表达式_.md",
-    "src/数理逻辑-/命题表达式-/逻辑符号.md",
-    "src/数理逻辑-/命题表达式-/命题符号.md",
     "src/数理逻辑-/命题表达式-",
     "src/数理逻辑-/chaos",
-    "src/抽象代数-/chaos/域.md",
-    "src/数理逻辑-/预热-/结构的例子.md",
-    "src/抽象代数-/chaos/单位元.md",
-    "src/抽象代数-/chaos/模.md",
-    "src/抽象代数-/chaos/格.md",
-    "src/抽象代数-/chaos/原群.md",
-    "src/抽象代数-/chaos/半群.md",
-    "src/抽象代数-/chaos/幺半群.md",
     "src/抽象代数-/chaos",
     "src/集合论-/映射-",
     "src/集合论-/集合-",
     "src/概率统计-",
-    "附件/数学分析新讲(1) (张筑生) (Z-Library).pdf",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
