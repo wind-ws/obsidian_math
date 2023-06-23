@@ -9,12 +9,15 @@
   "obsidian-style-settings",
   "obsidian-contextual-typography",
   "obsidian-hider",
-  "calendar",
   "custom-sort",
   "multi-column-markdown",
   "obsidian-latex-suite",
   "obsidian-auto-link-title",
   "obsidian-text-format",
   "obsidian-regex-replace",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "cycle-through-panes",
+  "obsidian-kanban",
+  "dbfolder",
+  "dataview"
 ]

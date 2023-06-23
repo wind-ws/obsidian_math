@@ -16,8 +16,11 @@ sorting-spec: |
     Idea_
     Idea-
     folder_introductions
+    笔记规范_
+    笔记规范-
     标签系统
-    当前计划
+    当前计划_
+    当前计划-
     版本控制
     历史遗留问题与内容污染问题
     

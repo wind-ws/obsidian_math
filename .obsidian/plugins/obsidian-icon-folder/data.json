@@ -16,7 +16,8 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
   "chaos": "RiTyphoon-line"
 }

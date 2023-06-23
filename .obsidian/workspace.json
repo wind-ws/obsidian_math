@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bb92fa072a497927",
+        "id": "d0bb5a6b63667cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "d42c2591ecf3940b",
+            "id": "3861cd15aac543d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/微分方程-/微分方程初步-/一阶线性微分方程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15eb01ad7b7da972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/微分方程-/微分方程初步_.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e5e94cd7911f712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/微分方程-/1_微分方程基础介绍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2e146cf17285560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7fc453f631032d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
+                "file": "版本控制.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,10 +44,10 @@
             }
           },
           {
-            "id": "a8c45b65a2cfc062",
+            "id": "d2dcc62d519122e5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "bookmarks",
               "state": {}
             }
           },
@@ -110,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "原描述",
+                "query": "tag:#_80_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,28 +65,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8f42cb5075f9cc94",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2dcc62d519122e5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 390.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -156,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
+                "file": "版本控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
+                "file": "版本控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,16 +116,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md"
+                "file": "版本控制.md"
               }
-            }
-          },
-          {
-            "id": "97f44c6d4ce34a07",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -214,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -238,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
+                "file": "版本控制.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,56 +200,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "canvas:新建白板": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "workspaces:管理工作区布局": false,
+      "dbfolder:创建一个新数据库表": true
     }
   },
-  "active": "f7fc453f631032d4",
+  "active": "3861cd15aac543d3",
   "lastOpenFiles": [
-    "README.md",
-    "Idea_.md",
-    "src/微积分-/微分方程-/1_微分方程基础介绍.md",
-    "src/微积分-/微分方程-/chaos/常微分方程.md",
-    "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
-    "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
+    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
+    "当前计划-/学习计划-/数理逻辑_.md",
+    "当前计划-/学习计划_.md",
+    "当前计划-/学习计划-/数理逻辑-",
+    "笔记规范-/插件使用规范-/Admonition.md",
+    "chaos/chaos_1_.canvas",
+    "笔记规范-/形式化格式意义.md",
+    "chaos/big_chaos_table_.md",
+    "chaos/big_chaos_table-/Untitled database.md",
+    "chaos/big_chaos_table-/未命名.md",
+    "当前计划-/笔记结构调整计划.md",
+    "未命名.canvas",
+    "src/符号&记号_.md",
+    "src/符号&记号-/≡(恒等于).md",
+    "src/符号&记号-/圆周率.md",
+    "src/符号&记号-/逻辑运算符(¬ ∧∨→).md",
+    "src/符号&记号-/分数.md",
+    "src/符号&记号-/空集.md",
+    "src/符号&记号-/补集.md",
+    "src/符号&记号-/二项式系数.md",
+    "src/符号&记号-/∫ (定积分&不定积分).md",
+    "src/符号&记号-/∪(并集,联集)&∩(交集).md",
+    "src/符号&记号-/∑ (求和).md",
+    "src/符号&记号-/∏ (求积).md",
+    "src/符号&记号-/∇(梯度).md",
+    "笔记规范-/形式化格式规范.md",
+    "src/术语_.md",
+    "src/符号&记号-/° (度数).md",
+    "src/符号&记号-/consensus_元素&集合.md",
+    "当前计划-/学习计划-",
+    "当前计划-",
+    "笔记规范-/插件使用规范-",
+    "笔记规范-",
+    "Idea-/未命名.mdx",
     "src/微积分-/微分方程-/chaos",
-    "src/微积分-/积分-/定积分-/定积分的概念.md",
-    "src/微积分-/微分方程-/微分方程初步_.md",
-    "src/微积分-/导数-/导数基础-/导数定义.md",
-    "src/微积分-/导数-/导数基础-/可微性,微分.md",
-    "src/微积分-/导数-/导数基础-/符号定义.md",
-    "src/微积分-/导数-/导数基础-/单侧导数.md",
-    "src/微积分-/导数-/导数基础_.md",
-    "src/微积分-/极限-/极限基础-/无穷小.md",
-    "src/微积分-/极限-/极限基础-/邻域.md",
-    "src/微积分-/极限-/极限基础-/连续点&间断点.md",
-    "src/微积分-/极限-/极限基础-/两个重要的极限.md",
-    "src/微积分-/极限-/极限基础-/极限运算法则.md",
-    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
-    "src/微积分-/微分方程-/微分方程初步-/一阶线性微分方程.md",
-    "src/微积分-/极限-/极限基础_.md",
-    "src/微积分-/极限_.md",
-    "src/微积分-/导数_.md",
-    "src/微积分-/sortspec.md",
-    "sortspec.md",
-    "src/函数-/基本函数-/三角函数-/三角函数_公式.md",
     "src/函数-/基本函数-/三角函数-/未命名",
     "src/函数-/基本函数-/三角函数-",
     "附件/Pasted image 20230416003039.png",
     "src/基础数学(高中数学)",
-    "src/数理逻辑-/命题表达式-",
-    "src/数理逻辑-/chaos",
-    "src/抽象代数-/chaos",
-    "src/集合论-/映射-",
-    "src/集合论-/集合-",
-    "src/概率统计-",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
@@ -336,8 +262,6 @@
     "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
     "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",
     "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
-    "未命名.canvas",
-    "chaos/chaos_1_.canvas",
     "未命名 1.canvas"
   ]
 }

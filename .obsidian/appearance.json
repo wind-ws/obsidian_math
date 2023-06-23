@@ -1,13 +1,12 @@
 {
   "accentColor": "",
-  "baseFontSize": 22,
+  "baseFontSize": 24,
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "showViewHeader": true,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "文件分界线",
-    "custom-admonitions.2c47eb",
     "big-math"
   ]
 }
