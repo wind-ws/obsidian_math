@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d0bb5a6b63667cf8",
+        "id": "c3c4a37946d81db6",
         "type": "tabs",
         "children": [
           {
-            "id": "3861cd15aac543d3",
+            "id": "c8a04e5e394e7c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/术语-/-数理逻辑/命题变量(命题变元、句子变量).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5052e6f587090e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8847afaff0ce62f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/数理逻辑-/命题-/命题符号.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#_80_",
+                "query": "tag:#term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,9 +162,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a4d2fc0519e1af65",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -195,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 639.5,
-    "collapsed": true
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,50 +245,51 @@
       "templater-obsidian:Templater": false,
       "custom-sort:Toggle custom sorting": false,
       "workspaces:管理工作区布局": false,
-      "dbfolder:创建一个新数据库表": true
+      "dbfolder:创建一个新数据库表": true,
+      "notion-like-tables:Create Notion-Like table": true
     }
   },
-  "active": "3861cd15aac543d3",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
     "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "当前计划-/学习计划-/数理逻辑_.md",
-    "当前计划-/学习计划_.md",
-    "当前计划-/学习计划-/数理逻辑-",
-    "笔记规范-/插件使用规范-/Admonition.md",
-    "chaos/chaos_1_.canvas",
-    "笔记规范-/形式化格式意义.md",
-    "chaos/big_chaos_table_.md",
-    "chaos/big_chaos_table-/Untitled database.md",
-    "chaos/big_chaos_table-/未命名.md",
-    "当前计划-/笔记结构调整计划.md",
-    "未命名.canvas",
-    "src/符号&记号_.md",
-    "src/符号&记号-/≡(恒等于).md",
-    "src/符号&记号-/圆周率.md",
+    "src/术语-/chaos/子序列.md",
+    "src/术语-/-数理逻辑/真值函数.md",
+    "src/术语-/chaos",
+    "src/数理逻辑_.md",
     "src/符号&记号-/逻辑运算符(¬ ∧∨→).md",
-    "src/符号&记号-/分数.md",
-    "src/符号&记号-/空集.md",
-    "src/符号&记号-/补集.md",
-    "src/符号&记号-/二项式系数.md",
-    "src/符号&记号-/∫ (定积分&不定积分).md",
-    "src/符号&记号-/∪(并集,联集)&∩(交集).md",
-    "src/符号&记号-/∑ (求和).md",
-    "src/符号&记号-/∏ (求积).md",
-    "src/符号&记号-/∇(梯度).md",
-    "笔记规范-/形式化格式规范.md",
+    "src/术语-/-数理逻辑/命题变量(命题变元、句子变量).md",
+    "src/数理逻辑-/命题-/命题符号.md",
+    "src/数理逻辑-/命题-/逻辑符号.md",
+    "src/术语-/chaos/常量函数.md",
+    "src/数理逻辑-/命题-/命题逻辑_.md",
+    "src/数理逻辑-/命题_.md",
+    "src/数理逻辑-/命题表达式-/未命名",
+    "当前计划-/笔记结构调整计划.md",
+    "笔记规范-/插件使用规范-/Kanban.md",
+    "chaos/chaos_1-/非规范小数.md",
+    "src/符号&记号_.md",
+    "src/符号&记号-/(包含).md",
+    "src/数理逻辑-/预热_.md",
+    "笔记规范_.md",
+    "笔记规范-/文件夹结构&文件位置 规范.md",
+    "chaos/chaos_1_.canvas",
     "src/术语_.md",
-    "src/符号&记号-/° (度数).md",
-    "src/符号&记号-/consensus_元素&集合.md",
+    "sortspec.md",
+    "当前计划_.md",
+    "Idea-/Untitled.table",
+    "笔记规范-/插件使用规范-/Columns.md",
+    "笔记规范-/插件使用规范_.md",
+    "笔记规范-/插件使用规范-/Admonition.md",
+    "Idea_.md",
+    "当前计划-/学习计划-/数理逻辑-",
+    "未命名.canvas",
     "当前计划-/学习计划-",
     "当前计划-",
     "笔记规范-/插件使用规范-",
     "笔记规范-",
     "Idea-/未命名.mdx",
     "src/微积分-/微分方程-/chaos",
-    "src/函数-/基本函数-/三角函数-/未命名",
-    "src/函数-/基本函数-/三角函数-",
     "附件/Pasted image 20230416003039.png",
-    "src/基础数学(高中数学)",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",

@@ -1,0 +1,16 @@
+kanban
+plugin
+basic
+br
+Waiting
+Watching
+In
+Progress
+Done
+settings
+symbol
+chaos
+column
+end
+term
+reference

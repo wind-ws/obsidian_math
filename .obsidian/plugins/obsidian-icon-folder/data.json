@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔹",
       "RiTyphoon-line",
       "😍"
     ],
@@ -19,5 +20,5 @@
     },
     "iconInTabsEnabled": false
   },
-  "chaos": "RiTyphoon-line"
+  "chaos": "🔹"
 }

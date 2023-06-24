@@ -6,16 +6,7 @@ sorting-spec: |
     target-folder: /
     chaos
     src
-    math_study_resource
-    old_notion_chaos
     %
-    sortspec
-    附件
-    templates
-    README
-    Idea_
-    Idea-
-    folder_introductions
     笔记规范_
     笔记规范-
     标签系统
@@ -23,6 +14,14 @@ sorting-spec: |
     当前计划-
     版本控制
     历史遗留问题与内容污染问题
+    README
+    Idea_
+    Idea-
+    math_study_resource
+    folder_introductions
+    sortspec
+    附件
+    templates
     
     
     target-folder: src/...

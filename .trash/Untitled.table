@@ -1,0 +1,148 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "280px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "580a0b22-9862-486e-910e-9688f0d297f2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "294px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "119abbfe-0f34-4771-9174-52dff85e05f9"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "38746d68-fbfb-47d3-aa5c-40f47ec1df5d",
+        "index": 0,
+        "creationTime": 1687593580935,
+        "lastEditedTime": 1687593616358
+      },
+      {
+        "id": "8ef7437f-8f6a-4295-b6d3-22c58a89c801",
+        "index": 1,
+        "creationTime": 1687593743007,
+        "lastEditedTime": 1687593743007
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "d3df71b6-3fc4-43b4-8a85-80a5d9944221"
+      },
+      {
+        "id": "7e6c17ff-e645-4075-b110-42f46c231fbd"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "3e411c28-689e-4ed0-9c55-a3ad9cfb06eb",
+        "columnId": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "rowId": "119abbfe-0f34-4771-9174-52dff85e05f9",
+        "markdown": "New Column"
+      },
+      {
+        "id": "f99ccdfe-b18a-4183-a853-7b8ace962a8e",
+        "columnId": "580a0b22-9862-486e-910e-9688f0d297f2",
+        "rowId": "119abbfe-0f34-4771-9174-52dff85e05f9",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "a91ed67a-6eb6-43e5-990f-1c339717f2a7",
+        "isExternalLink": false,
+        "columnId": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "rowId": "38746d68-fbfb-47d3-aa5c-40f47ec1df5d",
+        "dateTime": null,
+        "markdown": ">[!note]",
+        "tagIds": []
+      },
+      {
+        "id": "7dba0742-0956-42c7-acc6-1cb9a0a433e2",
+        "isExternalLink": false,
+        "columnId": "580a0b22-9862-486e-910e-9688f0d297f2",
+        "rowId": "38746d68-fbfb-47d3-aa5c-40f47ec1df5d",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "eb08f952-d09b-4ef6-9515-9a4ce8acf064",
+        "isExternalLink": false,
+        "columnId": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "rowId": "8ef7437f-8f6a-4295-b6d3-22c58a89c801",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e6ad009f-7349-4600-b5ad-8de2c1fd2ad3",
+        "isExternalLink": false,
+        "columnId": "580a0b22-9862-486e-910e-9688f0d297f2",
+        "rowId": "8ef7437f-8f6a-4295-b6d3-22c58a89c801",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "aabbf553-3dea-4902-9280-3470d8d2081c",
+        "columnId": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "rowId": "d3df71b6-3fc4-43b4-8a85-80a5d9944221"
+      },
+      {
+        "id": "df7b86bd-5258-4369-9364-8bc449b5859b",
+        "columnId": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "rowId": "7e6c17ff-e645-4075-b110-42f46c231fbd"
+      },
+      {
+        "id": "21b56e44-4612-45c4-bb45-cf6034f0ad47",
+        "columnId": "580a0b22-9862-486e-910e-9688f0d297f2",
+        "rowId": "d3df71b6-3fc4-43b4-8a85-80a5d9944221"
+      },
+      {
+        "id": "3cde2771-5b3c-40ed-beff-8a80907b5975",
+        "columnId": "580a0b22-9862-486e-910e-9688f0d297f2",
+        "rowId": "7e6c17ff-e645-4075-b110-42f46c231fbd"
+      }
+    ],
+    "filterRules": [
+      {
+        "id": "9bd5441f-1cf3-4a2a-b8ee-7dab1e5f6778",
+        "columnId": "07c2ba73-e3fc-4b96-a0a0-c77b45bfedd0",
+        "type": "is",
+        "text": "",
+        "tagIds": [],
+        "isEnabled": true
+      }
+    ]
+  },
+  "pluginVersion": "6.19.0"
+}

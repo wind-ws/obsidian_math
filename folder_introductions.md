@@ -7,5 +7,20 @@
 
 
 
+Text displayed above.
+
+```start-multi-column  
+ID: ExampleRegion1  
+number of columns: 2  
+largest column: right
+```
+
+![[附件/Sin.svg.png|300]]
+
+--- end-column ---
+
+Text displayed in column 2.
+
+--- end-multi-column
 
 
