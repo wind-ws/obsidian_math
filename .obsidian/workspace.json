@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8a04e5e394e7c26",
+            "id": "f44c4ad667ed08c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/术语-/-数理逻辑/命题变量(命题变元、句子变量).md",
+                "file": "src/数理逻辑-/chaos/谓词演算形式系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5052e6f587090e63",
+            "id": "baeea8f9c99b9cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/数理逻辑-/chaos/真值方程组.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,19 @@
             }
           },
           {
-            "id": "8847afaff0ce62f8",
+            "id": "3d04a6d7e74bdac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/数理逻辑-/命题-/命题符号.md",
+                "file": "src/数理逻辑-/chaos/命题演算形式系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "版本控制.md"
+                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "版本控制.md",
+                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,44 +250,44 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "src/数理逻辑-/chaos/谓词演算形式系统.md",
+    "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
     "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "src/术语-/chaos/子序列.md",
-    "src/术语-/-数理逻辑/真值函数.md",
-    "src/术语-/chaos",
-    "src/数理逻辑_.md",
+    "src/数理逻辑-/chaos/命题演算形式系统.md",
+    "src/数理逻辑-/-术语/原子公式(原子命题).md",
+    "src/数理逻辑-/-术语/命题变量(命题变元、句子变量).md",
+    "src/数理逻辑-/chaos/命题连接词的完全组.md",
     "src/符号&记号-/逻辑运算符(¬ ∧∨→).md",
-    "src/术语-/-数理逻辑/命题变量(命题变元、句子变量).md",
-    "src/数理逻辑-/命题-/命题符号.md",
-    "src/数理逻辑-/命题-/逻辑符号.md",
-    "src/术语-/chaos/常量函数.md",
-    "src/数理逻辑-/命题-/命题逻辑_.md",
-    "src/数理逻辑-/命题_.md",
-    "src/数理逻辑-/命题表达式-/未命名",
-    "当前计划-/笔记结构调整计划.md",
-    "笔记规范-/插件使用规范-/Kanban.md",
-    "chaos/chaos_1-/非规范小数.md",
-    "src/符号&记号_.md",
-    "src/符号&记号-/(包含).md",
+    "src/数理逻辑-/chaos/真值方程组.md",
     "src/数理逻辑-/预热_.md",
-    "笔记规范_.md",
-    "笔记规范-/文件夹结构&文件位置 规范.md",
-    "chaos/chaos_1_.canvas",
+    "src/数理逻辑-/一阶逻辑_.md",
+    "src/数理逻辑-/预热-/证明的必要性.md",
+    "src/数理逻辑-/命题_.md",
+    "src/数理逻辑_.md",
+    "src/数理逻辑-/命题-/命题逻辑_.md",
+    "src/数理逻辑-/命题-/命题符号.md",
+    "src/数理逻辑-/-术语/悖论.md",
+    "chaos/术语/当且仅当.md",
+    "src/数理逻辑-/公理体系/NBG公理",
+    "src/数理逻辑-/公理体系/ZFC公理",
+    "src/数理逻辑-/公理体系",
+    "src/符号&记号-/!参考.md",
+    "Untitled.table",
+    "当前计划-/笔记结构调整计划.md",
+    "chaos/术语/常量函数.md",
     "src/术语_.md",
-    "sortspec.md",
-    "当前计划_.md",
+    "chaos/术语",
+    "src/微积分-/-术语/鞍点.md",
+    "src/微积分-/-术语",
+    "src/数理逻辑-/-术语",
+    "src/数理逻辑-/-术语/恒真式(重言式).md",
+    "src/基础数学(高中数学)/常用公式.md",
+    "版本控制.md",
+    "src/术语-/chaos",
+    "src/数理逻辑-/命题表达式-/未命名",
+    "chaos/chaos_1_.canvas",
     "Idea-/Untitled.table",
-    "笔记规范-/插件使用规范-/Columns.md",
-    "笔记规范-/插件使用规范_.md",
-    "笔记规范-/插件使用规范-/Admonition.md",
-    "Idea_.md",
-    "当前计划-/学习计划-/数理逻辑-",
     "未命名.canvas",
-    "当前计划-/学习计划-",
-    "当前计划-",
-    "笔记规范-/插件使用规范-",
-    "笔记规范-",
-    "Idea-/未命名.mdx",
-    "src/微积分-/微分方程-/chaos",
     "附件/Pasted image 20230416003039.png",
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
