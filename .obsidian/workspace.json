@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c4a37946d81db6",
+        "id": "794829cd170ff60f",
         "type": "tabs",
         "children": [
           {
-            "id": "f44c4ad667ed08c6",
+            "id": "9ad7ba0e1e039763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/数理逻辑-/chaos/谓词演算形式系统.md",
+                "file": "src/微积分-/极限-/极限基础-/单侧极限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "baeea8f9c99b9cce",
+            "id": "5040ce2554b1e775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/数理逻辑-/chaos/真值方程组.md",
+                "file": "src/微积分-/极限-/极限基础-/极限的定义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,19 +34,59 @@
             }
           },
           {
-            "id": "3d04a6d7e74bdac8",
+            "id": "0050f0b1e59bf91b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/数理逻辑-/chaos/命题演算形式系统.md",
+                "file": "src/微积分-/极限-/极限基础-/极限的存在准则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62ce041c1d1a5639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/聚点.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3b772b16a4aa337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/聚点.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00e3ad81255f7dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/极限-/极限基础-/极限值与无穷小之间的关系.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#term",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
+                "file": "src/微积分-/-术语/子列.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
+                "file": "src/微积分-/-术语/子列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md"
+                "file": "src/微积分-/-术语/子列.md"
               }
             }
           },
@@ -197,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
+                "file": "src/微积分-/-术语/子列.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +260,7 @@
                   "repelStrength": 10.9375,
                   "linkStrength": 0.578125,
                   "linkDistance": 270,
-                  "scale": 0.6989606412938202,
+                  "scale": 0.6989606412938201,
                   "close": true
                 }
               }
@@ -250,43 +290,43 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/数理逻辑-/chaos/谓词演算形式系统.md",
-    "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
-    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "src/数理逻辑-/chaos/命题演算形式系统.md",
-    "src/数理逻辑-/-术语/原子公式(原子命题).md",
-    "src/数理逻辑-/-术语/命题变量(命题变元、句子变量).md",
-    "src/数理逻辑-/chaos/命题连接词的完全组.md",
-    "src/符号&记号-/逻辑运算符(¬ ∧∨→).md",
-    "src/数理逻辑-/chaos/真值方程组.md",
-    "src/数理逻辑-/预热_.md",
-    "src/数理逻辑-/一阶逻辑_.md",
-    "src/数理逻辑-/预热-/证明的必要性.md",
-    "src/数理逻辑-/命题_.md",
-    "src/数理逻辑_.md",
-    "src/数理逻辑-/命题-/命题逻辑_.md",
-    "src/数理逻辑-/命题-/命题符号.md",
-    "src/数理逻辑-/-术语/悖论.md",
-    "chaos/术语/当且仅当.md",
+    "src/微积分-/-术语/聚点.md",
+    "src/微积分-/极限-/数列极限-/收敛数列的性质.md",
+    "src/微积分-/-术语/子列.md",
+    "src/微积分-/-术语/邻域.md",
+    "src/微积分-/极限-/极限基础-/极限的存在准则.md",
+    "src/微积分-/定理&引理&法则&公式&...-/夹逼定理.md",
+    "src/微积分-/定理&引理&法则&公式&...-/单调有界定理.md",
+    "src/微积分-/极限-/极限基础-/极限值与无穷小之间的关系.md",
+    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
+    "src/微积分-/极限-/极限基础-/无穷小.md",
+    "src/基础数学(高中数学)/函数-/取整函数.md",
+    "src/基础数学(高中数学)/函数-/同一函数.md",
+    "src/微积分-/极限-/极限基础-/未命名",
+    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
+    "src/微积分-/极限-/极限基础-/单侧极限.md",
+    "src/微积分-/极限-/极限的定理们.md",
+    "src/微积分-/极限-/极限基础-/极限运算法则.md",
+    "src/微积分-/极限-/极限基础-/连续点&间断点.md",
+    "src/微积分-/极限-/极限基础-/两个重要的极限.md",
+    "src/微积分-/极限-/极限基础-/极限的定义.md",
+    "chaos/chaos_1-/未整理.md",
+    "chaos/chaos_1-/充分&必要&充分必要条件.md",
+    "chaos/chaos_1-/上界, 下界, 有界集.md",
+    "src/微积分-/极限-/数列极限与函数极限.md",
+    "src/微积分-/极限-/数列极限_.md",
+    "src/微积分-/极限_.md",
+    "src/基础数学(高中数学)/函数-/函数性质.md",
     "src/数理逻辑-/公理体系/NBG公理",
     "src/数理逻辑-/公理体系/ZFC公理",
     "src/数理逻辑-/公理体系",
-    "src/符号&记号-/!参考.md",
     "Untitled.table",
-    "当前计划-/笔记结构调整计划.md",
-    "chaos/术语/常量函数.md",
-    "src/术语_.md",
     "chaos/术语",
-    "src/微积分-/-术语/鞍点.md",
     "src/微积分-/-术语",
     "src/数理逻辑-/-术语",
-    "src/数理逻辑-/-术语/恒真式(重言式).md",
-    "src/基础数学(高中数学)/常用公式.md",
-    "版本控制.md",
     "src/术语-/chaos",
     "src/数理逻辑-/命题表达式-/未命名",
     "chaos/chaos_1_.canvas",
-    "Idea-/Untitled.table",
     "未命名.canvas",
     "附件/Pasted image 20230416003039.png",
     "附件/330px-Cartesian_Product_qtl1.svg.png",

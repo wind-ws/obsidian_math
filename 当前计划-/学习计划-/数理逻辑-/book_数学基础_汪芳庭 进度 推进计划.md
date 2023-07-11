@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] 第二章: 逻辑准备 @{2023-06-23} #_80_
+- [ ] 第二章: 逻辑准备 <br>stop:P59<br>@{2023-06-23} #_80_
 
 
 ## Waiting
