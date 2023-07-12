@@ -56,4 +56,5 @@ database
 Vxp
 Vxvy
 xp
+xo
 Monotone
