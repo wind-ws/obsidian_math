@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "783b0304c453b3eb",
+        "id": "340a465ad20734de",
         "type": "tabs",
         "children": [
           {
-            "id": "344b3417ac01af03",
+            "id": "8573afac4e27be54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/极限-/连续性/连续点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4604e27d11ddf5ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/极限-/连续性/间断点.md",
+                "file": "src/符号&记号-/二项式系数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "二项",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md"
+              }
             }
           },
           {
@@ -181,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,33 +224,33 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/极限-/连续性/间断点.md",
-    "src/微积分-/极限-/连续性/连续点&间断点.md",
-    "src/微积分-/极限-/连续性/连续点.md",
-    "src/微积分-/极限-/-技巧/利用 定积分 求极限.md",
-    "src/微积分-/极限-/-技巧/利用 夹逼定理 求极限.md",
-    "src/微积分-/极限-/-技巧/利用 泰勒公式 求极限.md",
-    "src/微积分-/定理&引理&法则&公式&...-/泰勒公式.md",
-    "src/微积分-/极限-/-技巧/利用 洛必达法则 求极限.md",
-    "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
-    "src/微积分-/定理&引理&法则&公式&...-/洛必达法则.md",
-    "src/微积分-/极限-/-技巧/利用 有理运算法则 求极限.md",
-    "src/微积分-/极限-/极限基础-/极限运算法则.md",
-    "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
-    "src/微积分-/极限-/无穷小/无穷小.md",
-    "src/微积分-/极限-/无穷大/无穷大与无穷小的关系.md",
+    "src/符号&记号-/二项式系数.md",
+    "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+    "src/微积分-/导数-/高阶导数.md",
+    "src/微积分-/导数-/导数基础_.md",
+    "src/微积分-/导数-/函数的凹凸性和拐点.md",
+    "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
+    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/导数-/求导法则_.md",
+    "src/微积分-/导数-/导数基础-/微分.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
+    "src/微积分-/导数-/导数基础-/可微性,微分.md",
+    "src/微积分-/导数-/导数基础-/导数与微分的区别.md",
+    "src/微积分-/导数-/导数基础-/符号定义.md",
+    "src/微积分-/导数-/导数基础-/单侧导数.md",
+    "chaos/chaos_1-/部分分式分解.md",
+    "chaos/chaos_1-/两点连线的方程.md",
+    "chaos/chaos_1-/皮亚诺公理.md",
+    "src/微积分-/导数_.md",
+    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
+    "src/微积分-/定理&引理&法则&公式&..._.md",
+    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/柯西中值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/单调有界定理.md",
+    "chaos/chaos_1-/未整理.md",
+    "src/微积分-/极限-/连续性/连续性的性质.md",
     "src/微积分-/极限-/-技巧",
-    "学习数学的提醒.md",
-    "src/微积分-/极限-/无穷小/无穷小的性质.md",
-    "src/符号&记号-/分数.md",
-    "src/运算法则-/幂(指数)运算法则.md",
-    "src/运算法则-/分数 运算法则.md",
-    "src/微积分-/极限-/无穷大/无穷大量与无界变量.md",
-    "src/微积分-/极限-/无穷大/无穷大的性质.md",
-    "src/微积分-/极限-/无穷大/无穷大比较.md",
-    "src/微积分-/极限-/无穷大/无穷大.md",
-    "src/微积分-/极限-/无穷小/极限值与无穷小之间的关系.md",
-    "src/微积分-/微分方程-/1_微分方程基础介绍.md",
     "src/微积分-/极限-/无穷大",
     "src/微积分-/极限-/连续性",
     "src/微积分-/极限-/无穷小",
