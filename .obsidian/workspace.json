@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8573afac4e27be54",
+            "id": "1d3df295a132fe9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/符号&记号-/二项式系数.md",
+                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3e62d83c2f37d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/最大值&最小值.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "二项",
+                "query": "I^0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-术语/最大值&最小值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-术语/最大值&最小值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md"
+                "file": "src/微积分-/-术语/最大值&最小值.md"
               }
             }
           },
@@ -147,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -171,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-术语/最大值&最小值.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,42 +238,45 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/符号&记号-/二项式系数.md",
-    "src/微积分-/导数-/求导法则-/高阶导数公式.md",
-    "src/微积分-/导数-/高阶导数.md",
-    "src/微积分-/导数-/导数基础_.md",
-    "src/微积分-/导数-/函数的凹凸性和拐点.md",
+    "src/微积分-/-术语/极值.md",
+    "src/微积分-/-术语/最大值&最小值.md",
     "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
-    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
+    "src/基础数学(高中数学)/函数-/函数性质/凹凸性.md",
+    "src/基础数学(高中数学)/函数-/函数性质.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/微积分-/导数-/函数的凹凸性和拐点.md",
+    "src/基础数学(高中数学)/函数-/函数性质/有界性.md",
+    "src/基础数学(高中数学)/函数-/函数性质/单调性.md",
+    "src/基础数学(高中数学)/函数-/函数性质/奇偶性.md",
+    "src/基础数学(高中数学)/函数-/函数性质/周期性.md",
+    "src/基础数学(高中数学)/函数-/函数性质",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/导数-/求导法则_.md",
-    "src/微积分-/导数-/导数基础-/微分.md",
-    "src/微积分-/导数-/导数基础-/导数定义.md",
-    "src/微积分-/导数-/导数基础-/可微性,微分.md",
-    "src/微积分-/导数-/导数基础-/导数与微分的区别.md",
-    "src/微积分-/导数-/导数基础-/符号定义.md",
-    "src/微积分-/导数-/导数基础-/单侧导数.md",
-    "chaos/chaos_1-/部分分式分解.md",
-    "chaos/chaos_1-/两点连线的方程.md",
-    "chaos/chaos_1-/皮亚诺公理.md",
-    "src/微积分-/导数_.md",
-    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "src/微积分-/定理&引理&法则&公式&..._.md",
-    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
+    "src/微积分-/导数-/chaos/关于 单调性.md",
+    "chaos/术语/内点.md",
+    "src/微积分-/导数-/chaos/关于 极值.md",
+    "标签系统.md",
+    "src/数理逻辑-/chaos/命题演算形式系统.md",
+    "src/微积分-/-术语/极值/极值的必要条件.md",
+    "src/微积分-/-术语/极值/极值的第二充分条件.md",
+    "src/微积分-/-术语/极值/未命名",
+    "src/微积分-/-术语/极值/极值的第一充分条件.md",
+    "src/微积分-/-术语/极值",
+    "src/微积分-/-术语/驻点(稳定点).md",
+    "src/微积分-/导数-/chaos",
     "src/微积分-/-定理&引理&法则&公式&...-/柯西中值定理.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/单调有界定理.md",
-    "chaos/chaos_1-/未整理.md",
-    "src/微积分-/极限-/连续性/连续性的性质.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/拉格朗日中值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/费马引理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/罗尔定理.md",
+    "附件/Pasted image 20230715153553.png",
+    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
+    "附件/Pasted image 20230715142155.png",
+    "附件/Pasted image 20230715142120.png",
     "src/微积分-/极限-/-技巧",
     "src/微积分-/极限-/无穷大",
     "src/微积分-/极限-/连续性",
     "src/微积分-/极限-/无穷小",
     "src/微积分-/极限-/极限基础-/未命名",
     "src/数理逻辑-/公理体系/NBG公理",
-    "src/数理逻辑-/公理体系/ZFC公理",
-    "src/数理逻辑-/公理体系",
-    "Untitled.table",
-    "chaos/术语",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "附件/Pasted image 20230416003039.png",
@@ -269,9 +286,6 @@
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
     "附件/Screenshot_20230316_215142.png",
     "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
-    "附件/v2-1c30b1e760b346e1bd43a751d897c4eb_720w.webp",
-    "附件/v2-4a53c5ad5def5cc5ae8865269224983b_720w.webp",
-    "附件/v2-71f67f3cec16368723643c71d662f603_720w.jpg",
     "未命名 1.canvas"
   ]
 }
