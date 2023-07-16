@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "a3e62d83c2f37d8a",
+            "id": "f9877430f7ac58ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/-术语/最大值&最小值.md",
+                "file": "src/微积分-/-术语/渐近线/渐近线.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85843c9fb6ff9b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/渐近线/水平渐近线.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b115f6bd50a42b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/渐近线/铅直渐近线.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "404d6ffff33be4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/曲率.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/-术语/最大值&最小值.md",
+                "file": "src/微积分-/-术语/曲率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/-术语/最大值&最小值.md",
+                "file": "src/微积分-/-术语/曲率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/-术语/最大值&最小值.md"
+                "file": "src/微积分-/-术语/曲率.md"
               }
             }
           },
@@ -185,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/-术语/最大值&最小值.md",
+                "file": "src/微积分-/-术语/曲率.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,45 +277,45 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/-术语/极值.md",
-    "src/微积分-/-术语/最大值&最小值.md",
-    "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
+    "src/微积分-/-术语/弧微分.md",
+    "src/微积分-/-术语/曲率.md",
+    "src/微积分-/-术语/渐近线/斜渐近线.md",
+    "src/微积分-/-术语/渐近线/铅直渐近线.md",
+    "src/微积分-/-术语/渐近线/水平渐近线.md",
+    "src/微积分-/-术语/渐近线/渐近线.md",
+    "src/微积分-/导数-/函数的凹凸性和拐点.md",
+    "src/微积分-/-术语/渐近线",
+    "src/微积分-/-术语/拐点/拐点的第二充分条件.md",
+    "src/微积分-/-术语/拐点/拐点的第一充分条件.md",
+    "src/微积分-/-术语/拐点/拐点的必要条件.md",
+    "src/微积分-/-术语/拐点",
     "src/基础数学(高中数学)/函数-/函数性质/凹凸性.md",
+    "src/微积分-/-术语/拐点.md",
+    "src/微积分-/-术语/最值.md",
+    "src/微积分-/-术语/极值.md",
+    "src/微积分-/-术语/驻点(稳定点).md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
     "src/基础数学(高中数学)/函数-/函数性质.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/微积分-/导数-/函数的凹凸性和拐点.md",
     "src/基础数学(高中数学)/函数-/函数性质/有界性.md",
     "src/基础数学(高中数学)/函数-/函数性质/单调性.md",
     "src/基础数学(高中数学)/函数-/函数性质/奇偶性.md",
     "src/基础数学(高中数学)/函数-/函数性质/周期性.md",
     "src/基础数学(高中数学)/函数-/函数性质",
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
     "src/微积分-/导数-/chaos/关于 单调性.md",
     "chaos/术语/内点.md",
     "src/微积分-/导数-/chaos/关于 极值.md",
-    "标签系统.md",
-    "src/数理逻辑-/chaos/命题演算形式系统.md",
-    "src/微积分-/-术语/极值/极值的必要条件.md",
-    "src/微积分-/-术语/极值/极值的第二充分条件.md",
     "src/微积分-/-术语/极值/未命名",
-    "src/微积分-/-术语/极值/极值的第一充分条件.md",
     "src/微积分-/-术语/极值",
-    "src/微积分-/-术语/驻点(稳定点).md",
     "src/微积分-/导数-/chaos",
-    "src/微积分-/-定理&引理&法则&公式&...-/柯西中值定理.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/拉格朗日中值定理.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/费马引理.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/罗尔定理.md",
     "附件/Pasted image 20230715153553.png",
-    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
     "附件/Pasted image 20230715142155.png",
     "附件/Pasted image 20230715142120.png",
     "src/微积分-/极限-/-技巧",
     "src/微积分-/极限-/无穷大",
     "src/微积分-/极限-/连续性",
     "src/微积分-/极限-/无穷小",
-    "src/微积分-/极限-/极限基础-/未命名",
-    "src/数理逻辑-/公理体系/NBG公理",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "附件/Pasted image 20230416003039.png",
