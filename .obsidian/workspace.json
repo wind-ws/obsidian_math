@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "340a465ad20734de",
+        "id": "abcd86560b3f4dae",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3df295a132fe9c",
+            "id": "15249bec8f755274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9877430f7ac58ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-术语/渐近线/渐近线.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85843c9fb6ff9b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-术语/渐近线/水平渐近线.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b115f6bd50a42b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-术语/渐近线/铅直渐近线.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "404d6ffff33be4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-术语/曲率.md",
+                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/-术语/曲率.md",
+                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/-术语/曲率.md",
+                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/-术语/曲率.md"
+                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md"
               }
             }
           },
@@ -224,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/-术语/曲率.md",
+                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,35 +224,36 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/-术语/弧微分.md",
-    "src/微积分-/-术语/曲率.md",
-    "src/微积分-/-术语/渐近线/斜渐近线.md",
-    "src/微积分-/-术语/渐近线/铅直渐近线.md",
-    "src/微积分-/-术语/渐近线/水平渐近线.md",
+    "src/微积分-/积分-/反常积分",
+    "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
+    "src/微积分-/积分-/不定积分-/积分法/换元积分法.md",
+    "src/微积分-/积分-/不定积分-/积分法/第一换元积分法.md",
+    "src/微积分-/积分-/不定积分-/积分法/第二换元积分法.md",
+    "src/微积分-/积分-/不定积分-/积分法/分部积分法.md",
+    "src/微积分-/积分-/不定积分_.md",
+    "src/微积分-/积分-/定积分_.md",
+    "src/微积分-/积分-/不定积分-/积分法",
+    "src/微积分-/积分-/不定积分-/换元积分法与分部积分法.md",
+    "src/微积分-/积分-/不定积分-/不定积分的性质.md",
+    "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+    "src/微积分-/-术语/原函数.md",
+    "src/微积分-/积分-/积分表.md",
+    "src/微积分-/极限-/连续性/间断点.md",
+    "src/集合论-/集合_.md",
+    "src/数理逻辑-/chaos/量词混合使用顺序含义.md",
+    "src/微积分-/积分-/不定积分-/不定积分的定义.md",
+    "src/微积分-/积分_.md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
     "src/微积分-/-术语/渐近线/渐近线.md",
+    "src/微积分-/-术语/渐近线/水平渐近线.md",
+    "src/微积分-/-术语/渐近线/铅直渐近线.md",
+    "src/微积分-/-术语/曲率.md",
+    "src/微积分-/-术语/弧微分.md",
+    "src/微积分-/-术语/渐近线/斜渐近线.md",
     "src/微积分-/导数-/函数的凹凸性和拐点.md",
     "src/微积分-/-术语/渐近线",
-    "src/微积分-/-术语/拐点/拐点的第二充分条件.md",
-    "src/微积分-/-术语/拐点/拐点的第一充分条件.md",
-    "src/微积分-/-术语/拐点/拐点的必要条件.md",
     "src/微积分-/-术语/拐点",
-    "src/基础数学(高中数学)/函数-/函数性质/凹凸性.md",
-    "src/微积分-/-术语/拐点.md",
-    "src/微积分-/-术语/最值.md",
-    "src/微积分-/-术语/极值.md",
-    "src/微积分-/-术语/驻点(稳定点).md",
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/导数-/无穷小增量公式&有限增量公式.md",
-    "src/基础数学(高中数学)/函数-/函数性质.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/基础数学(高中数学)/函数-/函数性质/有界性.md",
-    "src/基础数学(高中数学)/函数-/函数性质/单调性.md",
-    "src/基础数学(高中数学)/函数-/函数性质/奇偶性.md",
-    "src/基础数学(高中数学)/函数-/函数性质/周期性.md",
     "src/基础数学(高中数学)/函数-/函数性质",
-    "src/微积分-/导数-/chaos/关于 单调性.md",
-    "chaos/术语/内点.md",
-    "src/微积分-/导数-/chaos/关于 极值.md",
     "src/微积分-/-术语/极值/未命名",
     "src/微积分-/-术语/极值",
     "src/微积分-/导数-/chaos",
@@ -315,7 +263,6 @@
     "src/微积分-/极限-/-技巧",
     "src/微积分-/极限-/无穷大",
     "src/微积分-/极限-/连续性",
-    "src/微积分-/极限-/无穷小",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "附件/Pasted image 20230416003039.png",
