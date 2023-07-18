@@ -35,5 +35,8 @@
   "minimal-style@@minimal-strike-lists": false,
   "minimal-style@@ui2@@dark": "#00000000",
   "minimal-style@@active-line-bg@@dark": "#00000000",
-  "minimal-style@@hl2@@dark": "#79E3D630"
+  "minimal-style@@hl2@@dark": "#79E3D630",
+  "minimal-style@@bg1@@dark": "#1C2C25",
+  "minimal-style@@base@@dark": "#000000",
+  "minimal-style@@tx1@@dark": "#93B299"
 }

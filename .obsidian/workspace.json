@@ -8,12 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15249bec8f755274",
+            "id": "5f06fc2f2dea3bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
+                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2ca1dddb891db39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "笔记规范-/插件使用规范-/Columns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a6c4f1330a407c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/定积分-/定积分的性质/不等式性质.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58a764d407231029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
+                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
+                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md"
+                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md"
               }
             }
           },
@@ -147,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -171,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/不定积分的定义.md",
+                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,6 +263,19 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
+    "src/微积分-/积分-/定积分-/积分上限的函数.md",
+    "笔记规范-/插件使用规范-/Columns.md",
+    "附件/Pasted image 20230718203540.png",
+    "src/微积分-/积分-/定积分-/定积分的性质/不等式性质.md",
+    "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
+    "src/微积分-/积分-/定积分-/定积分的概念.md",
+    "src/微积分-/积分-/定积分-/定积分的性质",
+    "src/微积分-/积分-/定积分-/定积分存在的充分条件.md",
+    "src/微积分-/积分-/定积分-/定积分的定义.md",
+    "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
+    "src/微积分-/积分-/定积分-/定积分的应用.md",
+    "src/微积分-/积分-/不定积分-/不定积分的定义.md",
     "src/微积分-/积分-/反常积分",
     "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
     "src/微积分-/积分-/不定积分-/积分法/换元积分法.md",
@@ -241,16 +293,6 @@
     "src/微积分-/极限-/连续性/间断点.md",
     "src/集合论-/集合_.md",
     "src/数理逻辑-/chaos/量词混合使用顺序含义.md",
-    "src/微积分-/积分-/不定积分-/不定积分的定义.md",
-    "src/微积分-/积分_.md",
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/-术语/渐近线/渐近线.md",
-    "src/微积分-/-术语/渐近线/水平渐近线.md",
-    "src/微积分-/-术语/渐近线/铅直渐近线.md",
-    "src/微积分-/-术语/曲率.md",
-    "src/微积分-/-术语/弧微分.md",
-    "src/微积分-/-术语/渐近线/斜渐近线.md",
-    "src/微积分-/导数-/函数的凹凸性和拐点.md",
     "src/微积分-/-术语/渐近线",
     "src/微积分-/-术语/拐点",
     "src/基础数学(高中数学)/函数-/函数性质",
@@ -261,8 +303,6 @@
     "附件/Pasted image 20230715142155.png",
     "附件/Pasted image 20230715142120.png",
     "src/微积分-/极限-/-技巧",
-    "src/微积分-/极限-/无穷大",
-    "src/微积分-/极限-/连续性",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "附件/Pasted image 20230416003039.png",
@@ -271,7 +311,6 @@
     "附件/330px-Riemann.gif",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
     "附件/Screenshot_20230316_215142.png",
-    "附件/v2-2e7e7770abbc5ce0c78252f36020790a_720w.png",
     "未命名 1.canvas"
   ]
 }
