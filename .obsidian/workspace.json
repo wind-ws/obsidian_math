@@ -8,58 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f06fc2f2dea3bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2ca1dddb891db39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记规范-/插件使用规范-/Columns.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a6c4f1330a407c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/不等式性质.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "58a764d407231029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17b756bfc81e8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md"
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md"
               }
             }
           },
@@ -186,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -210,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/积分-/定积分-/积分上限的函数.md",
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,46 +228,47 @@
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "custom-sort:Toggle custom sorting": false,
       "workspaces:管理工作区布局": false,
       "dbfolder:创建一个新数据库表": true,
-      "notion-like-tables:Create Notion-Like table": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "notion-like-tables:Create new loom": false
     }
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "src/微积分-/积分-/定积分-/积分上限的函数.md",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+    "src/微积分-/积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/利用 已有公式.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/换元积分法.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/分部积分法.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/牛顿-莱布尼兹公式.md",
+    "src/微积分-/积分-/定积分-/定积分的定义.md",
+    "src/基础数学(高中数学)/函数-/值域.md",
+    "src/基础数学(高中数学)/函数-/定义域.md",
     "笔记规范-/插件使用规范-/Columns.md",
+    "src/微积分-/积分-/不定积分-/积分法/换元积分法.md",
+    "src/微积分-/积分-/定积分-/积分上限的函数.md",
+    "src/微积分-/积分-/定积分-/定积分的计算.md",
+    "src/微积分-/积分-/定积分-/定积分的计算",
+    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
     "附件/Pasted image 20230718203540.png",
     "src/微积分-/积分-/定积分-/定积分的性质/不等式性质.md",
     "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
     "src/微积分-/积分-/定积分-/定积分的概念.md",
     "src/微积分-/积分-/定积分-/定积分的性质",
     "src/微积分-/积分-/定积分-/定积分存在的充分条件.md",
-    "src/微积分-/积分-/定积分-/定积分的定义.md",
-    "src/微积分-/积分-/定积分-/牛顿-莱布尼兹公式.md",
     "src/微积分-/积分-/定积分-/定积分的应用.md",
     "src/微积分-/积分-/不定积分-/不定积分的定义.md",
-    "src/微积分-/积分-/反常积分",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)",
     "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
-    "src/微积分-/积分-/不定积分-/积分法/换元积分法.md",
     "src/微积分-/积分-/不定积分-/积分法/第一换元积分法.md",
     "src/微积分-/积分-/不定积分-/积分法/第二换元积分法.md",
     "src/微积分-/积分-/不定积分-/积分法/分部积分法.md",
     "src/微积分-/积分-/不定积分_.md",
-    "src/微积分-/积分-/定积分_.md",
     "src/微积分-/积分-/不定积分-/积分法",
-    "src/微积分-/积分-/不定积分-/换元积分法与分部积分法.md",
-    "src/微积分-/积分-/不定积分-/不定积分的性质.md",
-    "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
-    "src/微积分-/-术语/原函数.md",
-    "src/微积分-/积分-/积分表.md",
-    "src/微积分-/极限-/连续性/间断点.md",
-    "src/集合论-/集合_.md",
-    "src/数理逻辑-/chaos/量词混合使用顺序含义.md",
     "src/微积分-/-术语/渐近线",
     "src/微积分-/-术语/拐点",
     "src/基础数学(高中数学)/函数-/函数性质",
@@ -302,7 +278,6 @@
     "附件/Pasted image 20230715153553.png",
     "附件/Pasted image 20230715142155.png",
     "附件/Pasted image 20230715142120.png",
-    "src/微积分-/极限-/-技巧",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "附件/Pasted image 20230416003039.png",
