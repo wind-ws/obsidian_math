@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58a764d407231029",
+            "id": "c59266fb2db2701e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
+                "file": "src/微积分-/微分方程-/-微分方程基础介绍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "d17b756bfc81e8fb",
+            "id": "0bc9cd9cd801dbcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+                "file": "src/概率论与数理统计_.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bfc0cef727e7554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math_study_resource/books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "I^0",
+                "query": "散发",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+                "file": "src/概率论与数理统计_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+                "file": "src/概率论与数理统计_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md"
+                "file": "src/概率论与数理统计_.md"
               }
             }
           },
@@ -185,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+                "file": "src/概率论与数理统计_.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,43 +251,43 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
-    "src/微积分-/积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
-    "src/微积分-/积分-/定积分-/定积分的计算/利用 已有公式.md",
-    "src/微积分-/积分-/定积分-/定积分的计算/换元积分法.md",
-    "src/微积分-/积分-/定积分-/定积分的计算/分部积分法.md",
-    "src/微积分-/积分-/定积分-/定积分的计算/牛顿-莱布尼兹公式.md",
-    "src/微积分-/积分-/定积分-/定积分的定义.md",
-    "src/基础数学(高中数学)/函数-/值域.md",
-    "src/基础数学(高中数学)/函数-/定义域.md",
-    "笔记规范-/插件使用规范-/Columns.md",
-    "src/微积分-/积分-/不定积分-/积分法/换元积分法.md",
-    "src/微积分-/积分-/定积分-/积分上限的函数.md",
-    "src/微积分-/积分-/定积分-/定积分的计算.md",
-    "src/微积分-/积分-/定积分-/定积分的计算",
-    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "附件/Pasted image 20230718203540.png",
-    "src/微积分-/积分-/定积分-/定积分的性质/不等式性质.md",
-    "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
-    "src/微积分-/积分-/定积分-/定积分的概念.md",
-    "src/微积分-/积分-/定积分-/定积分的性质",
-    "src/微积分-/积分-/定积分-/定积分存在的充分条件.md",
+    "版本控制.md",
+    "src/概率论与数理统计_.md",
+    "math_study_resource/books/线性代数books.md",
+    "math_study_resource/books/微积分books.md",
+    "src/微积分-/微分方程-/-微分方程基础介绍.md",
+    "math_study_resource/books/数理逻辑books.md",
+    "math_study_resource/books.md",
+    "math_study_resource/books",
+    "src/微积分_.md",
+    "sortspec.md",
+    "folder_introductions.md",
+    "src/集合论_.md",
+    "src/数理逻辑_.md",
+    "src/微积分-/积分-/定积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+    "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
+    "src/微积分-/微分方程-/chaos/常微分方程.md",
+    "src/微积分-/微分方程-/微分方程初步-/一阶线性微分方程.md",
+    "src/微积分-/微分方程-/微分方程初步_.md",
+    "src/微积分-/极限-/连续性/间断点.md",
+    "src/微积分-/积分-/定积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
+    "src/微积分-/-术语/散发.md",
+    "src/微积分-/-术语/收敛.md",
+    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
+    "src/微积分-/极限-/连续性/连续性的性质.md",
+    "src/微积分-/极限-/连续性/连续点.md",
+    "src/微积分-/积分-/定积分-/反常积分(广义积分,异常积分)/(无界函数的反常积分).md",
     "src/微积分-/积分-/定积分-/定积分的应用.md",
-    "src/微积分-/积分-/不定积分-/不定积分的定义.md",
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)",
-    "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
-    "src/微积分-/积分-/不定积分-/积分法/第一换元积分法.md",
-    "src/微积分-/积分-/不定积分-/积分法/第二换元积分法.md",
-    "src/微积分-/积分-/不定积分-/积分法/分部积分法.md",
-    "src/微积分-/积分-/不定积分_.md",
+    "src/微积分-/积分-/定积分-/定积分的计算",
+    "附件/Pasted image 20230718203540.png",
+    "src/微积分-/积分-/定积分-/定积分的性质",
+    "src/微积分-/积分-/定积分-/反常积分(广义积分,异常积分)",
     "src/微积分-/积分-/不定积分-/积分法",
     "src/微积分-/-术语/渐近线",
     "src/微积分-/-术语/拐点",
     "src/基础数学(高中数学)/函数-/函数性质",
     "src/微积分-/-术语/极值/未命名",
     "src/微积分-/-术语/极值",
-    "src/微积分-/导数-/chaos",
     "附件/Pasted image 20230715153553.png",
     "附件/Pasted image 20230715142155.png",
     "附件/Pasted image 20230715142120.png",
