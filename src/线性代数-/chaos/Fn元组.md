@@ -14,3 +14,9 @@
 > $$x+(-x)=0$$
 > 换言之 , 若 $x=(x_{1},\dots,x_n)$ ,则 $-x=(-x_{1},\dots,-x_n)$
 
+
+
+> [!dy定义] 标量乘法
+> 一个数$\lambda$与 $F^{n}$中的一个向量的==乘积==这样来计算:
+> 用$\lambda$乘以向量的每个坐标,即 $$\lambda(x_1,\ldots,x_n)=(\lambda x_1,\ldots,\lambda x_n),$$
+> 其中 $\lambda\in{F}\text{,}(x_1,\ldots,x_n)\in{F}^n.$
