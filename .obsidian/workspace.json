@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7888da995850bf40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/chaos/组.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5a0d0f88cd14b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/chaos/向量空间.md",
+                "file": "src/线性代数-/-术语/主元位置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,38 @@
             }
           },
           {
-            "id": "99549a0f4094171c",
+            "id": "bb3fd2b11ea3c976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数_.md",
+                "file": "src/线性代数-/chaos/矩阵 初等变换.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae129a064e6e075a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性方程组/存在与唯一性定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f5a93c1ce169b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/chaos/矩阵 初等变换.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数_.md",
+                "file": "src/线性代数-/线性方程组/存在与唯一性定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数_.md",
+                "file": "src/线性代数-/线性方程组/存在与唯一性定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数_.md"
+                "file": "src/线性代数-/线性方程组/存在与唯一性定理.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数_.md",
+                "file": "src/线性代数-/线性方程组/存在与唯一性定理.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,36 +262,38 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "99549a0f4094171c",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/chaos/向量空间.md",
+    "src/线性代数-/-术语/主元列.md",
+    "src/线性代数-/线性方程组/存在与唯一性定理.md",
+    "src/线性代数-/chaos/基本变量(先导变量) 和 自由变量.md",
+    "src/线性代数-/线性方程组/解线性方程组.md",
+    "src/线性代数-/chaos/行化简 算法.md",
+    "src/线性代数-/chaos/矩阵 初等变换.md",
+    "src/线性代数-/chaos/矩阵记号.md",
+    "src/线性代数-/-术语/阶梯形矩阵.md",
+    "src/线性代数-/-术语/主元位置.md",
+    "src/线性代数-/-术语/先导元素.md",
+    "src/线性代数-/-术语/三角矩阵.md",
+    "src/线性代数-/-术语/非零矩阵.md",
+    "附件/Screenshot_20230727_165551.png",
+    "附件/Screenshot_20230727_163029.png",
+    "src/线性代数-/-术语/非零行(列).md",
+    "src/线性代数-/chaos/矩阵的行和列.md",
     "src/线性代数-/chaos/Fn元组.md",
-    "src/线性代数_.md",
-    "src/线性代数-/chaos/向量.md",
+    "src/线性代数-/-术语/增广矩阵.md",
     "src/线性代数-/chaos/组.md",
+    "src/线性代数_.md",
+    "src/线性代数-/chaos/向量空间.md",
+    "src/线性代数-/chaos/向量.md",
     "src/线性代数-/chaos/定义0.md",
     "src/线性代数-/chaos/复数/复数的算术性质.md",
     "src/线性代数-/chaos/组与集合的区别.md",
     "src/集合论-/chaos/n元序组.md",
     "src/集合论-/chaos/笛卡儿积(直积).md",
     "src/线性代数-/chaos/复数/复数.md",
-    "src/线性代数-/线性方程组/线性方程.md",
-    "src/线性代数-/线性方程组/解线性方程组.md",
-    "src/线性代数-/chaos/矩阵的行和列.md",
-    "src/集合论-/集合-/数的集合.md",
-    "src/集合论-/-术语/标量.md",
     "src/集合论-/-术语",
-    "math_study_resource/books/线性代数books.md",
-    "src/线性代数-/-术语/解集.md",
-    "笔记规范-/插件使用规范-/Columns.md",
-    "src/线性代数-/线性方程组/线性方程组.md",
-    "src/线性代数-/chaos/矩阵记号.md",
-    "src/线性代数-/-术语/系数矩阵.md",
-    "src/线性代数-/-术语/增广矩阵.md",
-    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
-    "笔记规范-/文件夹结构&文件位置 规范.md",
     "src/线性代数-/线性方程组",
-    "src/线性代数-/chaos/复数/数.md",
     "src/线性代数-/chaos/复数",
     "src/线性代数-/-术语",
     "src/线性代数-/chaos",
@@ -297,8 +312,6 @@
     "附件/330px-Cartesian_Product_qtl1.svg.png",
     "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
     "附件/330px-Riemann.gif",
-    "附件/525px-Stationary_vs_inflection_pts.svg.png",
-    "附件/Screenshot_20230316_215142.png",
     "未命名 1.canvas"
   ]
 }
