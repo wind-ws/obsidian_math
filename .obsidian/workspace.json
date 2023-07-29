@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/chaos/线性组合.md",
+                "file": "src/线性代数-/线性空间与线性变换/线性组合.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/chaos/线性生成空间span.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8566cfe063d09bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/chaos/线性生成空间span.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/chaos/线性生成空间span.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/chaos/线性生成空间span.md"
+                "file": "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md"
               }
             }
           },
@@ -185,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/chaos/线性生成空间span.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,15 +249,22 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "922c8f1622ddbd7a",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/chaos/线性组合.md",
-    "src/线性代数-/chaos/线性生成空间span.md",
+    "src/线性代数-/chaos/向量/向量.md",
+    "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
+    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
+    "src/线性代数-/chaos/例子/线性方程组矩阵 与 线性组合.md",
+    "src/线性代数-/线性空间与线性变换/线性组合.md",
+    "src/线性代数-/线性空间与线性变换/证明 u,v属于span  u+v属于span.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "附件/Screenshot_20230729_163059.png",
+    "附件/Screenshot_20230729_151734.png",
+    "附件/Screenshot_20230729_151708.png",
+    "附件/Screenshot_20230729_151457.png",
     "src/线性代数-/线性空间与线性变换",
     "src/线性代数-/矩阵与行列式",
     "src/线性代数-/向量",
-    "src/线性代数-/chaos/线性无关.md",
-    "src/线性代数-/chaos/例子/线性方程组矩阵 与 线性组合.md",
     "src/线性代数-/chaos/例子",
     "src/线性代数-/chaos/向量/向量加法.md",
     "src/线性代数-/chaos/向量/零向量.md",
@@ -253,7 +273,6 @@
     "src/线性代数-/-术语/分量.md",
     "src/线性代数-/向量空间",
     "src/线性代数-/chaos/向量/标量乘法.md",
-    "src/线性代数-/chaos/向量/向量.md",
     "src/线性代数-/chaos/向量/向量相等.md",
     "src/线性代数-/chaos/Fn元组.md",
     "src/线性代数-/chaos/向量空间.md",
@@ -271,7 +290,6 @@
     "src/线性代数-/chaos/行化简 算法.md",
     "src/线性代数-/chaos/矩阵记号.md",
     "src/线性代数-/-术语/先导元素.md",
-    "src/线性代数-/-术语/三角矩阵.md",
     "附件/Screenshot_20230727_165551.png",
     "附件/Screenshot_20230727_163029.png",
     "src/集合论-/-术语",
@@ -281,10 +299,6 @@
     "附件/Pasted image 20230715142120.png",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
-    "附件/Pasted image 20230416003039.png",
-    "附件/330px-Cartesian_Product_qtl1.svg.png",
-    "附件/330px-Fundamental_theorem_of_calculus_(animation).gif",
-    "附件/330px-Riemann.gif",
     "未命名 1.canvas"
   ]
 }
