@@ -1,6 +1,6 @@
 
 ### good
-book::线性代数及其应用::David C. Lay %%入门%%
+book::线性代数及其应用::David C. Lay %%入门,由浅入深,非常不错,就是定义的描述有点过度自然语言化%%
 book::线性代数的几何意义::任广千 %%入门%%
 book::线性代数应该这样学::Sheldon Axler %%进阶%%
 web::[3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
