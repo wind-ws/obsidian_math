@@ -8,51 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24f7641920ecd9a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/Ax=b的计算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b97496ee7df4dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性方程组/齐次线性方程组.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5ac10fd2401590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性组合.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8566cfe063d09bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a261ad853f8c2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efae442f2327ad61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性组合.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/线性方程组/齐次线性方程组.md",
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/线性方程组/齐次线性方程组.md",
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/线性方程组/齐次线性方程组.md"
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md"
               }
             }
           },
@@ -211,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/线性方程组/齐次线性方程组.md",
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,9 +226,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "4be9c73e39f4d18d",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -264,13 +259,21 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "src/线性代数-/线性空间与线性变换/线性组合.md",
     "math_study_resource/books/线性代数books.md",
+    "src/线性代数-/矩阵与行列式/Ax=b的计算.md",
     "src/线性代数-/线性方程组/齐次线性方程组.md",
+    "chaos/术语/多项式.md",
+    "src/线性代数-/chaos/奇怪的题目/book_线性代数及其应用_David C. Lay.md",
+    "src/线性代数-/chaos/参数向量形式.md",
+    "src/线性代数-/chaos/奇怪的题目",
+    "附件/Screenshot_20230731_135815.png",
+    "附件/Screenshot_20230731_124832.png",
+    "附件/Screenshot_20230731_124844.png",
     "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
     "src/线性代数-/-术语/向量方程.md",
-    "src/线性代数-/线性空间与线性变换/线性组合.md",
-    "src/线性代数-/矩阵与行列式/Ax=b的计算.md",
-    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
     "src/线性代数-/-术语/主元列.md",
     "src/线性代数-/-术语/主元位置.md",
     "src/线性代数-/-术语/单位矩阵.md",
@@ -278,7 +281,6 @@
     "src/线性代数-/chaos/向量/向量.md",
     "src/线性代数-/chaos/例子/线性方程组矩阵 与 线性组合.md",
     "src/线性代数-/线性空间与线性变换/证明 u,v属于span  u+v属于span.md",
-    "src/线性代数-/线性空间与线性变换/线性无关.md",
     "附件/Screenshot_20230729_163059.png",
     "附件/Screenshot_20230729_151734.png",
     "附件/Screenshot_20230729_151708.png",
@@ -298,18 +300,11 @@
     "src/线性代数-/chaos/Fn元组.md",
     "src/线性代数-/chaos/向量空间.md",
     "src/线性代数-/chaos/矩阵 初等变换.md",
-    "src/线性代数-/chaos/向量/单位向量.md",
     "src/线性代数-/chaos/向量/未命名",
-    "src/线性代数-/chaos/向量/向量的模.md",
-    "src/线性代数-/-术语/阶梯形矩阵.md",
     "src/线性代数-/chaos/向量",
     "附件/Screenshot_20230727_165551.png",
     "附件/Screenshot_20230727_163029.png",
-    "src/集合论-/-术语",
     "附件/Pasted image 20230718203540.png",
-    "附件/Pasted image 20230715153553.png",
-    "附件/Pasted image 20230715142155.png",
-    "附件/Pasted image 20230715142120.png",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

@@ -27,8 +27,6 @@
   "minimal-style@@h4-size": "1.5em",
   "minimal-style@@h5-size": "1.1em",
   "minimal-style@@h6-size": "0.7em",
-  "minimal-style@@blockquote-border-thickness": 4,
-  "minimal-style@@blockquote-size": "1.2em",
   "minimal-style@@blockquote-font-style": "normal",
   "minimal-style@@titlebar-text-weight": 600,
   "minimal-style@@inline-title-weight": 600,
@@ -38,5 +36,8 @@
   "minimal-style@@hl2@@dark": "#79E3D630",
   "minimal-style@@bg1@@dark": "#1C2C25",
   "minimal-style@@base@@dark": "#000000",
-  "minimal-style@@tx1@@dark": "#93B299"
+  "minimal-style@@tx1@@dark": "#93B299",
+  "minimal-style@@blockquote-color@@dark": "#0C7F71",
+  "minimal-style@@blockquote-border-thickness": 4,
+  "minimal-style@@blockquote-size": "1.2em"
 }

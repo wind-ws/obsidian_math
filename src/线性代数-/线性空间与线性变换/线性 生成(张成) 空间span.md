@@ -20,5 +20,7 @@
 
 
 
+向量组 $v_1,\dots,v_{p}$ 只要其中的向量都 不同一方向 且 不平行 ,则 它们可以生成 $R^{p}$  #unsafe/ai 
+
 # 参考
 [线性生成空间 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hans/%E7%BA%BF%E6%80%A7%E7%94%9F%E6%88%90%E7%A9%BA%E9%97%B4)
