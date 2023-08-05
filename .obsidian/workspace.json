@@ -8,111 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8566cfe063d09bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8116e316a394cd5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换的矩阵.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e21aeb5836b4623a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d7e1363cd8bed2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/术语/单射.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e547048123518b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/术语/满射.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e19ed5f46b263e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/chaos/定义域&余定义域&值域.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3042d6d6cd239c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/Ax=b的计算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "efae442f2327ad61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性组合.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3564f84f0b8b6570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f844c29446d580bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md"
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md"
               }
             }
           },
@@ -263,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -324,41 +258,44 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "chaos/术语/单射.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
+    "src/线性代数-/chaos/向量/标量乘法.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
+    "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
+    "src/线性代数-/矩阵与行列式/矩阵记号.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵运算.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵转置.md",
+    "附件/Matrix_transpose.gif",
+    "附件/Pasted image 20230805202405.png",
+    "附件/Pasted image 20230805202338.png",
+    "src/线性代数-/-术语/零矩阵.md",
+    "src/微积分-/积分-/积分表.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算",
+    "src/线性代数-/-术语/非零矩阵.md",
+    "附件/Screenshot_20230805_195112.png",
+    "src/线性代数-/线性空间与线性变换/线性组合.md",
+    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
+    "src/线性代数-/-术语/对角矩阵.md",
+    "src/基础数学(高中数学)/常用公式.md",
     "src/线性代数-/线性空间与线性变换/线性变换.md",
+    "src/微积分_.md",
+    "src/基础数学(高中数学)/函数-/值域.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
+    "src/线性代数-/线性空间与线性变换/线性变换的矩阵.md",
+    "chaos/术语/单射.md",
     "chaos/术语/满射.md",
     "src/线性代数-/-术语/标准矩阵.md",
-    "src/线性代数-/线性空间与线性变换/线性变换的矩阵.md",
     "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
     "src/线性代数-/-术语/单位矩阵.md",
-    "src/线性代数-/线性空间与线性变换/线性映射.md",
-    "src/线性代数-/chaos/定义域&余定义域&值域.md",
-    "src/线性代数-/矩阵与行列式/Ax=b的计算.md",
     "附件/Screenshot_20230803_205620.png",
-    "src/线性代数-/-术语/向量方程.md",
-    "src/线性代数-/线性空间与线性变换/线性无关.md",
-    "src/线性代数-/线性空间与线性变换/线性组合.md",
-    "math_study_resource/books/线性代数books.md",
-    "src/线性代数-/线性方程组/齐次线性方程组.md",
-    "chaos/术语/多项式.md",
-    "src/线性代数-/chaos/奇怪的题目/book_线性代数及其应用_David C. Lay.md",
-    "src/线性代数-/chaos/参数向量形式.md",
     "src/线性代数-/chaos/奇怪的题目",
     "附件/Screenshot_20230731_135815.png",
     "附件/Screenshot_20230731_124832.png",
     "附件/Screenshot_20230731_124844.png",
-    "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
-    "src/线性代数-/-术语/主元列.md",
-    "src/线性代数-/-术语/主元位置.md",
-    "src/线性代数-/-术语/主对角线&反对角线.md",
-    "src/线性代数-/chaos/向量/向量.md",
-    "src/线性代数-/chaos/例子/线性方程组矩阵 与 线性组合.md",
-    "src/线性代数-/线性空间与线性变换/证明 u,v属于span  u+v属于span.md",
     "附件/Screenshot_20230729_163059.png",
     "附件/Screenshot_20230729_151734.png",
-    "附件/Screenshot_20230729_151708.png",
-    "附件/Screenshot_20230729_151457.png",
     "src/线性代数-/线性空间与线性变换",
     "src/线性代数-/矩阵与行列式",
     "src/线性代数-/向量",
@@ -367,9 +304,6 @@
     "src/线性代数-/线性变换",
     "src/线性代数-/向量空间",
     "src/线性代数-/chaos/向量/未命名",
-    "src/线性代数-/chaos/向量",
-    "附件/Screenshot_20230727_165551.png",
-    "附件/Screenshot_20230727_163029.png",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
