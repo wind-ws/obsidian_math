@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "57739c1e3b5fcb68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c231e645dd7053e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵转置.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3564f84f0b8b6570",
             "type": "leaf",
             "state": {
@@ -46,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md"
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md"
               }
             }
           },
@@ -197,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,15 +285,15 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵转置.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
     "src/线性代数-/chaos/向量/标量乘法.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
     "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
     "src/线性代数-/矩阵与行列式/矩阵记号.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵运算.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵转置.md",
     "附件/Matrix_transpose.gif",
     "附件/Pasted image 20230805202405.png",
     "附件/Pasted image 20230805202338.png",
