@@ -8,12 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3564f84f0b8b6570",
+            "id": "389258766afa6b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/逆矩阵.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7086fe3f6cee8119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/-术语/矩阵/初等矩阵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "521def8e908acea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dba73f6e74d69c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "794278ce2f63ef7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/逆矩阵.md",
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/逆矩阵.md",
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/逆矩阵.md"
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md"
               }
             }
           },
@@ -137,17 +189,17 @@
             }
           },
           {
-            "id": "a4d2fc0519e1af65",
+            "id": "554a8cb862fad43b",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md"
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -171,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/逆矩阵.md",
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,52 +284,52 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
-    "src/线性代数-/-术语/矩阵/标准矩阵.md",
+    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
+    "当前计划-/学习计划-/数理逻辑_.md",
+    "当前计划_.md",
+    "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
+    "当前计划-/学习计划_.md",
+    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "当前计划-/学习计划-/线性代数_.md",
+    "当前计划-/学习计划-/线性代数-",
+    "当前计划-/学习计划-/集合论.md",
     "src/线性代数-/-术语/矩阵/逆矩阵.md",
-    "src/线性代数-/-术语/矩阵",
-    "src/线性代数-/矩阵与行列式/矩阵的迹.md",
-    "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
+    "当前计划-/学习计划-/未命名.md",
+    "附件/Screenshot_20230807_223232.png",
+    "src/线性代数-/-术语/矩阵/初等矩阵.md",
+    "附件/Screenshot_20230807_220806.png",
+    "src/线性代数-/矩阵与行列式/矩阵 初等变换.md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
     "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
+    "src/线性代数-/-术语/矩阵/零矩阵.md",
+    "src/线性代数-/矩阵与行列式/行列式.md",
+    "src/线性代数-/矩阵与行列式/矩阵记号.md",
+    "src/线性代数-/矩阵与行列式/行列式",
+    "src/线性代数-/-术语/矩阵/伴随矩阵.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵转置.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘幂.md",
+    "src/线性代数-/矩阵与行列式/矩阵的迹.md",
+    "src/线性代数-/-术语/矩阵/标准矩阵.md",
+    "src/线性代数-/-术语/矩阵",
+    "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
     "src/线性代数-/-术语/矩阵/方块矩阵.md",
     "附件/Screenshot_20230806_160558.png",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
-    "src/线性代数-/chaos/向量/标量乘法.md",
-    "src/线性代数-/矩阵与行列式/矩阵记号.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵运算.md",
     "附件/Matrix_transpose.gif",
     "附件/Pasted image 20230805202405.png",
     "附件/Pasted image 20230805202338.png",
-    "src/线性代数-/-术语/矩阵/零矩阵.md",
-    "src/微积分-/积分-/积分表.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算",
-    "src/线性代数-/-术语/矩阵/非零矩阵.md",
     "附件/Screenshot_20230805_195112.png",
-    "src/线性代数-/线性空间与线性变换/线性组合.md",
-    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
-    "src/线性代数-/-术语/矩阵/对角矩阵.md",
-    "src/基础数学(高中数学)/常用公式.md",
-    "src/线性代数-/线性空间与线性变换/线性变换.md",
-    "src/微积分_.md",
-    "src/基础数学(高中数学)/函数-/值域.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
-    "src/线性代数-/线性空间与线性变换/线性变换的矩阵.md",
     "附件/Screenshot_20230803_205620.png",
     "src/线性代数-/chaos/奇怪的题目",
     "附件/Screenshot_20230731_135815.png",
     "附件/Screenshot_20230731_124832.png",
-    "附件/Screenshot_20230731_124844.png",
-    "附件/Screenshot_20230729_163059.png",
     "src/线性代数-/线性空间与线性变换",
     "src/线性代数-/矩阵与行列式",
     "src/线性代数-/向量",
     "src/线性代数-/chaos/例子",
     "src/线性代数-/子空间",
-    "src/线性代数-/线性变换",
-    "src/线性代数-/向量空间",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
