@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] 2.3 @{2023-08-08}
+- [ ] 2.4 @{2023-08-08}
 
 
 ## Waiting
@@ -15,6 +15,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] 2.3 @{2023-08-08} (end:08-08)
 - [ ] 2.2 @{2023-08-07} (end:08-07)
 
 
