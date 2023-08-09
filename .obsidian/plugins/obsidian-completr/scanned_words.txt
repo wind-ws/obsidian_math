@@ -12,10 +12,14 @@ bodyCells
 bf
 becfb
 booK
+bKGD
 Waiting
 Watching
+WIDAT
 In
 Idea
+IHDR
+IDATx
 Progress
 Done
 David
@@ -80,6 +84,7 @@ not
 name
 null
 notion
+note
 aspectRatio
 all
 ai
@@ -87,6 +92,7 @@ ab
 annotation
 above
 author
+abolish
 unset
 unsafe
 understand
@@ -120,6 +126,7 @@ Monotone
 More
 Lagrange
 Leibnitz
+LZbR
 Rolle
 Remove
 README
@@ -133,8 +140,11 @@ obsidian
 Stuff
 Sheldon
 Nested
+Note
 Text
 Function
+Format
 word
 world
 Hello
+YJAi

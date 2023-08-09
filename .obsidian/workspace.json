@@ -8,64 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "794278ce2f63ef7c",
+            "id": "479709e239364081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bbdde1b3bc13144",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/行列式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27458d32f83a3bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵转置.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f683607854948333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/-术语/矩阵/分块矩阵.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c59560c41ec969ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
+                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A(u+v)",
+                "query": "tag:#symbol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
+                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
+                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md"
+                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md"
               }
             }
           },
@@ -177,14 +125,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "821915b241e8804f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           },
@@ -199,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -216,52 +156,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "edbe402da21a6668",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵加法.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.04090853318957882,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "4be9c73e39f4d18d",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,7 +167,6 @@
     "hiddenItems": {
       "canvas:新建白板": true,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
@@ -279,41 +174,45 @@
       "dbfolder:创建一个新数据库表": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
-      "notion-like-tables:Create new loom": false
+      "notion-like-tables:Create new loom": false,
+      "graph:查看关系图谱": false
     }
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/-术语/矩阵/分块对角矩阵.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/逆分块矩阵.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
-    "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
-    "src/线性代数-/-术语/矩阵/分块矩阵.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵运算定理.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵转置.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵乘法.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵数乘.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵数乘.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵加法.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
+    "附件/525px-Stationary_vs_inflection_pts.svg.png",
+    "src/线性代数-/线性空间与线性变换/子空间的基.md",
     "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/-mod-四个基本子空间.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
+    "src/线性代数-/线性空间与线性变换/零子空间.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/零空间.md",
+    "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
+    "标签系统.md",
+    "README.md",
+    "笔记规范-/文件夹结构&文件位置 规范.md",
+    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/行空间.md",
+    "笔记规范_.md",
+    "笔记规范-/形式化格式意义.md",
+    "笔记规范-/形式化格式规范.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/左零空间.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间",
+    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
+    "src/线性代数-/矩阵与行列式/矩阵分解法/LU.md",
+    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵乘法.md",
+    "src/线性代数-/矩阵与行列式/矩阵分解法/参考.md",
+    "附件/The-Art-of-Linear-Algebra-zh-CN.pdf",
+    "src/线性代数-/矩阵与行列式/矩阵分解法/UΣVT.md",
+    "src/线性代数-/矩阵与行列式/矩阵分解法/QΛQT.md",
+    "src/线性代数-/矩阵与行列式/矩阵分解法/QR.md",
+    "src/线性代数-/矩阵与行列式/矩阵分解法/CR.md",
+    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块初等阵与分块矩阵的初等变换.md",
+    "src/线性代数-/矩阵与行列式/矩阵分解法",
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算",
-    "src/线性代数-/线性空间与线性变换/线性变换.md",
-    "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
     "附件/Screenshot_20230808_163331.png",
     "附件/Screenshot_20230808_163247.png",
-    "src/线性代数-/-术语/矩阵/初等矩阵.md",
-    "src/线性代数-/矩阵与行列式/矩阵方程Ax=b.md",
-    "src/线性代数-/矩阵与行列式/行列式.md",
-    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "当前计划-/学习计划-/数理逻辑_.md",
-    "当前计划_.md",
-    "当前计划-/学习计划_.md",
-    "当前计划-/学习计划-/线性代数_.md",
     "当前计划-/学习计划-/线性代数-",
-    "当前计划-/学习计划-/集合论.md",
-    "当前计划-/学习计划-/未命名.md",
     "附件/Screenshot_20230807_223232.png",
     "附件/Screenshot_20230807_220806.png",
     "src/线性代数-/矩阵与行列式/行列式",
@@ -327,9 +226,6 @@
     "附件/Screenshot_20230803_205620.png",
     "src/线性代数-/chaos/奇怪的题目",
     "src/线性代数-/线性空间与线性变换",
-    "src/线性代数-/矩阵与行列式",
-    "src/线性代数-/向量",
-    "src/线性代数-/chaos/例子",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
