@@ -4,6 +4,7 @@ pluginVersion
 pending
 prior
 play
+parsed
 basic
 br
 book
@@ -16,6 +17,7 @@ bKGD
 Waiting
 Watching
 WIDAT
+WvodRLOM
 In
 Idea
 IHDR
@@ -23,6 +25,7 @@ IDATx
 Progress
 Done
 David
+Drawing
 settings
 symbol
 self
@@ -53,6 +56,7 @@ end
 eb
 example
 else
+excalidraw
 term
 todo
 theorem
@@ -60,11 +64,14 @@ the
 templates
 target
 type
+tags
+this
 reference
 resource
 imperfect
 inside
 introductions
+iflUkTG
 CPU
 Callouts
 mark
@@ -72,6 +79,7 @@ model
 more
 math
 multi
+menu
 hltr
 horizontalPadding
 headerRows
@@ -99,6 +107,7 @@ understand
 using
 verticalPadding
 vx
+vdOBat
 footerRows
 footerCells
 filterRules
@@ -110,20 +119,27 @@ function
 folder
 EP
 Error
+EXCALIDRAW
+Elements
 deletion
 database
 discard
 description
 descriptive
 displayed
+document
 Vxp
 Vxvy
+VIEW
 xp
 xo
 xa
 xxx
 Monotone
 More
+MORE
+MTqUmpvS
+MioK
 Lagrange
 Leibnitz
 LZbR
@@ -139,6 +155,8 @@ others
 obsidian
 Stuff
 Sheldon
+Switch
+Span
 Nested
 Note
 Text
@@ -148,3 +166,7 @@ word
 world
 Hello
 YJAi
+OPTIONS
+KCFZ
+zNSVLF
+JtzHOB

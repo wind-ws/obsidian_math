@@ -11,16 +11,128 @@
             "id": "479709e239364081",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md"
+              }
+            }
+          },
+          {
+            "id": "d143a7fdee56f237",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
+                "file": "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69384229fc484b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/四个基本子空间/零空间.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc70d6c765815d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4539e35d32189a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/零子空间.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95b0090bcba084e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b8bfdc22445c40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "268aebd75e61c6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20d65f30541744d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "src/线性代数-/chaos/draw_捋清楚关系_chaos.md"
+              }
+            }
+          },
+          {
+            "id": "a5a1722a56193d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -57,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#symbol",
+                "query": "平凡解",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md"
+                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md"
               }
             }
           },
@@ -175,19 +287,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
       "notion-like-tables:Create new loom": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "附件/525px-Stationary_vs_inflection_pts.svg.png",
-    "src/线性代数-/线性空间与线性变换/子空间的基.md",
-    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
-    "src/线性代数-/线性空间与线性变换/四个基本子空间/-mod-四个基本子空间.md",
-    "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
     "src/线性代数-/线性空间与线性变换/零子空间.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
     "src/线性代数-/线性空间与线性变换/四个基本子空间/零空间.md",
     "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
+    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "src/线性代数-/-术语/标准基.md",
+    "src/线性代数-/线性空间与线性变换/子空间的基.md",
+    "src/线性代数-/chaos/draw_捋清楚关系_chaos.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "src/线性代数-/线性空间与线性变换/线性变换.md",
+    "src/线性代数-/线性方程组/齐次线性方程组.md",
+    "src/线性代数-/-术语/平凡解.md",
+    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
+    "src/线性代数-/线性空间与线性变换/线性组合.md",
+    "src/线性代数-/chaos/组与集合的区别.md",
+    "附件/Screenshot_20230811_162700.png",
+    "附件/Screenshot_20230811_162003.png",
+    "附件/525px-Stationary_vs_inflection_pts.svg.png",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/-mod-四个基本子空间.md",
     "标签系统.md",
     "README.md",
     "笔记规范-/文件夹结构&文件位置 规范.md",
@@ -198,16 +322,8 @@
     "笔记规范-/形式化格式规范.md",
     "src/线性代数-/线性空间与线性变换/四个基本子空间/左零空间.md",
     "src/线性代数-/线性空间与线性变换/四个基本子空间",
-    "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
     "src/线性代数-/矩阵与行列式/矩阵分解法/LU.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵乘法.md",
-    "src/线性代数-/矩阵与行列式/矩阵分解法/参考.md",
     "附件/The-Art-of-Linear-Algebra-zh-CN.pdf",
-    "src/线性代数-/矩阵与行列式/矩阵分解法/UΣVT.md",
-    "src/线性代数-/矩阵与行列式/矩阵分解法/QΛQT.md",
-    "src/线性代数-/矩阵与行列式/矩阵分解法/QR.md",
-    "src/线性代数-/矩阵与行列式/矩阵分解法/CR.md",
-    "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块初等阵与分块矩阵的初等变换.md",
     "src/线性代数-/矩阵与行列式/矩阵分解法",
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算",
     "附件/Screenshot_20230808_163331.png",
@@ -220,10 +336,7 @@
     "附件/Screenshot_20230806_160558.png",
     "附件/Matrix_transpose.gif",
     "附件/Pasted image 20230805202405.png",
-    "附件/Pasted image 20230805202338.png",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算",
-    "附件/Screenshot_20230805_195112.png",
-    "附件/Screenshot_20230803_205620.png",
     "src/线性代数-/chaos/奇怪的题目",
     "src/线性代数-/线性空间与线性变换",
     "chaos/chaos_1_.canvas",
