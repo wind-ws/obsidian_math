@@ -8,22 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "479709e239364081",
+            "id": "d4400dae99081f2f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md"
+                "file": "src/线性代数-/chaos/draw_捋清楚关系_chaos.md"
               }
             }
           },
           {
-            "id": "d143a7fdee56f237",
+            "id": "6a00640f3553fe5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
+                "file": "src/线性代数-/线性空间与线性变换/子空间的维数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,12 +31,12 @@
             }
           },
           {
-            "id": "69384229fc484b7f",
+            "id": "e4e0d40ccc38d7c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/四个基本子空间/零空间.md",
+                "file": "src/线性代数-/chaos/秩.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "bc70d6c765815d5b",
+            "id": "d6ffad3c180907f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
+                "file": "src/线性代数-/线性空间与线性变换/子空间的基.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,20 +57,7 @@
             }
           },
           {
-            "id": "4539e35d32189a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/零子空间.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95b0090bcba084e2",
+            "id": "335865b717217549",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,12 +70,12 @@
             }
           },
           {
-            "id": "7b8bfdc22445c40d",
+            "id": "603b937afebb48d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
+                "file": "src/线性代数-/线性空间与线性变换/线性组合.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,35 +83,12 @@
             }
           },
           {
-            "id": "268aebd75e61c6d5",
+            "id": "9b93c6206f250734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d65f30541744d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "src/线性代数-/chaos/draw_捋清楚关系_chaos.md"
-              }
-            }
-          },
-          {
-            "id": "a5a1722a56193d6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
+                "file": "src/线性代数-/chaos/坐标向量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,20 +257,25 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/线性空间与线性变换/零子空间.md",
-    "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
-    "src/线性代数-/线性空间与线性变换/四个基本子空间/零空间.md",
-    "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
     "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
-    "src/线性代数-/-术语/标准基.md",
+    "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
+    "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
     "src/线性代数-/线性空间与线性变换/子空间的基.md",
+    "src/线性代数-/chaos/秩.md",
+    "src/线性代数-/线性空间与线性变换/子空间的维数.md",
     "src/线性代数-/chaos/draw_捋清楚关系_chaos.md",
-    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/列空间.md",
+    "src/线性代数-/线性空间与线性变换/线性组合.md",
+    "src/线性代数-/线性空间与线性变换/线性子空间(向量子空间).md",
+    "src/线性代数-/chaos/坐标向量.md",
     "src/线性代数-/线性空间与线性变换/线性变换.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "src/线性代数-/线性空间与线性变换/零子空间.md",
+    "src/线性代数-/线性空间与线性变换/四个基本子空间/零空间.md",
+    "src/线性代数-/-术语/标准基.md",
     "src/线性代数-/线性方程组/齐次线性方程组.md",
     "src/线性代数-/-术语/平凡解.md",
     "src/线性代数-/线性空间与线性变换/线性 生成(张成) 空间span.md",
-    "src/线性代数-/线性空间与线性变换/线性组合.md",
     "src/线性代数-/chaos/组与集合的区别.md",
     "附件/Screenshot_20230811_162700.png",
     "附件/Screenshot_20230811_162003.png",
@@ -317,12 +286,7 @@
     "笔记规范-/文件夹结构&文件位置 规范.md",
     "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
     "src/线性代数-/线性空间与线性变换/四个基本子空间/行空间.md",
-    "笔记规范_.md",
-    "笔记规范-/形式化格式意义.md",
-    "笔记规范-/形式化格式规范.md",
-    "src/线性代数-/线性空间与线性变换/四个基本子空间/左零空间.md",
     "src/线性代数-/线性空间与线性变换/四个基本子空间",
-    "src/线性代数-/矩阵与行列式/矩阵分解法/LU.md",
     "附件/The-Art-of-Linear-Algebra-zh-CN.pdf",
     "src/线性代数-/矩阵与行列式/矩阵分解法",
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算",
