@@ -7,23 +7,19 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] 2.5
-- [ ] 有时间去深度学习 行列式 的计算方法,为什么可以这样等等
-- [ ] 4.2 @{2023-08-17}
-- [ ] 4.3
 - [ ] 4.4
 - [ ] 4.5
 - [ ] 4.6
 - [ ] 4.7
 - [ ] 4.8
 - [ ] 4.9
-
-
-## Waiting
-
+- [ ] 有时间去深度学习 行列式 的计算方法,为什么可以这样等等
 
 
 ## Done
 
+- [ ] 4.3 @{2023-08-18} (end: that day)
+- [ ] 4.2 @{2023-08-17} (end:that day)
 - [ ] 4.1 @{2023-08-17} (end:that day)
 - [ ] 3.3 @{2023-08-15} (end:08-16)
 - [ ] 3.2 @{2023-08-14} (end:08-15)
@@ -37,10 +33,14 @@ kanban-plugin: basic
 - [ ] 2.2 @{2023-08-07} (end:08-07)
 
 
+## Waiting
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","lane-width":400,"tag-colors":[],"hide-date-in-title":true,"show-relative-date":true}
+{"kanban-plugin":"basic","lane-width":200,"tag-colors":[],"hide-date-in-title":true,"show-relative-date":true}
 ```
 %%
