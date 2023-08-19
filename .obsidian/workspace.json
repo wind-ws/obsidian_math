@@ -68,9 +68,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db6008a6bb940cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/chaos/坐标向量.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ecab5df8e168b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/向量/子空间/子空间的基.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -274,13 +300,16 @@
   },
   "active": "554a8cb862fad43b",
   "lastOpenFiles": [
-    "src/线性代数-/线性空间与线性变换/线性无关.md",
-    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "src/线性代数-/chaos/坐标向量.md",
+    "src/线性代数-/-术语/同构.md",
+    "src/线性代数-/线性空间与线性变换/线性组合.md",
+    "附件/Screenshot_20230819_192732.png",
     "src/线性代数-/向量/子空间/子空间的基.md",
+    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
     "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
     "src/线性代数-/-术语/标准基.md",
-    "src/线性代数-/线性空间与线性变换/线性组合.md",
     "src/线性代数-/chaos/draw_捋清楚关系_chaos.md",
     "src/线性代数-/向量/子空间/线性子空间(向量子空间).md",
     "src/线性代数-/向量/子空间/零空间和列空间的对比.md",
@@ -300,13 +329,11 @@
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
     "src/线性代数-/矩阵与行列式/雅可比行列式.md",
     "附件/Screenshot_20230815_153741.png",
-    "src/线性代数-/chaos/坐标向量.md",
     "src/线性代数-/线性空间与线性变换/线性变换.md",
     "src/线性代数-/矩阵与行列式/矩阵 初等变换.md",
     "附件/Screenshot_20230814_183557.png",
     "附件/Screenshot_20230814_155224.png",
     "src/线性代数-/向量/子空间/子空间的维数.md",
-    "src/线性代数-/chaos/秩.md",
     "附件/Screenshot_20230811_162700.png",
     "附件/Screenshot_20230811_162003.png",
     "附件/525px-Stationary_vs_inflection_pts.svg.png",
@@ -314,7 +341,6 @@
     "附件/The-Art-of-Linear-Algebra-zh-CN.pdf",
     "src/线性代数-/矩阵与行列式/矩阵分解法",
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算",
-    "附件/Screenshot_20230808_163331.png",
     "当前计划-/学习计划-/线性代数-",
     "src/线性代数-/矩阵与行列式/行列式",
     "src/线性代数-/-术语/矩阵",
