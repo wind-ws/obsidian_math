@@ -5,6 +5,7 @@ pending
 prior
 play
 parsed
+pointless
 basic
 br
 book
@@ -40,6 +41,7 @@ sorting
 spec
 sortspec
 scalar
+skip
 chaos
 column
 class
@@ -94,6 +96,7 @@ name
 null
 notion
 note
+next
 aspectRatio
 all
 ai
