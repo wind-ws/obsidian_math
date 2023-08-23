@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] 2.5
-- [ ] 5.2
 - [ ] 5.3
 - [ ] 5.4
 - [ ] 5.5
@@ -20,6 +19,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] 5.2 @{2023-08-23}(end: that day)
 - [ ] 5.1 @{2023-08-22}(end: that day)
 - [ ] 4.9 @{2023-08-22}(end: that day)(pointless , skip)
 - [ ] 4.8 @{2023-08-22} (end: that day)(pointless , skip)
