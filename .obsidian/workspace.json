@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "02085c61c9efad55",
+            "id": "39a580c2643ed040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/chaos/代数重数.md",
+                "file": "src/线性代数-/向量/特征值与特征向量/对角化.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,38 +47,12 @@
             }
           },
           {
-            "id": "68a46a05d04c694a",
+            "id": "324a16d313428675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "192909c03cd1bd15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/行列式的性质.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6398eadc307e91df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
+                "file": "src/线性代数-/向量/特征值与特征向量/相似性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征方程.md",
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征方程.md",
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征方程.md"
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md"
               }
             }
           },
@@ -226,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征方程.md",
+                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -290,13 +264,18 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "src/线性代数-/向量/特征值与特征向量/对角化.md",
     "src/线性代数-/向量/特征值与特征向量/特征方程.md",
     "src/线性代数-/向量/特征值与特征向量/特征值与特征向量.md",
+    "src/线性代数-/向量/特征值与特征向量/相似性.md",
+    "src/线性代数-/向量/特征值与特征向量/相异特征值.md",
+    "附件/Screenshot_20230824_142903.png",
+    "src/线性代数-/-术语/矩阵/对角矩阵.md",
+    "src/线性代数-/向量/特征值与特征向量/特征多项式.md",
+    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
     "src/线性代数-/chaos/代数重数.md",
     "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
     "src/线性代数-/矩阵与行列式/行列式的性质.md",
-    "src/线性代数-/向量/特征值与特征向量/特征多项式.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
     "src/线性代数-/矩阵与行列式/矩阵的基本运算/矩阵乘法.md",
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算/分块矩阵乘法.md",
@@ -315,11 +294,7 @@
     "src/线性代数-/向量/子空间/零空间和列空间的对比.md",
     "附件/Screenshot_20230821_143559.png",
     "src/线性代数-/-术语/同构.md",
-    "src/线性代数-/线性空间与线性变换/线性组合.md",
     "附件/Screenshot_20230819_192732.png",
-    "src/线性代数-/-术语/标准基.md",
-    "src/线性代数-/向量/子空间/线性子空间(向量子空间).md",
-    "src/线性代数-/向量/子空间/四个基本子空间/列空间.md",
     "附件/Screenshot_20230817_151137.png",
     "附件/Screenshot_20230817_150507.png",
     "附件/Screenshot_20230817_150337.png",
@@ -327,7 +302,6 @@
     "附件/Screenshot_20230815_153741.png",
     "附件/Screenshot_20230814_183557.png",
     "附件/Screenshot_20230814_155224.png",
-    "附件/Screenshot_20230811_162700.png",
     "src/线性代数-/向量/子空间/四个基本子空间",
     "附件/The-Art-of-Linear-Algebra-zh-CN.pdf",
     "src/线性代数-/矩阵与行列式/矩阵分解法",

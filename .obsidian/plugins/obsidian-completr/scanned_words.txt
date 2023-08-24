@@ -59,6 +59,7 @@ eb
 example
 else
 excalidraw
+eigenvalues
 term
 todo
 theorem
@@ -132,6 +133,7 @@ description
 descriptive
 displayed
 document
+distinct
 Vxp
 Vxvy
 VIEW
