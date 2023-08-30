@@ -15,6 +15,9 @@ bf
 becfb
 booK
 bKGD
+begin
+bmatrix
+boldsymbol
 Waiting
 Watching
 WIDAT
@@ -54,6 +57,7 @@ cbff
 callout
 code
 console
+cdots
 end
 eb
 example
@@ -106,6 +110,7 @@ annotation
 above
 author
 abolish
+abea
 unset
 unsafe
 understand
@@ -113,6 +118,7 @@ using
 verticalPadding
 vx
 vdOBat
+vdots
 footerRows
 footerCells
 filterRules
@@ -134,6 +140,7 @@ descriptive
 displayed
 document
 distinct
+dots
 Vxp
 Vxvy
 VIEW
@@ -163,6 +170,7 @@ Stuff
 Sheldon
 Switch
 Span
+Skip
 Nested
 Note
 Text
