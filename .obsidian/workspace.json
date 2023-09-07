@@ -8,64 +8,129 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cb85e8d04da5805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征向量与线性变换.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e83701e849b3acc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/线性空间与线性变换/线性变换.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e7fae556b93472a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/基础数学(高中数学)/复数/共轭复数和绝对值的性质.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbbdc9760c5dfe2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/复特征值.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e7f607dfd8ff5004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "src/线性代数-/chaos/范数(长度).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3a5b7ed5f90968e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/chaos/正交性/正交向量.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92c61c530313cdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/chaos/向量距离.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc800d8ed16c5997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/chaos/正交性/正交补.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e99c7b2066c924fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/chaos/正交性/正交基.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364bfff2cf47b224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/线性空间与线性变换/线性无关.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "993f8ab1241732af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/-术语/矩阵/单位矩阵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffd6dfae1272da76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/向量/向量/单位向量.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f255b6b7d3cd54f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/向量/子空间/四个基本子空间/行空间.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60b11932457ce99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/向量/子空间/四个基本子空间/列空间.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/chaos/范数(长度).md",
+                "file": "src/线性代数-/chaos/正交性/正交基.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/chaos/范数(长度).md",
+                "file": "src/线性代数-/chaos/正交性/正交基.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/chaos/范数(长度).md"
+                "file": "src/线性代数-/chaos/正交性/正交基.md"
               }
             }
           },
@@ -226,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/chaos/范数(长度).md",
+                "file": "src/线性代数-/chaos/正交性/正交基.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,12 +353,30 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "e99c7b2066c924fd",
   "lastOpenFiles": [
+    "src/线性代数-/chaos/正交性/正交集.md",
+    "src/线性代数-/chaos/正交性/正交基.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "src/线性代数-/-术语/矩阵/单位矩阵.md",
+    "src/线性代数-/-术语/矩阵/标准矩阵.md",
+    "附件/Screenshot_20230907_203853.png",
+    "src/线性代数-/chaos/向量距离.md",
+    "src/线性代数-/chaos/正交性/正交补.md",
+    "src/线性代数-/chaos/正交性",
     "src/线性代数-/chaos/内积(点积).md",
+    "src/线性代数-/chaos/正交性/正交向量.md",
     "src/线性代数-/chaos/范数(长度).md",
-    "src/线性代数-/chaos/内.md",
+    "src/线性代数-/向量/向量/单位向量.md",
     "src/线性代数-/向量/特征值与特征向量/特征向量与线性变换.md",
+    "src/线性代数-/向量/子空间/四个基本子空间/行空间.md",
+    "src/线性代数-/向量/子空间/四个基本子空间/列空间.md",
+    "附件/Screenshot_20230907_170012.png",
+    "附件/Screenshot_20230907_163606.png",
+    "附件/Screenshot_20230907_160623.png",
+    "附件/Screenshot_20230906_215356.png",
+    "附件/Screenshot_20230907_010104.png",
+    "src/线性代数-/chaos/内.md",
     "src/线性代数-/chaos/坐标向量.md",
     "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
     "src/线性代数-/向量/特征值与特征向量/复特征值.md",
@@ -309,25 +392,8 @@
     "src/线性代数-/-术语/矩阵/坐标变换矩阵.md",
     "src/线性代数-/chaos/坐标向量^123456.md",
     "附件/Screenshot_20230825_211243.png",
-    "附件/Screenshot_20230825_202707.png",
-    "附件/Screenshot_20230825_202733.png",
-    "src/线性代数-/向量/特征值与特征向量/特征方程.md",
-    "src/线性代数-/chaos/定义域&余定义域&值域.md",
-    "src/线性代数-/向量/特征值与特征向量/对角化.md",
-    "src/线性代数-/矩阵与行列式/矩阵的基本运算/逆矩阵.md",
-    "src/线性代数-/-术语/矩阵/非奇异方阵(可逆矩阵).md",
-    "src/基础数学(高中数学)/chaos/一元二次方程.md",
     "src/基础数学(高中数学)/chaos",
-    "src/线性代数-/向量/特征值与特征向量/相似性.md",
-    "src/线性代数-/向量/特征值与特征向量/相异特征值.md",
-    "附件/Screenshot_20230824_142903.png",
-    "src/线性代数-/-术语/矩阵/对角矩阵.md",
-    "src/线性代数-/向量/特征值与特征向量/特征多项式.md",
-    "src/线性代数-/chaos/代数重数.md",
     "src/线性代数-/向量/特征值与特征向量",
-    "附件/Screenshot_20230821_213105.png",
-    "附件/Screenshot_20230821_143559.png",
-    "附件/Screenshot_20230819_192732.png",
     "src/线性代数-/向量/子空间",
     "src/线性代数-/向量/子空间/四个基本子空间",
     "附件/The-Art-of-Linear-Algebra-zh-CN.pdf",
@@ -335,7 +401,6 @@
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算",
     "当前计划-/学习计划-/线性代数-",
     "src/线性代数-/矩阵与行列式/行列式",
-    "src/线性代数-/-术语/矩阵",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
