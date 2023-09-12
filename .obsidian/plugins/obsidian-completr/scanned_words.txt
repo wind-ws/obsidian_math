@@ -6,6 +6,8 @@ prior
 play
 parsed
 pointless
+projy
+proj
 basic
 br
 book
