@@ -34,9 +34,9 @@
   "minimal-style@@ui2@@dark": "#00000000",
   "minimal-style@@active-line-bg@@dark": "#00000000",
   "minimal-style@@hl2@@dark": "#79E3D630",
-  "minimal-style@@bg1@@dark": "#1C2C25",
+  "minimal-style@@bg1@@dark": "#011C21",
   "minimal-style@@base@@dark": "#000000",
-  "minimal-style@@tx1@@dark": "#93B299",
+  "minimal-style@@tx1@@dark": "#C7D9D2",
   "minimal-style@@blockquote-color@@dark": "#0C7F71",
   "minimal-style@@blockquote-border-thickness": 4,
   "minimal-style@@blockquote-size": "1.2em"

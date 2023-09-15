@@ -4,75 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "765fce1718368d48",
+        "id": "f59107924c2818f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ae52e1cf86a850",
+            "id": "dcb043674afb53f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/-术语/矩阵/对称矩阵.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "35dbfe93cb0e5fd6",
+            "id": "252639416c4aeca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征值与特征向量.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39bf6e35188750d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征向量与线性变换.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3591db38afec7f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/对角化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71e2e1d7aad7c815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数-/向量/特征值与特征向量/特征值与特征向量.md",
+                "file": "src/线性代数-/矩阵与行列式/行列式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/对称矩阵.md",
+                "file": "src/线性代数-/矩阵与行列式/克莱默法则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/对称矩阵.md",
+                "file": "src/线性代数-/矩阵与行列式/克莱默法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/对称矩阵.md"
+                "file": "src/线性代数-/矩阵与行列式/克莱默法则.md"
               }
             }
           },
@@ -197,9 +154,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "75bf04f382617caa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -212,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/线性代数-/-术语/矩阵/对称矩阵.md",
+                "file": "src/线性代数-/矩阵与行列式/克莱默法则.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,8 +218,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "cec419bf16feb757",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -276,43 +252,44 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/向量/特征值与特征向量/特征值与特征向量.md",
+    "src/线性代数-/矩阵与行列式/行列式.md",
+    "src/线性代数-/chaos/正交性/可正交对角化.md",
     "src/线性代数-/向量/特征值与特征向量/特征向量与线性变换.md",
+    "src/线性代数-/向量/特征值与特征向量/特征值与特征向量.md",
+    "src/线性代数-/-术语/分量.md",
     "src/线性代数-/-术语/矩阵/对称矩阵.md",
+    "src/线性代数-/chaos/二次型/二次型的分类.md",
+    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "附件/Screenshot_20230915_210042.png",
+    "src/线性代数-/chaos/二次型/二次型.md",
+    "src/线性代数-/-术语/主轴.md",
+    "src/线性代数-/chaos/交叉乘积.md",
+    "src/线性代数-/chaos/谱分解.md",
+    "src/线性代数-/chaos/谱定理.md",
+    "src/线性代数-/chaos/二次型",
+    "src/线性代数-/向量/特征值与特征向量/对角化.md",
+    "src/线性代数-/chaos/正交性/单位正交基.md",
     "src/线性代数-/-术语/矩阵/对角矩阵.md",
     "src/线性代数-/-术语/矩阵/正交矩阵.md",
-    "src/线性代数-/向量/特征值与特征向量/对角化.md",
     "src/线性代数-/向量/特征值与特征向量/特征空间.md",
     "src/线性代数-/向量/特征值与特征向量/相异特征值.md",
     "src/线性代数-/向量/特征值与特征向量/相似性.md",
-    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
     "src/线性代数-/chaos/向量距离.md",
     "src/线性代数-/chaos/正交性/单位正交集.md",
     "src/线性代数-/线性空间与线性变换/线性无关.md",
-    "src/线性代数-/chaos/正交性/单位正交基.md",
     "src/线性代数-/chaos/正交性/正交投影.md",
     "附件/Screenshot_20230909_164441.png",
     "src/线性代数-/chaos/内积(点积).md",
     "src/线性代数-/chaos/正交性/正交集.md",
     "附件/Screenshot_20230909_145153.png",
-    "src/线性代数-/chaos/范数(长度).md",
-    "src/线性代数-/chaos/投影.md",
-    "src/线性代数-/chaos/二次型.md",
-    "src/线性代数-/chaos/正交性/正交基.md",
-    "src/线性代数-/chaos/正交性/正交补.md",
-    "src/线性代数-/-术语/矩阵/合同矩阵.md",
-    "src/线性代数-/-术语/矩阵/单位矩阵.md",
-    "src/线性代数-/-术语/矩阵/标准矩阵.md",
     "附件/Screenshot_20230907_203853.png",
     "src/线性代数-/chaos/正交性",
-    "src/线性代数-/chaos/正交性/正交向量.md",
     "附件/Screenshot_20230907_170012.png",
     "附件/Screenshot_20230907_163606.png",
     "附件/Screenshot_20230907_160623.png",
     "附件/Screenshot_20230906_215356.png",
     "附件/Screenshot_20230907_010104.png",
     "附件/Screenshot_20230828_214253.png",
-    "附件/Screenshot_20230826_204255.png",
     "src/基础数学(高中数学)/chaos",
     "src/线性代数-/向量/特征值与特征向量",
     "src/线性代数-/向量/子空间",
@@ -321,7 +298,6 @@
     "src/线性代数-/矩阵与行列式/矩阵分解法",
     "src/线性代数-/矩阵与行列式/分块矩阵的基本运算",
     "当前计划-/学习计划-/线性代数-",
-    "src/线性代数-/矩阵与行列式/行列式",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

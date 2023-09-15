@@ -29,6 +29,8 @@ Idea
 IHDR
 IDATx
 Progress
+PDPT
+PTDTpT
 Done
 David
 Drawing
@@ -150,6 +152,7 @@ xp
 xo
 xa
 xxx
+xTAx
 Monotone
 More
 MORE
