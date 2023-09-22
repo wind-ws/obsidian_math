@@ -20,6 +20,7 @@ bKGD
 begin
 bmatrix
 boldsymbol
+binary
 Waiting
 Watching
 WIDAT
@@ -68,6 +69,7 @@ example
 else
 excalidraw
 eigenvalues
+edges
 term
 todo
 theorem
@@ -80,6 +82,7 @@ this
 that
 reference
 resource
+relation
 imperfect
 inside
 introductions
@@ -99,6 +102,7 @@ headerCells
 green
 gu
 good
+github
 none
 not
 name
@@ -106,6 +110,7 @@ null
 notion
 note
 next
+nodes
 aspectRatio
 all
 ai
@@ -115,6 +120,7 @@ above
 author
 abolish
 abea
+alpha
 unset
 unsafe
 understand
@@ -189,3 +195,4 @@ OPTIONS
 KCFZ
 zNSVLF
 JtzHOB
+yuan

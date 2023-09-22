@@ -61,6 +61,12 @@ kanban-plugin: basic
 - [ ] 4.8(skip)
 
 
+## resource
+
+- [ ] [[https://www.bilibili.com/video/BV16L411c78w/?p=150&vd_source=495dcbac187477e6b86d1fab4d4762a7]]
+- [ ] [[https://www.bilibili.com/video/BV1nf4y1n7P1/?p=59&vd_source=495dcbac187477e6b86d1fab4d4762a7]]
+
+
 
 
 %% kanban:settings
