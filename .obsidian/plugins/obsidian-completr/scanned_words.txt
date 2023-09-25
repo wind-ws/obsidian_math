@@ -83,6 +83,7 @@ that
 reference
 resource
 relation
+right
 imperfect
 inside
 introductions
@@ -95,6 +96,7 @@ more
 math
 multi
 menu
+mathbb
 hltr
 horizontalPadding
 headerRows
@@ -138,6 +140,7 @@ fab
 ff
 function
 folder
+frac
 EP
 Error
 EXCALIDRAW
@@ -151,6 +154,7 @@ displayed
 document
 distinct
 dots
+displaystyle
 Vxp
 Vxvy
 VIEW
@@ -173,6 +177,7 @@ README
 RREF
 lable
 link
+left
 AI
 Axler
 others
