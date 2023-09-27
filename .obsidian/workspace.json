@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49c8e08ae2770245",
+            "id": "cfeb7e00f3d3ff10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/数列/等差数列.md",
+                "file": "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,20 @@
             }
           },
           {
-            "id": "cfeb7e00f3d3ff10",
+            "id": "a9bc5720c671f43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/运算法则-/指数运算法则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d16ef88772504d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +47,12 @@
             }
           },
           {
-            "id": "0a2698c538e2fda8",
+            "id": "30d8074166200ad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+                "file": "src/运算法则-/指数运算法则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +60,12 @@
             }
           },
           {
-            "id": "f96a9d037161953a",
+            "id": "651f676e65d4e6b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/符号&记号-/° (度数).md",
+                "file": "src/基础数学(高中数学)/chaos/不等式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,14 +94,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "d2dcc62d519122e5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -127,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md",
+                "file": "src/基础数学(高中数学)/chaos/不等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md",
+                "file": "src/基础数学(高中数学)/chaos/不等式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md"
+                "file": "src/基础数学(高中数学)/chaos/不等式.md"
               }
             }
           },
@@ -210,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md",
+                "file": "src/基础数学(高中数学)/chaos/不等式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -257,9 +262,17 @@
               "type": "style-settings",
               "state": {}
             }
+          },
+          {
+            "id": "d2dcc62d519122e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,39 +294,39 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "651f676e65d4e6b0",
   "lastOpenFiles": [
+    "src/基础数学(高中数学)/chaos/阶乘与双阶乘.md",
+    "src/基础数学(高中数学)/chaos/不等式.md",
     "src/运算法则-/指数运算法则.md",
     "src/运算法则-/对数运算法则.md",
+    "chaos/术语/逆映射(反函数).md",
+    "src/线性代数-/-考研/chaos/二阶递推式.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
+    "src/微积分-/导数-/高阶导数.md",
+    "src/微积分-/导数-/导数基础_.md",
+    "src/线性代数-/-考研/题目/困惑/2023-09-16.md",
+    "src/线性代数-/-考研/题目/困惑.canvas",
+    "src/线性代数-/-考研/题目/一般/2023-09-16.md",
+    "src/基础数学(高中数学)/chaos/自然常数(自然底数,欧拉数).md",
+    "src/基础数学(高中数学)/数列/等比数列.md",
+    "src/基础数学(高中数学)/chaos/因式分解公式.md",
+    "src/基础数学(高中数学)/chaos/一元二次方程.md",
+    "src/基础数学(高中数学)/数列/常见的数列前n项和.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+    "src/基础数学(高中数学)/数列/等差数列.md",
     "src/数学公理系统_.md",
     "src/运算法则_.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/基础数学(高中数学)/数列/等差数列.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
     "src/符号&记号-/° (度数).md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角恒等式.md",
     "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
-    "src/基础数学(高中数学)/数列/常见的数列前n项和.md",
-    "src/基础数学(高中数学)/数列/等比数列.md",
-    "src/基础数学(高中数学)/chaos/自然常数(自然底数,欧拉数).md",
     "src/基础数学(高中数学)/数列",
-    "chaos/术语/逆映射(反函数).md",
     "chaos/术语/双射.md",
-    "chaos/术语/单射.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/余弦定理.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
-    "src/线性代数-/-考研/题目/困惑/2023-09-16.md",
-    "src/线性代数-/矩阵与行列式/行列式.md",
-    "src/微积分-/积分-/积分表.md",
-    "src/线性代数-/-考研/题目/一般/2023-09-16.md",
-    "src/线性代数-/矩阵与行列式/矩阵的行和列.md",
-    "src/线性代数-/矩阵与行列式/行列式的性质.md",
-    "src/线性代数-/线性方程组/齐次线性方程组.md",
     "附件/Screenshot_20230916_175653.png",
     "附件/Screenshot_20230916_175601.png",
     "src/线性代数-/-考研/题目/一般",
-    "src/线性代数-/-考研/题目/困惑.canvas",
     "附件/Screenshot_20230916_173539.png",
     "附件/Screenshot_20230916_173531.png",
     "src/线性代数-/-考研/题目/困惑",
