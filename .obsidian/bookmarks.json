@@ -5,9 +5,47 @@
       "ctime": 1695813128929,
       "items": [
         {
-          "type": "file",
-          "ctime": 1695821917186,
-          "path": "src/基础数学(高中数学)/chaos/不等式.md"
+          "type": "group",
+          "ctime": 1695908602632,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1695813147548,
+              "path": "src/运算法则-/指数运算法则.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1695813186235,
+              "path": "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1695813147548,
+              "path": "src/运算法则-/对数运算法则.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1695813147548,
+              "path": "src/运算法则-/幂(指数)运算法则.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1695813232846,
+              "path": "src/基础数学(高中数学)/chaos/因式分解公式.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1695821917186,
+              "path": "src/基础数学(高中数学)/chaos/不等式.md"
+            }
+          ],
+          "title": "进行中"
+        },
+        {
+          "type": "group",
+          "ctime": 1695908926634,
+          "items": [],
+          "title": "以熟悉"
         },
         {
           "type": "file",
@@ -18,11 +56,6 @@
           "type": "file",
           "ctime": 1695813232846,
           "path": "src/基础数学(高中数学)/chaos/阶乘与双阶乘.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1695813232846,
-          "path": "src/基础数学(高中数学)/chaos/因式分解公式.md"
         },
         {
           "type": "file",
@@ -41,28 +74,8 @@
         },
         {
           "type": "file",
-          "ctime": 1695813186235,
-          "path": "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1695813147548,
-          "path": "src/运算法则-/幂(指数)运算法则.md"
-        },
-        {
-          "type": "file",
           "ctime": 1695813147548,
           "path": "src/运算法则-/分数 运算法则.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1695813147548,
-          "path": "src/运算法则-/对数运算法则.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1695813147548,
-          "path": "src/运算法则-/指数运算法则.md"
         },
         {
           "type": "group",
