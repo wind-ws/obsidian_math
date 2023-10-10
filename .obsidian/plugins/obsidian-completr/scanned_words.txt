@@ -123,6 +123,10 @@ author
 abolish
 abea
 alpha
+arcsin
+arccos
+arctan
+arccot
 unset
 unsafe
 understand
