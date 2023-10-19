@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "608c731ad10f014e",
+        "id": "7bcbdf7eb4a7e87d",
         "type": "tabs",
         "children": [
           {
-            "id": "9955061a397843d5",
+            "id": "31fd4bca605569f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e8192ab336f4a21f",
+            "id": "0fb4391c1b71d268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 洛必达法则 求极限.md",
+                "file": "src/微积分-/极限-/极限基础-/极限运算法则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,7 @@
             }
           },
           {
-            "id": "aa85ec3bb8a57b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-定理&引理&法则&公式&...-/洛必达法则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f960186e78509af",
+            "id": "32b7688521b25a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,12 +47,12 @@
             }
           },
           {
-            "id": "7569eb729a869826",
+            "id": "fc80ea3de3b414df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
+                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,33 @@
             }
           },
           {
-            "id": "9c86f0131775ef21",
+            "id": "10d1c3ea64aa7883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c654a149a109f198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a78be53e224310a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,12 +99,25 @@
             }
           },
           {
-            "id": "ea50e7ddd116d1f1",
+            "id": "02c284cde5c98316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+                "file": "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b5ef3180e9595a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/基础数学(高中数学)/数列/等差数列.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+                "file": "src/运算法则-/对数运算法则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+                "file": "src/运算法则-/对数运算法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md"
+                "file": "src/运算法则-/对数运算法则.md"
               }
             }
           },
@@ -241,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+                "file": "src/运算法则-/对数运算法则.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,14 +308,6 @@
             }
           },
           {
-            "id": "cec419bf16feb757",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
-          },
-          {
             "id": "d2dcc62d519122e5",
             "type": "leaf",
             "state": {
@@ -298,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -310,48 +328,48 @@
       "switcher:打开快速切换": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
       "workspaces:管理工作区布局": false,
-      "dbfolder:创建一个新数据库表": true,
-      "custom-sort:Toggle custom sorting": false,
       "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "notion-like-tables:Create new loom": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:创建一个新数据库表": false,
+      "notion-like-tables:Create loom": false
     }
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
     "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
-    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/洛必达法则.md",
+    "src/微积分-/极限-/极限基础-/极限运算法则.md",
+    "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
     "src/运算法则-/对数运算法则.md",
-    "src/微积分-/导数-/求导法则-/函数的 和&差&积&商 的求导法则.md",
-    "src/微积分-/导数-/求导法则-/高阶导数公式.md",
-    "src/微积分-/导数-/求导法则-/反函数的求导法则.md",
-    "src/基础数学(高中数学)/chaos/自然常数(自然底数,欧拉数).md",
-    "src/微积分-/极限-/-技巧/利用 洛必达法则 求极限.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
     "src/基础数学(高中数学)/数列/等差数列.md",
-    "src/基础数学(高中数学)/chaos/一元二次方程.md",
-    "src/基础数学(高中数学)/数列/等比数列.md",
-    "src/基础数学(高中数学)/chaos/不等式.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
+    "src/微积分-/导数-/求导法则-/函数的 和&差&积&商 的求导法则.md",
+    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
+    "src/集合论-/-术语/标量.md",
+    "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)_.md",
+    "src/集合论-/关系-/二元关系.md",
+    "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
+    "src/数理逻辑-/-术语/真值函数.md",
+    "src/数理逻辑-/-术语/原子公式(原子命题).md",
+    "src/数理逻辑-/-术语/辖域.md",
+    "src/数理逻辑-/-术语/命题函数.md",
+    "src/数理逻辑-/-术语/命题变量(命题变元、句子变量).md",
+    "src/数理逻辑-/-术语/恒真式(重言式,永真式).md",
+    "src/数理逻辑-/-术语/公理模式.md",
+    "src/数理逻辑-/-术语/闭公式(语句,句子).md",
+    "src/数理逻辑-/-术语/悖论.md",
+    "src/数理逻辑-/-术语/-相同意义术语整合.md",
     "附件/1280px-Arcsin.svg.png",
     "附件/1280px-Arctan.svg.png",
     "附件/Pasted image 20231006151215.png",
-    "src/微积分-/--考研/chaos/证明单调性.md",
-    "src/基础数学(高中数学)/chaos/数学归纳法.md",
-    "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
     "src/微积分-/--考研/chaos",
-    "src/微积分-/极限-/-技巧/利用 定积分 求极限.md",
-    "src/微积分-/极限-/-技巧/利用 有理运算法则 求极限.md",
-    "src/微积分-/极限-/极限基础-/极限运算法则.md",
-    "src/微积分-/极限-/-技巧/利用 泰勒公式 求极限.md",
-    "src/微积分-/极限-/-技巧/利用 夹逼定理 求极限.md",
-    "src/微积分-/极限-/无穷大/无穷大比较.md",
     "附件/Screenshot_20231004_173810.png",
     "src/基础数学(高中数学)/chaos/恒等变形",
     "附件/Screenshot_20231002_200017.png",

@@ -1,22 +1,30 @@
 /* src/obsidian/shared/styles.css */
 .dataloom-modal__divider {
   margin: 1.5em 0;
-  border-top: 1px solid var(--background-modifier-border);
+}
+.dataloom-modal__divider--first-child {
+  margin-top: 0;
 }
 .dataloom-modal-text--emphasize {
   color: var(--text-accent);
 }
+.dataloom-modal__title {
+  margin-bottom: 0;
+}
 
-/* src/obsidian/modal/donation-modal/styles.css */
-.dataloom-donation-modal__container {
+/* src/obsidian/modal/support-modal/styles.css */
+.dataloom-support-modal__container {
   margin-bottom: 1.5rem;
+}
+.dataloom-support-modal__badge-container {
+  border-top: 1px solid var(--background-modifier-border);
+  padding: 20px 0px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
 }
 
 /* src/obsidian/modal/welcome-modal/styles.css */
-.data-welcome-modal__title {
-  margin-top: 0em;
-  margin-bottom: 1em;
-}
 .dataloom-welcome-modal__card-container {
   display: flex;
   flex-direction: column;
@@ -116,7 +124,6 @@
   z-index: 1;
   background-color: var(--background-primary);
   border-top: 1px solid var(--table-border-color);
-  border-bottom: 1px solid var(--table-border-color);
 }
 .dataloom-body > .dataloom-row:last-child > .dataloom-cell {
   border-bottom: 0;
@@ -170,75 +177,30 @@
 .dataloom-button--text:hover {
   background-color: var(--background-modifier-hover) !important;
 }
-
-/* src/react/shared/menu/styles.css */
-.dataloom-menu {
-  width: 0;
-  height: 0;
-}
-.dataloom-menu__container {
-  position: absolute;
-  z-index: var(--layer-menu);
-  background-color: var(--background-primary);
-  font-weight: 400;
+.dataloom-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
 }
 
-/* src/react/shared/flex/styles.css */
-.dataloom-flex {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
+/* src/react/shared/icon/styles.css */
+svg.dataloom-svg {
+  vertical-align: middle;
 }
-
-/* src/shared/spacing/styles.css */
-.dataloom-overflow--wrap {
-  overflow-wrap: break-word;
-  overflow: hidden;
-  white-space: normal;
+svg.dataloom-svg--sm {
+  width: var(--icon-s);
+  height: var(--icon-s);
 }
-.dataloom-overflow--hide {
-  overflow: hidden;
-  overflow-wrap: normal;
-  white-space: nowrap;
+svg.dataloom-svg--md {
+  width: var(--icon-m);
+  height: var(--icon-m);
 }
-.dataloom-overflow--ellipsis {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+svg.dataloom-svg--lg {
+  width: var(--icon-l);
+  height: var(--icon-l);
 }
-
-/* src/react/shared/text/styles.css */
-.dataloom-text {
-  white-space: nowrap;
-  margin: 0;
-  color: var(--text-normal);
-}
-.dataloom-text--muted {
-  color: var(--text-muted);
-}
-.dataloom-text--faint {
-  color: var(--text-faint);
-}
-.dataloom-text--semibold {
-  font-weight: var(--font-semibold);
-}
-
-/* src/react/shared/menu-item/styles.css */
-.dataloom-menu-item {
-  display: flex;
-  align-items: center;
-  padding: var(--dataloom-spacing--sm) var(--dataloom-spacing--lg);
-  width: 100%;
-}
-
-/* src/react/loom-app/row-options/styles.css */
-.dataloom-row-options {
-  height: 100%;
-  width: 100%;
-}
-.dataloom-row-options__container {
-  width: 100%;
-  height: 100%;
+svg.dataloom-svg--xl {
+  width: 20px;
+  height: 20px;
 }
 
 /* src/react/shared/input/styles.css */
@@ -260,8 +222,6 @@
   background-color: var(--background-secondary) !important;
 }
 .dataloom-input--numeric {
-  border: 0 !important;
-  border-radius: 0 !important;
   text-align: right;
 }
 .dataloom-input--error {
@@ -288,6 +248,10 @@
   border: 1px solid var(--background-modifier-border);
   background-color: var(--color-accent);
 }
+.dataloom-bubble.dataloom-bubble--no-fill {
+  background-color: transparent;
+  color: inherit;
+}
 .dataloom-bubble span {
   max-width: 150px;
   overflow: hidden;
@@ -295,9 +259,108 @@
   white-space: nowrap;
 }
 
+/* src/react/shared/menu/styles.css */
+.dataloom-menu {
+  width: 0;
+  height: 0;
+}
+.dataloom-menu__container {
+  position: absolute;
+  z-index: var(--layer-menu);
+  background-color: var(--background-primary);
+  font-weight: 400;
+}
+
+/* src/shared/spacing/styles.css */
+.dataloom-overflow--wrap {
+  overflow: hidden;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+.dataloom-overflow--hide {
+  overflow: hidden;
+  white-space: nowrap;
+}
+.dataloom-overflow--ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* src/react/shared/text/styles.css */
+.dataloom-text {
+  white-space: nowrap;
+  margin: 0;
+  color: var(--text-normal);
+}
+.dataloom-text--muted {
+  color: var(--text-muted);
+}
+.dataloom-text--faint {
+  color: var(--text-faint);
+}
+.dataloom-text--semibold {
+  font-weight: var(--font-semibold);
+}
+.dataloom-text--on-accent {
+  color: var(--text-on-accent);
+}
+.dataloom-text--error {
+  color: var(--text-error);
+}
+
 /* src/react/shared/divider/styles.css */
 .dataloom-hr {
   margin: 0;
+}
+
+/* src/react/shared/error-display/styles.css */
+.dataloom-error {
+  background-color: var(--background-secondary);
+  overflow: scroll;
+}
+.dataloom-error--embedded-app {
+  height: 100%;
+}
+.dataloom-error__message {
+  width: 100%;
+  max-height: 150px;
+  overflow: scroll;
+  text-align: left;
+}
+
+/* src/react/global.css */
+:root {
+  --dataloom-spacing--xs: 2px;
+  --dataloom-spacing--sm: 4px;
+  --dataloom-spacing--md: 8px;
+  --dataloom-spacing--lg: 12px;
+  --dataloom-spacing--xl: 16px;
+  --dataloom-spacing--2xl: 24px;
+  --dataloom-spacing--3xl: 36px;
+  --dataloom-spacing--4xl: 48px;
+  --dataloom-cell-spacing-x: var(--dataloom-spacing--sm);
+  --dataloom-cell-spacing-y: var(--dataloom-spacing--lg);
+  --dataloom-cell-min-height: 1.9rem;
+  --dataloom-font-size--xs: 0.8rem;
+  --dataloom-font-size--sm: 0.9rem;
+  --dataloom-font-size--md: 1rem;
+  --dataloom-font-size--lg: 1.1rem;
+  --dataloom-font-size--xl: 1.3rem;
+}
+
+/* src/react/shared/flex/styles.css */
+.dataloom-flex {
+  display: flex;
+  width: 100%;
+}
+
+/* src/react/shared/menu-item/styles.css */
+.dataloom-menu-item {
+  display: flex;
+  align-items: center;
+  padding: var(--dataloom-spacing--sm) var(--dataloom-spacing--lg);
+  width: 100%;
 }
 
 /* src/react/export-app/styles.css */
@@ -305,10 +368,6 @@
   width: 100%;
   height: 200px;
   resize: vertical;
-}
-.dataloom-export-app h5 {
-  margin-top: 0px;
-  margin-bottom: 0px;
 }
 .dataloom-export-app select {
   background-color: var(--background-secondary-alt) !important;
@@ -345,6 +404,108 @@
   outline-color: var(--text-on-accent);
 }
 
+/* src/react/shared/stepper/styles.css */
+.dataloom-step__header--margin-bottom {
+  margin-bottom: 5px;
+}
+.dataloom-step__content {
+  width: 100%;
+  margin-top: 10px;
+}
+.dataloom-step__content--margin-top {
+  margin-top: 25px;
+}
+.dataloom-step__indicator {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: var(--background-secondary);
+}
+.dataloom-step__indicator--complete {
+  cursor: pointer;
+}
+.dataloom-step__text--complete {
+  cursor: pointer;
+}
+.dataloom-step__spacer {
+  width: 100%;
+  height: 25px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  border-left: 1px solid var(--background-modifier-border);
+}
+.dataloom-step__separator {
+  min-width: 15px;
+  margin-left: 15px;
+  border-left: 1px solid var(--background-modifier-border);
+  align-self: stretch;
+}
+.dataloom-step__separator--no-border {
+  border-left: none;
+}
+
+/* src/react/import-app/upload-data/file-input/styles.css */
+.dataloom-file-input input[type=file] {
+  color: transparent;
+}
+
+/* src/react/import-app/match-columns/styles.css */
+.dataloom-match-columns {
+  margin-bottom: 10px;
+}
+.dataloom-match-columns__container {
+  width: 100%;
+  max-height: 250px;
+  overflow: scroll;
+  padding-right: 3em;
+}
+.dataloom-match-columns table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+.dataloom-match-columns th,
+.dataloom-match-columns td {
+  border-bottom: 1px solid var(--table-border-color);
+  border-right: 1px solid var(--table-border-color);
+  padding: 0.5em;
+  max-width: 20em;
+  height: 1em;
+}
+.dataloom-match-columns th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: var(--background-secondary);
+  font-weight: 500;
+}
+.dataloom-match-columns th {
+  min-width: 14em;
+  border-top: 1px solid var(--table-border-color);
+}
+.dataloom-match-columns td:first-child,
+.dataloom-match-columns th:first-child {
+  border-left: 1px solid var(--table-border-color);
+}
+.dataloom-match-columns--disabled {
+  opacity: 0.5;
+}
+.dataloom-match-columns input[type=checkbox] {
+  margin-top: 1px;
+  margin-right: 0px;
+}
+
+/* src/react/import-app/styles.css */
+.dataloom-import-app {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  max-height: calc(100vh - 20em);
+}
+.dataloom-import-app textarea {
+  width: 100%;
+  height: 10em;
+  resize: none;
+}
+
 /* src/react/shared/wrap/styles.css */
 .dataloom-wrap {
   display: flex;
@@ -353,13 +514,30 @@
 
 /* src/react/shared/select/styles.css */
 .dataloom-select:focus {
-  box-shadow: none !important;
-  transition: none !important;
+  box-shadow: none;
+}
+.dataloom-select--error {
+  outline: 2px solid var(--background-modifier-error) !important;
+  outline-offset: -2px;
 }
 
-/* src/react/loom-app/option-bar/filter/filter-text-input/styles.css */
-.dataloom-filter-text-input input {
+/* src/react/loom-app/option-bar/filter-menu/filter-row/styles.css */
+.dataloom-filter-row {
+  width: 100%;
+}
+.dataloom-filter-row__input input {
   width: 150px;
+}
+.dataloom-filter-row select {
+  max-width: 175px;
+}
+.dataloom-filter-row__spacer {
+  width: 60px;
+}
+
+/* src/react/shared/multi-select/styles.css */
+.dataloom-multi-select:focus {
+  box-shadow: none;
 }
 
 /* src/react/loom-app/option-bar/styles.css */
@@ -368,49 +546,26 @@
   border-bottom: 1px solid var(--background-modifier-border);
 }
 
-/* src/react/loom-app/header-cell-container/column-resize/styles.css */
-.dataloom-column-resize {
-  position: relative;
-}
-.dataloom-column-resize__handle {
-  position: absolute;
-  height: 100%;
-  right: 0;
-  bottom: 0;
-  width: 5px;
-  cursor: col-resize;
-}
-.dataloom-column-resize__handle:hover {
-  background-color: var(--interactive-accent);
-}
-.dataloom-column-resize__handle:active {
-  background-color: var(--interactive-accent);
-}
-.dataloom-column-resize__handle--dragging {
-  background-color: var(--interactive-accent);
-}
-
-/* src/react/loom-app/header-cell-edit/styles.css */
-.dataloom-header-menu {
-  color: var(--text-normal);
-}
-
-/* src/react/loom-app/header-cell-container/styles.css */
-.dataloom-cell--header__container {
-  display: flex;
-  justify-content: space-between;
-  min-height: var(--dataloom-cell-min-height);
-}
-.dataloom-cell--header__inner-container {
-  display: flex;
-  align-items: center;
+/* src/react/loom-app/option-bar/sources-menu/dataloom-source/styles.css */
+.dataloom-source {
   width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  user-select: none;
-  padding: var(--dataloom-cell-spacing-x) var(--dataloom-cell-spacing-y);
-  color: var(--text-normal);
+  height: 2.2em;
+}
+
+/* src/react/loom-app/option-bar/sources-menu/base-content/styles.css */
+.dataloom-source-container {
+  width: 100%;
+}
+
+/* src/react/loom-app/bottom-bar/styles.css */
+.dataloom-bottom-bar {
+  position: relative;
+  height: 60px;
+}
+.dataloom-bottom-bar > div {
+  border-top: 1px solid var(--table-border-color);
+  position: absolute;
+  width: 100%;
 }
 
 /* src/react/loom-app/text-cell/styles.css */
@@ -458,9 +613,6 @@
 .dataloom-date-cell {
   width: 100%;
   text-align: left;
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
 
 /* src/react/loom-app/number-cell/styles.css */
@@ -521,19 +673,21 @@
 
 /* src/react/loom-app/tag-color-menu/components/color-item/styles.css */
 .dataloom-color-item {
-  display: flex;
-  align-items: center;
-  padding: var(--dataloom-spacing--xs) var(--dataloom-spacing--lg);
   width: 100%;
 }
-.dataloom-color-item-square {
-  width: 10px;
-  height: 10px;
-  padding: 0;
-  margin: 0 10px 0 0;
+.dataloom-color-item__square {
+  width: 15px;
+  height: 15px;
+  border-radius: 4px;
 }
 
 /* src/react/loom-app/tag-color-menu/styles.css */
+.dataloom-tag-color-menu__color-container {
+  width: 100%;
+  height: 215px;
+  overflow-y: scroll;
+  overflow-x: auto;
+}
 
 /* src/react/loom-app/tag-cell-edit/selectable-tag/styles.css */
 .dataloom-selectable-tag {
@@ -557,12 +711,6 @@
 .dataloom-multi-tag-cell {
   display: flex;
   flex-direction: column;
-}
-
-/* src/react/loom-app/currency-cell/styles.css */
-.dataloom-currency-cell {
-  width: 100%;
-  text-align: right;
 }
 
 /* src/react/loom-app/file-cell/styles.css */
@@ -593,7 +741,7 @@
 }
 
 /* src/react/loom-app/body-cell-container/styles.css */
-.dataloom-cell--body__container {
+.dataloom-cell__body-container {
   display: flex;
   width: 100%;
   height: 100%;
@@ -601,6 +749,25 @@
   padding: var(--dataloom-cell-spacing-x) var(--dataloom-cell-spacing-y);
   cursor: pointer;
   color: var(--text-normal);
+}
+.dataloom-cell__body-container--default-cursor {
+  cursor: default;
+}
+
+/* src/react/loom-app/source-file-cell/styles.css */
+.dataloom-source-file-cell p {
+  margin: 0;
+  text-align: left;
+}
+
+/* src/react/loom-app/row-options/styles.css */
+.dataloom-row-options {
+  height: 100%;
+  width: 100%;
+}
+.dataloom-row-options__container {
+  width: 100%;
+  height: 100%;
 }
 
 /* src/react/loom-app/footer-cell-container/styles.css */
@@ -612,39 +779,16 @@
   padding: var(--dataloom-cell-spacing-x) var(--dataloom-cell-spacing-y);
 }
 
-/* src/react/loom-app/new-column-button/styles.css */
-.dataloom-new-column {
-  padding-left: var(--dataloom-spacing--md);
-  width: 50px;
-}
-
-/* src/react/loom-app/bottom-bar/styles.css */
-.dataloom-bottom-bar {
-  position: relative;
-  height: 60px;
-}
-.dataloom-bottom-bar > div {
-  position: absolute;
+/* src/react/loom-app/app/styles.css */
+.dataloom-app {
+  display: flex;
+  flex-direction: column;
   width: 100%;
+  height: 100%;
+  border-top: 1px solid var(--background-modifier-border);
 }
-
-/* src/react/loom-app/app/global.css */
-:root {
-  --dataloom-spacing--xs: 2px;
-  --dataloom-spacing--sm: 4px;
-  --dataloom-spacing--md: 8px;
-  --dataloom-spacing--lg: 12px;
-  --dataloom-spacing--xl: 16px;
-  --dataloom-spacing--2xl: 24px;
-  --dataloom-spacing--3xl: 36px;
-  --dataloom-spacing--4xl: 48px;
-  --dataloom-cell-spacing-x: var(--dataloom-spacing--sm);
-  --dataloom-cell-spacing-y: var(--dataloom-spacing--lg);
-  --dataloom-cell-min-height: 1.9rem;
-  --dataloom-font-size--xs: 0.8rem;
-  --dataloom-font-size--sm: 0.9rem;
-  --dataloom-font-size--md: 1rem;
-  --dataloom-font-size--lg: 1.1rem;
+.dataloom-app--markdown-view {
+  border-bottom: 1px solid var(--background-modifier-border);
 }
 .dataloom-light-gray--light {
   background-color: hsl(0, 3%, 94%);
@@ -706,6 +850,9 @@
 .dataloom-red--dark {
   background-color: hsl(8, 35%, 30%);
 }
+.dataloom-disabled {
+  opacity: 0.5;
+}
 .dataloom-selectable {
   cursor: pointer;
 }
@@ -714,9 +861,6 @@
 }
 .dataloom-selected {
   background-color: var(--color-base-20);
-}
-.dataloom-default-cursor {
-  cursor: default !important;
 }
 .dataloom-focusable:focus-visible,
 .dataloom-focus-visible {
@@ -741,14 +885,73 @@
   border-bottom: 1px solid var(--color-accent) !important;
 }
 
-/* src/react/loom-app/app/styles.css */
-.dataloom-app {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-  border-top: 1px solid var(--background-modifier-border);
+/* src/react/loom-app/header-cell-container/column-resize/styles.css */
+.dataloom-column-resize {
+  position: relative;
 }
-.dataloom-app--markdown-view {
-  border-bottom: 1px solid var(--background-modifier-border);
+.dataloom-column-resize__handle {
+  position: absolute;
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  width: 5px;
+  cursor: col-resize;
+}
+.dataloom-column-resize__handle:hover {
+  background-color: var(--interactive-accent);
+}
+.dataloom-column-resize__handle:active {
+  background-color: var(--interactive-accent);
+}
+.dataloom-column-resize__handle--dragging {
+  background-color: var(--interactive-accent);
+}
+
+/* src/react/loom-app/header-cell-edit/number-format-submenu/styles.css */
+.dataloom-number-format-submenu {
+  width: 100%;
+  height: 240px;
+  overflow-y: scroll;
+  overflow-x: auto;
+}
+
+/* src/react/loom-app/header-cell-edit/styles.css */
+.dataloom-header-menu {
+  color: var(--text-normal);
+}
+
+/* src/react/loom-app/header-cell-container/styles.css */
+.dataloom-cell--header__container {
+  display: flex;
+  justify-content: space-between;
+  min-height: var(--dataloom-cell-min-height);
+}
+.dataloom-cell--header__inner-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  user-select: none;
+  padding: var(--dataloom-cell-spacing-x) var(--dataloom-cell-spacing-y);
+  color: var(--text-normal);
+}
+
+/* src/react/loom-app/new-column-button/styles.css */
+.dataloom-new-column {
+  padding-left: var(--dataloom-spacing--md);
+  width: 50px;
+}
+
+/* src/react/shared/error-boundary/styles.css */
+.dataloom-error-boundary {
+  background-color: var(--background-secondary);
+  overflow: scroll;
+}
+.dataloom-error-boundary__message {
+  width: 100%;
+  max-height: 150px;
+  overflow: scroll;
+  text-align: left;
 }
