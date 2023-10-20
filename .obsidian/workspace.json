@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "32b7688521b25a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/运算法则-/对数运算法则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc80ea3de3b414df",
             "type": "leaf",
             "state": {
@@ -71,61 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c654a149a109f198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a78be53e224310a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c284cde5c98316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0b5ef3180e9595a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/基础数学(高中数学)/数列/等差数列.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,27 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/运算法则-/对数运算法则.md"
-              }
-            }
-          },
-          {
-            "id": "5a4b5715474c26ae",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
-            }
-          },
-          {
-            "id": "554a8cb862fad43b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md"
-              }
             }
           },
           {
@@ -254,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -267,7 +180,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/运算法则-/对数运算法则.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -338,34 +250,35 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "d2dcc62d519122e5",
   "lastOpenFiles": [
-    "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
-    "src/微积分-/极限-/极限基础-/极限运算法则.md",
+    "当前计划-/笔记结构调整计划.md",
     "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
+    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
+    "当前计划-/学习计划-/线性代数_.md",
+    "当前计划-/学习计划-/微积分.md",
+    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
+    "当前计划-/学习计划-/数理逻辑_.md",
+    "当前计划-/学习计划-/集合论.md",
+    "当前计划-/学习计划_.md",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/运算法则-/对数运算法则.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
-    "src/基础数学(高中数学)/数列/等差数列.md",
-    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
-    "src/微积分-/导数-/求导法则-/函数的 和&差&积&商 的求导法则.md",
-    "chaos/证明库-/常数和基本初等函数的导数公式_证明.md",
-    "src/集合论-/-术语/标量.md",
-    "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)_.md",
-    "src/集合论-/关系-/二元关系.md",
-    "src/数理逻辑-/-术语/自由变量和约束变量(自由变元和约束变元).md",
-    "src/数理逻辑-/-术语/真值函数.md",
-    "src/数理逻辑-/-术语/原子公式(原子命题).md",
-    "src/数理逻辑-/-术语/辖域.md",
-    "src/数理逻辑-/-术语/命题函数.md",
-    "src/数理逻辑-/-术语/命题变量(命题变元、句子变量).md",
-    "src/数理逻辑-/-术语/恒真式(重言式,永真式).md",
-    "src/数理逻辑-/-术语/公理模式.md",
-    "src/数理逻辑-/-术语/闭公式(语句,句子).md",
-    "src/数理逻辑-/-术语/悖论.md",
-    "src/数理逻辑-/-术语/-相同意义术语整合.md",
+    "当前计划_.md",
+    "chaos/术语/泛函.md",
+    "chaos/chaos_1-/一堆记号.md",
+    "chaos/chaos_1-/因式分解.md",
+    "chaos/chaos_1-/圆的面积公式.md",
+    "chaos/chaos_1-/未整理.md",
+    "chaos/chaos_1-/为什么要用sin(x)… ;函数的 抽象特征 运用.md",
+    "学习数学的提醒.md",
+    "标签系统.md",
+    "版本控制.md",
+    "历史遗留问题与内容污染问题.md",
+    "README.md",
+    "Idea_.md",
+    "Idea-/数学的核心.md",
+    "Idea-/我认为的笔记软件.md",
+    "math_study_resource/web_resource.md",
+    "chaos/chaos_1_.canvas",
     "附件/1280px-Arcsin.svg.png",
     "附件/1280px-Arctan.svg.png",
     "附件/Pasted image 20231006151215.png",
@@ -387,7 +300,6 @@
     "src/线性代数-/-考研/题目/困惑",
     "src/线性代数-/-考研/题目",
     "src/线性代数-/-考研/chaos",
-    "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

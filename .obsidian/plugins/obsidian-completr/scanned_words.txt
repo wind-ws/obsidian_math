@@ -32,9 +32,11 @@ IDATx
 Progress
 PDPT
 PTDTpT
+Plans
 Done
 David
 Drawing
+Desmos
 settings
 symbol
 self
@@ -88,8 +90,10 @@ imperfect
 inside
 introductions
 iflUkTG
+introduction
 CPU
 Callouts
+Completed
 mark
 model
 more
@@ -172,9 +176,11 @@ More
 MORE
 MTqUmpvS
 MioK
+Mathway
 Lagrange
 Leibnitz
 LZbR
+LaTeX
 Rolle
 Remove
 README
@@ -201,7 +207,9 @@ world
 Hello
 YJAi
 OPTIONS
+Ongoing
 KCFZ
 zNSVLF
 JtzHOB
 yuan
+GeoGebra
