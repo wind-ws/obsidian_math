@@ -1,4 +1,4 @@
-
+      
 
 $\displaystyle{1+r+r^{2}+\cdots+r^{n-1}=\frac{1-r^{n}}{1-r}(r\neq 1)}$
 $\displaystyle{\sum^{n}_{k=1}k=1+2+\cdots+n}=\frac{{n(n+1)}}{2}$

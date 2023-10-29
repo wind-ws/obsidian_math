@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31fd4bca605569f8",
+            "id": "f03af884995aee7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+                "file": "src/微积分-/极限-/连续性/间断点.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,59 @@
             }
           },
           {
-            "id": "0fb4391c1b71d268",
+            "id": "4b75a591d3735522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e07cf9d147fd8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/极限-/连续性/间断点.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2771e5a2614aec31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25f718a9cdbf1d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/运算法则-/对数运算法则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c982fe17063e8b65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +86,12 @@
             }
           },
           {
-            "id": "fc80ea3de3b414df",
+            "id": "d44b666c5d69f9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/洛必达法则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +99,7 @@
             }
           },
           {
-            "id": "10d1c3ea64aa7883",
+            "id": "6dad9db68b63b854",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,9 +110,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90eaa88f81b6b520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a298ffdf62f861de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/基础数学(高中数学)/函数-/取整函数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,6 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md"
+              }
             }
           },
           {
@@ -154,6 +236,41 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "969e0c6f0e4b804d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6757621765136719,
+                  "close": true
+                }
+              }
             }
           },
           {
@@ -167,47 +284,13 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
         "type": "tabs",
         "dimension": 46.38888888888889,
         "children": [
-          {
-            "id": "969e0c6f0e4b804d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0136432647705078,
-                  "close": true
-                }
-              }
-            }
-          },
           {
             "id": "3e8551d28bbfc98f",
             "type": "leaf",
@@ -228,7 +311,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,9 +320,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": true,
+      "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -250,34 +333,37 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "d2dcc62d519122e5",
+  "active": "4b75a591d3735522",
   "lastOpenFiles": [
-    "当前计划-/笔记结构调整计划.md",
+    "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+    "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
     "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
-    "当前计划-/学习计划-/线性代数-/book_线性代数及其应用_David C. Lay 进度 推进计划.md",
-    "当前计划-/学习计划-/线性代数_.md",
-    "当前计划-/学习计划-/微积分.md",
-    "当前计划-/学习计划-/数理逻辑-/book_数学基础_汪芳庭 进度 推进计划.md",
-    "当前计划-/学习计划-/数理逻辑_.md",
-    "当前计划-/学习计划-/集合论.md",
-    "当前计划-/学习计划_.md",
+    "src/运算法则-/对数运算法则.md",
+    "src/微积分-/极限-/极限基础-/极限运算法则.md",
+    "src/微积分-/极限-/极限基础-/极限的定义.md",
+    "src/微积分-/极限-/极限基础-/极限的存在准则.md",
+    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "当前计划_.md",
-    "chaos/术语/泛函.md",
-    "chaos/chaos_1-/一堆记号.md",
-    "chaos/chaos_1-/因式分解.md",
-    "chaos/chaos_1-/圆的面积公式.md",
-    "chaos/chaos_1-/未整理.md",
-    "chaos/chaos_1-/为什么要用sin(x)… ;函数的 抽象特征 运用.md",
-    "学习数学的提醒.md",
-    "标签系统.md",
-    "版本控制.md",
-    "历史遗留问题与内容污染问题.md",
-    "README.md",
-    "Idea_.md",
-    "Idea-/数学的核心.md",
-    "Idea-/我认为的笔记软件.md",
-    "math_study_resource/web_resource.md",
+    "src/基础数学(高中数学)/函数-/取整函数.md",
+    "src/微积分-/极限-/连续性/间断点.md",
+    "src/微积分-/极限-/无穷大/无穷大比较.md",
+    "src/微积分-/极限-/无穷小/无穷小.md",
+    "src/微积分-/极限-/无穷小/无穷小的性质.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/洛必达法则.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "附件/440px-Cotan_proportional.svg.png",
+    "附件/440px-Csc.svg.png",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
+    "chaos/术语/根.md",
+    "src/基础数学(高中数学)/chaos/一元二次方程.md",
+    "src/基础数学(高中数学)/函数-/基本函数_.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/双曲函数.md",
+    "附件/600px-Arccotangent_alternate.svg.png",
     "chaos/chaos_1_.canvas",
     "附件/1280px-Arcsin.svg.png",
     "附件/1280px-Arctan.svg.png",
@@ -288,9 +374,6 @@
     "附件/Screenshot_20231002_200017.png",
     "附件/Pasted image 20231002171955.png",
     "附件/Pasted image 20231002171640.png",
-    "附件/Screenshot_20231001_215509.png",
-    "附件/1696164331225.jpg",
-    "附件/Screenshot_20231001_204051.png",
     "src/微积分-/--考研/题目/一般",
     "src/微积分-/--考研/题目",
     "src/微积分-/--考研",

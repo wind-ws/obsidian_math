@@ -1,6 +1,6 @@
 {
   "findText": "!\\[(.*?)\\]\\(.*?\\)",
-  "replaceText": "$$$$$1$$$$",
+  "replaceText": "$$$1$$",
   "useRegEx": true,
   "selOnly": true,
   "caseInsensitive": false,
