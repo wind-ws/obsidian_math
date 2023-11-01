@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f03af884995aee7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/极限-/连续性/间断点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b75a591d3735522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e07cf9d147fd8e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/极限-/连续性/间断点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2771e5a2614aec31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "file": "src/基础数学(高中数学)/chaos/不等式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,32 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "src/运算法则-/对数运算法则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c982fe17063e8b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/极限-/极限基础-/极限运算法则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d44b666c5d69f9d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-定理&引理&法则&公式&...-/洛必达法则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
+                "file": "src/微积分-/导数-/求导法则-/隐函数求导.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,12 +60,64 @@
             }
           },
           {
-            "id": "a298ffdf62f861de",
+            "id": "cecc2b9f4718c0fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/取整函数.md",
+                "file": "src/基础数学(高中数学)/函数-/隐函数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ff9dc15bfab15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/导数基础-/符号定义.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8906d5e0f74afd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9fb4bb149d73ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/高阶导数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfc2612099e37cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+                "file": "src/基础数学(高中数学)/函数-/隐函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+                "file": "src/基础数学(高中数学)/函数-/隐函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md"
+                "file": "src/基础数学(高中数学)/函数-/隐函数.md"
               }
             }
           },
@@ -244,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+                "file": "src/基础数学(高中数学)/函数-/隐函数.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -333,36 +320,36 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4b75a591d3735522",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
-    "src/基础数学(高中数学)/chaos/实用的代数变换.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
+    "src/微积分-/导数-/求导法则-/隐函数求导.md",
     "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
-    "src/运算法则-/对数运算法则.md",
-    "src/微积分-/极限-/极限基础-/极限运算法则.md",
-    "src/微积分-/极限-/极限基础-/极限的定义.md",
-    "src/微积分-/极限-/极限基础-/极限的存在准则.md",
-    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
+    "src/微积分-/导数-/导数基础-/符号定义.md",
+    "src/基础数学(高中数学)/函数-/隐函数.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/基础数学(高中数学)/函数-/取整函数.md",
+    "src/微积分-/导数-/高阶导数.md",
+    "src/基础数学(高中数学)/chaos/不等式.md",
+    "src/微积分-/导数-/导数基础-/单侧导数.md",
+    "src/微积分-/导数-/导数基础_.md",
+    "src/微积分-/导数-/函数的凹凸性和拐点.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/达布中值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/夹逼定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/费马引理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/柯西中值定理.md",
+    "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+    "src/微积分-/导数-/导数基础-/导数与微分的区别.md",
+    "src/微积分-/导数-/导数基础-/可微性,微分.md",
+    "src/微积分-/导数-/导数基础-/微分.md",
+    "src/微积分-/导数_.md",
+    "src/微积分-/极限-/极限基础-/极限运算法则.md",
     "src/微积分-/极限-/连续性/间断点.md",
-    "src/微积分-/极限-/无穷大/无穷大比较.md",
-    "src/微积分-/极限-/无穷小/无穷小.md",
-    "src/微积分-/极限-/无穷小/无穷小的性质.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/洛必达法则.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
+    "src/运算法则-/对数运算法则.md",
+    "src/微积分-/极限-/极限基础-/极限的定义.md",
     "附件/440px-Cotan_proportional.svg.png",
     "附件/440px-Csc.svg.png",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
-    "chaos/术语/根.md",
-    "src/基础数学(高中数学)/chaos/一元二次方程.md",
-    "src/基础数学(高中数学)/函数-/基本函数_.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/双曲函数.md",
     "附件/600px-Arccotangent_alternate.svg.png",
     "chaos/chaos_1_.canvas",
     "附件/1280px-Arcsin.svg.png",
