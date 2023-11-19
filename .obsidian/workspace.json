@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7bcbdf7eb4a7e87d",
+        "id": "a816808349837459",
         "type": "tabs",
         "children": [
           {
-            "id": "ebdc7a86111bbada",
+            "id": "8dad8eec78da2933",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/中值定理/有界与最值定理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f1b15b736daabb33",
+            "id": "c1a2ef763353ad80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/中值定理/平均值定理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "730c4be2d2187457",
+            "id": "7fc52e9376da740e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/变限积分求导公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/中值定理/零点定理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "c7ae9edb108d670f",
+            "id": "3524a2c3f4a8905c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/参数方程求导.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/中值定理/柯西中值定理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,85 +60,7 @@
             }
           },
           {
-            "id": "aa0bbc474a6d825e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/一些结论.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b748213ede55a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/导数-/导数基础-/导数定义.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "248df223139dc4b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7785d92d42fc710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b767bf92036d888e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "259286628b7a03dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bdc2fd20a994e35",
+            "id": "a37c70eab6e2d6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,22 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea20bf47ac9bb7c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/符号&记号-/二项式系数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binom",
+                "query": "介值定理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 356.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -223,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md"
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md"
               }
             }
           },
@@ -270,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/导数-/求导法则-/高阶导数公式.md",
+                "file": "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -341,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,44 +268,47 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "f1b15b736daabb33",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/符号&记号-/二项式系数.md",
-    "src/微积分-/导数-/求导法则-/高阶导数公式.md",
-    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/导数-/求导法则-/参数方程求导.md",
-    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
-    "src/微积分-/导数-/求导法则-/变限积分求导公式.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/柯西中值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/拉格朗日中值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/罗尔定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/费马引理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/积分中值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/零点定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/平均值定理.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/有界与最值定理.md",
+    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理/介值定理.md",
+    "chaos/chaos_1-/未整理.md",
+    "src/微积分-/-术语/驻点(稳定点).md",
+    "src/微积分-/-定理&引理&法则&公式&...-/中值定理",
     "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
+    "src/微积分-/-术语/极值/极值的第三充分条件.md",
+    "src/微积分-/-术语/极值.md",
+    "src/微积分-/-术语/渐近线/斜渐近线.md",
+    "src/微积分-/-术语/渐近线/渐近线.md",
+    "src/微积分-/-术语/渐近线/水平渐近线.md",
+    "src/微积分-/-术语/渐近线/铅直渐近线.md",
+    "src/微积分-/极限-/极限基础-/函数极限的性质.md",
+    "src/基础数学(高中数学)/函数-/函数性质/凹凸性.md",
+    "src/微积分-/-术语/拐点/拐点的第一充分条件.md",
+    "src/微积分-/-术语/拐点/拐点的必要条件.md",
+    "src/微积分-/-术语/拐点.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
+    "附件/v2-52d80726682f2600774b9608967fb480_1440w.webp",
+    "附件/v2-c53020c03751418ee4ed2ef467527b8a_1440w.webp",
+    "考研",
     "附件/Sec.svg",
     "附件/440px-Sec.svg.png",
     "附件/440px-Sec.svg",
-    "src/微积分-/导数-/导数基础-/导数定义.md",
-    "src/微积分-/导数-/导数基础_.md",
-    "src/微积分-/导数-/一些结论.md",
-    "README.md",
-    "src/微积分-/导数-/求导法则-/高阶导数-泰勒公式求导法.md",
-    "src/微积分-/导数-/求导法则-/幂指函数求导法.md",
-    "src/微积分-/导数-/求导法则-/对数求导法.md",
-    "src/微积分-/导数-/微分形式不变性.md",
-    "src/微积分-/导数-/求导法则-/函数的 和&差&积&商 的求导法则.md",
-    "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
-    "src/运算法则-/对数运算法则.md",
-    "src/微积分-/-定理&引理&法则&公式&...-/泰勒公式.md",
     "附件/440px-Arccos.svg.png",
-    "src/微积分-/导数-/高阶导数.md",
-    "src/微积分-/导数-/求导法则-/反函数的求导法则.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
     "附件/440px-Cotan_proportional.svg.png",
     "附件/440px-Csc.svg.png",
     "附件/600px-Arccotangent_alternate.svg.png",
     "chaos/chaos_1_.canvas",
     "附件/1280px-Arcsin.svg.png",
-    "附件/1280px-Arctan.svg.png",
-    "附件/Pasted image 20231006151215.png",
     "src/微积分-/--考研/chaos",
     "src/基础数学(高中数学)/chaos/恒等变形",
     "src/微积分-/--考研/题目/一般",
@@ -406,8 +318,6 @@
     "src/基础数学(高中数学)/数列",
     "src/线性代数-/-考研/题目/一般",
     "src/线性代数-/-考研/题目/困惑",
-    "src/线性代数-/-考研/题目",
-    "src/线性代数-/-考研/chaos",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
