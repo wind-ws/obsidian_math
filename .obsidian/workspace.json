@@ -65,7 +65,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/-结论/中值定理/介值定理.md",
+                "file": "考研/微积分/chaos/如何构造辅助函数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d3236557a3b86b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-结论/中值定理/费马引理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83ab955417d45649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e6209ede0b1db5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-结论/中值定理/柯西中值定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2fb5791b03a5d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/微积分/chaos/常用的辅助函数.md",
+                "file": "考研/微积分/chaos/如何构造辅助函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/微积分/chaos/常用的辅助函数.md",
+                "file": "考研/微积分/chaos/如何构造辅助函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/微积分/chaos/常用的辅助函数.md"
+                "file": "考研/微积分/chaos/如何构造辅助函数.md"
               }
             }
           },
@@ -179,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "考研/微积分/chaos/常用的辅助函数.md",
+                "file": "考研/微积分/chaos/如何构造辅助函数.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,37 +320,37 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "9325e0e438b1febf",
   "lastOpenFiles": [
+    "src/微积分-/-结论/中值定理/费马引理.md",
+    "考研/微积分/chaos/如何构造辅助函数.md",
+    "src/微积分-/-结论/中值定理/介值定理.md",
+    "src/基础数学(高中数学)/函数-/函数性质/有界性.md",
+    "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+    "src/微积分-/-结论/中值定理/零点定理.md",
+    "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+    "src/微积分-/-结论/中值定理/柯西中值定理.md",
+    "src/微积分-/-结论/中值定理/积分第一中值定理.md",
+    "src/微积分-/-结论/中值定理/达布中值定理.md",
+    "src/微积分-/-结论/泰勒公式.md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "考研/微积分/chaos/常用的辅助函数.md",
+    "src/微积分-/-结论/中值定理/有界与最值定理.md",
+    "src/微积分-/积分-/积分表.md",
+    "标签系统.md",
+    "README.md",
+    "Idea_.md",
+    "folder_introductions.md",
     "版本控制.md",
     "历史遗留问题与内容污染问题.md",
-    "考研/微积分/chaos/常用的辅助函数.md",
     "考研/微积分/题目/一般/2023-10-02.md",
     "考研/微积分/题目/一般/2023-10-01.md",
     "考研/微积分/chaos/证明单调性.md",
-    "src/微积分-/-结论/中值定理/罗尔中值定理.md",
-    "src/微积分-/-结论/中值定理/介值定理.md",
-    "src/微积分-/-结论/泰勒公式.md",
-    "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
-    "src/微积分-/-结论/中值定理/有界与最值定理.md",
-    "src/微积分-/-结论/中值定理/积分第一中值定理.md",
-    "标签系统.md",
     "sortspec.md",
-    "folder_introductions.md",
     "src/概率论与数理统计_.md",
-    "学习数学的提醒.md",
     "考研/线性代数",
     "考研/微积分",
-    "src/微积分-/-结论/中值定理/柯西中值定理.md",
-    "src/微积分-/-结论/中值定理/费马引理.md",
-    "src/微积分-/-结论/中值定理/零点定理.md",
-    "src/微积分-/-结论/中值定理/平均值定理.md",
-    "src/微积分-/极限-/连续性/闭区间上连续函数的性质.md",
-    "chaos/chaos_1-/未整理.md",
-    "src/微积分-/-术语/驻点(稳定点).md",
     "src/微积分-/-结论/中值定理",
-    "src/微积分-/极限-/-技巧/利用 等价无穷小代换 求极限.md",
-    "src/微积分-/极限-/-技巧/利用 基本极限 求极限.md",
     "附件/v2-52d80726682f2600774b9608967fb480_1440w.webp",
     "附件/v2-c53020c03751418ee4ed2ef467527b8a_1440w.webp",
     "考研",
