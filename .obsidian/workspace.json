@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "981502e194c0ed64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-结论/中值定理/积分第一中值定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "89eb0826a773e068",
             "type": "leaf",
             "state": {
@@ -73,6 +86,19 @@
             }
           },
           {
+            "id": "1af8c9f4d3f38eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-结论/中值定理/零点定理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d3236557a3b86b7",
             "type": "leaf",
             "state": {
@@ -91,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+                "file": "考研/微积分/chaos/用函数性态证明不等式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/微积分/chaos/如何构造辅助函数.md",
+                "file": "考研/微积分/chaos/用函数性态证明不等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/微积分/chaos/如何构造辅助函数.md",
+                "file": "考研/微积分/chaos/用函数性态证明不等式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/微积分/chaos/如何构造辅助函数.md"
+                "file": "考研/微积分/chaos/用函数性态证明不等式.md"
               }
             }
           },
@@ -231,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "考研/微积分/chaos/如何构造辅助函数.md",
+                "file": "考研/微积分/chaos/用函数性态证明不等式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -320,34 +346,34 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "9325e0e438b1febf",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/-结论/中值定理/费马引理.md",
-    "考研/微积分/chaos/如何构造辅助函数.md",
-    "src/微积分-/-结论/中值定理/介值定理.md",
-    "src/基础数学(高中数学)/函数-/函数性质/有界性.md",
+    "src/基础数学(高中数学)/复数/复数.md",
+    "src/基础数学(高中数学)/复数/复数的算术性质.md",
+    "src/基础数学(高中数学)/复数/共轭复数和绝对值的性质.md",
+    "考研/微积分/chaos/用函数性态证明不等式.md",
+    "src/基础数学(高中数学)/chaos/齐次方程.md",
     "src/微积分-/-结论/中值定理/罗尔中值定理.md",
     "src/微积分-/-结论/中值定理/零点定理.md",
+    "src/基础数学(高中数学)/函数-/函数性质/单调性.md",
+    "src/微积分-/-结论/中值定理/有界与最值定理.md",
+    "考研/微积分/chaos/如何构造辅助函数.md",
+    "考研/微积分/chaos/常用的辅助函数.md",
+    "src/微积分-/-结论/中值定理/费马引理.md",
     "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
     "src/微积分-/-结论/中值定理/柯西中值定理.md",
     "src/微积分-/-结论/中值定理/积分第一中值定理.md",
+    "src/微积分-/-结论/中值定理/介值定理.md",
+    "src/基础数学(高中数学)/函数-/函数性质/有界性.md",
     "src/微积分-/-结论/中值定理/达布中值定理.md",
     "src/微积分-/-结论/泰勒公式.md",
     "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "考研/微积分/chaos/常用的辅助函数.md",
-    "src/微积分-/-结论/中值定理/有界与最值定理.md",
     "src/微积分-/积分-/积分表.md",
     "标签系统.md",
     "README.md",
     "Idea_.md",
     "folder_introductions.md",
     "版本控制.md",
-    "历史遗留问题与内容污染问题.md",
-    "考研/微积分/题目/一般/2023-10-02.md",
-    "考研/微积分/题目/一般/2023-10-01.md",
-    "考研/微积分/chaos/证明单调性.md",
-    "sortspec.md",
-    "src/概率论与数理统计_.md",
     "考研/线性代数",
     "考研/微积分",
     "src/微积分-/-结论/中值定理",
