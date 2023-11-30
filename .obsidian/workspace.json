@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "32fe211728a8aadb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3acf19fe320ee951",
             "type": "leaf",
             "state": {
@@ -97,9 +84,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f36ecb099c740d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d7a586619ce3a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无界函数的反常积分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f534780d2586cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acf5edc140553b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/积分-/变限积分/变限积分的求导公式.md",
+                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/积分-/变限积分/变限积分的求导公式.md",
+                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/积分-/变限积分/变限积分的求导公式.md"
+                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md"
               }
             }
           },
@@ -205,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/积分-/变限积分/变限积分的求导公式.md",
+                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -287,43 +326,44 @@
       "workspaces:管理工作区布局": false,
       "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false,
       "dbfolder:创建一个新数据库表": false,
-      "notion-like-tables:Create loom": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "notion-like-tables:Create loom": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7b7bbf811097ba4d",
+  "active": "acf5edc140553b0e",
   "lastOpenFiles": [
-    "src/微积分-/积分-/变限积分/变限积分的性质.md",
+    "src/微积分-/积分-/不定积分-/-计算/换元积分法.md",
+    "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+    "src/微积分-/积分-/不定积分-/-计算/第一换元积分法(凑微分法).md",
+    "src/微积分-/积分-/不定积分-/-计算/分部积分法.md",
+    "src/微积分-/积分-/不定积分-/不定积分的性质.md",
+    "src/微积分-/积分-/不定积分-/-计算/凑微分法.md",
+    "src/微积分-/积分-/积分的性质.md",
+    "src/微积分-/积分-/不定积分-/-计算",
+    "src/微积分-/积分-/积分表.md",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)/无界函数的反常积分.md",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分的概念.md",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
+    "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
+    "src/微积分-/积分-/定积分-/定积分的性质/积分的可加(拆)性.md",
+    "src/微积分-/-术语/瑕积分.md",
     "src/微积分-/积分-/变限积分/变限积分的求导公式.md",
+    "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
+    "src/微积分-/积分-/定积分-/定积分的性质/积分的保号性(不等式性质).md",
+    "src/微积分-/积分-/变限积分/变限积分的性质.md",
     "src/微积分-/积分-/变限积分/积分上限的函数.md",
     "src/微积分-/积分-/变限积分/变限积分的概念.md",
     "src/微积分-/积分-/不定积分_.md",
     "src/微积分-/积分-/变限积分",
-    "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
     "src/微积分-/积分-/定积分-/定积分的性质/估值定理.md",
-    "src/微积分-/积分-/定积分-/定积分的性质/积分的保号性(不等式性质).md",
-    "src/微积分-/积分-/定积分-/定积分的性质/积分的可加(拆)性.md",
     "src/微积分-/积分-/定积分-/定积分的性质/积分的线性性质.md",
     "src/微积分-/积分-/定积分-/定积分的性质/求区间长度.md",
     "src/微积分-/积分-/定积分-/定积分存在定理.md",
     "src/微积分-/积分-/定积分-/定积分的精准定义.md",
     "src/微积分-/积分-/定积分-/未命名",
-    "src/微积分-/积分-/定积分-/定积分的定义.md",
-    "src/微积分-/积分-/不定积分-/不定积分(原函数)存在定理.md",
-    "src/微积分-/积分-/定积分-/定积分的计算/牛顿-莱布尼兹公式.md",
-    "src/微积分-/积分-/定积分-/定积分存在的充分条件.md",
-    "标签系统.md",
-    "src/微积分-/-结论/chaos_结论.md",
-    "src/集合论-/-术语/标量.md",
-    "src/集合论-/公理化集合论-/ZFC(策梅洛-弗兰克尔集合论)_.md",
-    "src/集合论-/映射_.md",
-    "src/数理逻辑-/预热-/结构的例子.md",
-    "src/微积分-/微分方程-/chaos/微分方程的各种定义.md",
-    "src/微积分-/微分方程-/chaos/常微分方程.md",
-    "src/微积分-/微分方程-/微分方程初步-/一阶线性微分方程.md",
     "考研/线性代数",
     "考研/微积分",
     "src/微积分-/-结论/中值定理",
@@ -342,7 +382,6 @@
     "考研/微积分/chaos",
     "src/基础数学(高中数学)/chaos/恒等变形",
     "考研/微积分/题目/一般",
-    "考研/微积分/题目",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
