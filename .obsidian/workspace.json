@@ -8,110 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1333567581285fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/积分的可加(拆)性.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7edc0f99d6f0a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/求区间长度.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d76e209bace52416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/估值定理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87525020dc72fd71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/积分的保号性(不等式性质).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3acf19fe320ee951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7bbf811097ba4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/变限积分/变限积分的求导公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f36ecb099c740d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7a586619ce3a5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/积分-/反常积分(广义积分,异常积分)/无界函数的反常积分.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f534780d2586cc9",
             "type": "leaf",
             "state": {
@@ -125,12 +21,142 @@
             }
           },
           {
-            "id": "acf5edc140553b0e",
+            "id": "ba365e77cf01e4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+                "file": "src/微积分-/积分-/不定积分-/-计算/分部积分法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c78a811da298f6ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38e0bb60c141a7a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/不定积分-/-计算/换元积分法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b16d8cfb3528bc7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/不定积分-/-计算/分部积分法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdb6c8774bbc3b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/不定积分-/-计算/有理函数的积分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e4ea8d585df1105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/定积分-/定积分的计算/区间再现公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "257ad20ec45d5db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd008a32e25875d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/微分形式不变性.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbb35ef07ac06e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53cd682fea6bc885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/反函数的求导法则.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f5187e3a956ff7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -197,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+                "file": "src/微积分-/积分-/定积分-/定积分的计算/区间再现公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+                "file": "src/微积分-/积分-/定积分-/定积分的计算/区间再现公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md"
+                "file": "src/微积分-/积分-/定积分-/定积分的计算/区间再现公式.md"
               }
             }
           },
@@ -244,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+                "file": "src/微积分-/积分-/定积分-/定积分的计算/区间再现公式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -333,36 +359,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acf5edc140553b0e",
+  "active": "9e4ea8d585df1105",
   "lastOpenFiles": [
-    "src/微积分-/积分-/不定积分-/-计算/换元积分法.md",
-    "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
-    "src/微积分-/积分-/不定积分-/-计算/第一换元积分法(凑微分法).md",
+    "src/微积分-/积分-/定积分-/定积分的计算/利用 已有公式.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/区间再现公式.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/换元积分法.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/分部积分法.md",
+    "src/微积分-/积分-/定积分-/定积分的计算/牛顿-莱布尼兹公式.md",
+    "src/微积分-/积分-/不定积分-/-计算/有理函数的积分.md",
     "src/微积分-/积分-/不定积分-/-计算/分部积分法.md",
+    "src/微积分-/积分-/不定积分-/有理函数和可化为有理函数的不定积分.md",
+    "src/微积分-/积分-/不定积分-/-计算/第二换元积分法(换元法).md",
+    "src/微积分-/导数-/微分形式不变性.md",
+    "src/微积分-/导数-/导数基础-/导数定义.md",
+    "src/微积分-/导数-/导数基础-/导数与微分的区别.md",
+    "src/微积分-/导数-/导数基础-/符号定义.md",
+    "src/微积分-/导数-/求导法则-/复合函数的求导法则.md",
+    "src/微积分-/导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/导数-/求导法则-/反函数的求导法则.md",
+    "src/微积分-/导数-/一些结论.md",
+    "src/微积分-/积分-/不定积分-/-计算/换元积分法.md",
+    "src/微积分-/积分-/不定积分-/不定积分的定义.md",
+    "src/微积分-/积分-/不定积分-/原函数与不定积分的概念.md",
     "src/微积分-/积分-/不定积分-/不定积分的性质.md",
-    "src/微积分-/积分-/不定积分-/-计算/凑微分法.md",
-    "src/微积分-/积分-/积分的性质.md",
-    "src/微积分-/积分-/不定积分-/-计算",
-    "src/微积分-/积分-/积分表.md",
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)/无界函数的反常积分.md",
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分的概念.md",
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
-    "src/微积分-/积分-/反常积分(广义积分,异常积分)/反常积分(广义积分,异常积分).md",
-    "src/微积分-/积分-/定积分-/定积分的性质/积分的可加(拆)性.md",
-    "src/微积分-/-术语/瑕积分.md",
-    "src/微积分-/积分-/变限积分/变限积分的求导公式.md",
-    "src/微积分-/积分-/定积分-/定积分的性质/中值定理.md",
-    "src/微积分-/积分-/定积分-/定积分的性质/积分的保号性(不等式性质).md",
-    "src/微积分-/积分-/变限积分/变限积分的性质.md",
-    "src/微积分-/积分-/变限积分/积分上限的函数.md",
-    "src/微积分-/积分-/变限积分/变限积分的概念.md",
     "src/微积分-/积分-/不定积分_.md",
+    "src/微积分-/导数-/导数基础_.md",
+    "src/集合论_.md",
+    "src/数理逻辑_.md",
+    "src/微积分-/积分-/不定积分-/-计算",
     "src/微积分-/积分-/变限积分",
-    "src/微积分-/积分-/定积分-/定积分的性质/估值定理.md",
-    "src/微积分-/积分-/定积分-/定积分的性质/积分的线性性质.md",
-    "src/微积分-/积分-/定积分-/定积分的性质/求区间长度.md",
-    "src/微积分-/积分-/定积分-/定积分存在定理.md",
-    "src/微积分-/积分-/定积分-/定积分的精准定义.md",
     "src/微积分-/积分-/定积分-/未命名",
     "考研/线性代数",
     "考研/微积分",
