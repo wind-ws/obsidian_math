@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 # 参考
 
 [微分符号 dx、dy 表示什么含义？](https://www.zhihu.com/tardis/sogou/ans/498740422)
