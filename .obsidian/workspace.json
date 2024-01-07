@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "4bca015240bc3640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/3_积分-/不定积分-/-计算/分部积分法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "72ccfa6d65e21a39",
             "type": "leaf",
             "state": {
@@ -60,12 +73,25 @@
             }
           },
           {
-            "id": "30e252f318ff94bd",
+            "id": "c5605d51dc48fb62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d9eb765e1fd3c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/基础数学(高中数学)/chaos/因式分解公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,6 +105,19 @@
               "type": "markdown",
               "state": {
                 "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee21a6bf113d10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -171,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md"
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md"
               }
             }
           },
@@ -218,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                "file": "src/基础数学(高中数学)/chaos/实用的代数变换.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -309,34 +348,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "047f81fb34de579f",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/基础数学(高中数学)/chaos/齐次方程.md",
+    "src/基础数学(高中数学)/chaos/阶乘与双阶乘.md",
+    "src/基础数学(高中数学)/chaos/不等式.md",
+    "src/基础数学(高中数学)/chaos/恒等变形/约分.md",
+    "src/基础数学(高中数学)/chaos/恒等变形/通分.md",
+    "src/基础数学(高中数学)/chaos/恒等变形/提公因子.md",
+    "src/基础数学(高中数学)/chaos/恒等变形/换元.md",
+    "src/基础数学(高中数学)/chaos/恒等变形/分子有理化.md",
+    "src/基础数学(高中数学)/chaos/恒等变形/分母有理化.md",
     "src/微积分-/3_积分-/不定积分-/-计算/第二换元积分法(换元法).md",
-    "src/微积分-/3_积分-/不定积分-/-计算/第一换元积分法(凑微分法).md",
-    "src/微积分-/3_积分-/不定积分-/不定积分的性质.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
+    "src/微积分-/3_积分-/不定积分-/-计算/分部积分法.md",
     "src/微积分-/3_积分-/积分表.md",
+    "src/基础数学(高中数学)/chaos/因式分解公式.md",
+    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/3_积分-/不定积分-/-计算/第一换元积分法(凑微分法).md",
+    "附件/Pasted image 20240106223910.png",
+    "附件/Pasted image 20240106223903.png",
+    "附件/Pasted image 20240106223853.png",
+    "附件/Pasted image 20240106223845.png",
+    "附件/Pasted image 20240106223839.png",
+    "src/微积分-/3_积分-/不定积分-/-计算/有理函数的积分.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式推导.md",
+    "src/微积分-/3_积分-/不定积分-/-计算/换元积分法.md",
+    "src/微积分-/3_积分-/不定积分-/不定积分的性质.md",
     "src/微积分-/3_积分-/定积分-/定积分的计算/牛顿-莱布尼兹公式.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角恒等式.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/正切定理.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/正弦定理.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/余弦定理.md",
-    "src/微积分-/3_积分-/不定积分-/-计算/换元积分法.md",
-    "src/微积分-/3_积分-/不定积分-/-计算/分部积分法.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/中值定理.md",
-    "src/微积分-/3_积分-/定积分-/-chaos结论.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的保号性(不等式性质).md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/换元积分法.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/分部积分法.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/求区间长度.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的线性性质.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的可加(拆)性.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的单调性.md",
     "src/微积分-/3_积分-/不定积分-/-计算",
     "src/微积分-/3_积分-/变限积分",
     "src/微积分-/积分-/定积分-/未命名",
@@ -349,12 +393,7 @@
     "附件/Sec.svg",
     "附件/440px-Sec.svg.png",
     "附件/440px-Sec.svg",
-    "附件/440px-Arccos.svg.png",
-    "附件/440px-Cotan_proportional.svg.png",
-    "附件/440px-Csc.svg.png",
-    "附件/600px-Arccotangent_alternate.svg.png",
     "chaos/chaos_1_.canvas",
-    "附件/1280px-Arcsin.svg.png",
     "考研/微积分/chaos",
     "src/基础数学(高中数学)/chaos/恒等变形",
     "考研/微积分/题目/一般",
