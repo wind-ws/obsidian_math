@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chaos/chaos_1-/摆线.md",
+                "file": "src/几何学/-图形/扇形.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chaos/chaos_1-/摆线.md",
+                "file": "src/几何学/-图形/扇形.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chaos/chaos_1-/摆线.md",
+                "file": "src/几何学/-图形/扇形.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chaos/chaos_1-/摆线.md"
+                "file": "src/几何学/-图形/扇形.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chaos/chaos_1-/摆线.md",
+                "file": "src/几何学/-图形/扇形.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,10 +319,14 @@
   },
   "active": "b747f9986b13c3f0",
   "lastOpenFiles": [
+    "chaos/术语/极坐标系.md",
+    "src/几何学/-图形/扇形.md",
+    "src/几何学/-图形",
+    "chaos/chaos_1-/摆线.md",
+    "src/微积分-/3_积分-/变限积分/积分上限的函数.md",
     "附件/Cycloid_f.gif",
     "附件/Pasted image 20240112200427.png",
     "src/微积分-/3_积分-/关于定积分的几何应用.md",
-    "chaos/chaos_1-/摆线.md",
     "src/符号&记号_.md",
     "src/符号&记号-/平均值符号.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
@@ -345,8 +349,6 @@
     "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
     "src/微积分-/3_积分-/定积分-/定积分的计算/分部积分法.md",
     "src/微积分-/3_积分-/定积分-/定积分的计算/-chaos技巧.md",
-    "src/微积分-/3_积分-/变限积分/变限积分的求导公式.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
     "src/几何学/-chaos",
     "src/几何学",
     "附件/IMG_20240107_192106.jpg",
@@ -363,8 +365,6 @@
     "考研/微积分",
     "src/微积分-/-结论/中值定理",
     "附件/v2-52d80726682f2600774b9608967fb480_1440w.webp",
-    "附件/v2-c53020c03751418ee4ed2ef467527b8a_1440w.webp",
-    "考研",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
