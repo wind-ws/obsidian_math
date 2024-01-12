@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/3_积分-/积分表.md",
+                "file": "chaos/chaos_1-/摆线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5fbf33708863eccc",
+            "id": "0d86788c8fe7367f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/几何学/-chaos/法线.md",
+                "file": "src/微积分-/3_积分-/定积分-/定积分的性质/估值定理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "8b20b5864c056a55",
+            "id": "40594ec8e353339a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/3_积分-/定积分-/定积分的计算/换元积分法.md",
+                "file": "src/微积分-/3_积分-/变限积分/变限积分的求导公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,39 +60,13 @@
             }
           },
           {
-            "id": "52d778b5bc47db9c",
+            "id": "5b48e862da4b2013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/3_积分-/定积分-/定积分的性质/积分的线性性质.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a080ee3b205bd23d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/3_积分-/变限积分/积分上限的函数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fcf964fe3c0da62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/3_积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
-                "mode": "source",
+                "file": "src/微积分-/3_积分-/定积分-/定积分的计算/分部积分法.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -138,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/几何学/-chaos/法线.md",
+                "file": "chaos/chaos_1-/摆线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/几何学/-chaos/法线.md",
+                "file": "chaos/chaos_1-/摆线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/几何学/-chaos/法线.md"
+                "file": "chaos/chaos_1-/摆线.md"
               }
             }
           },
@@ -244,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/几何学/-chaos/法线.md",
+                "file": "chaos/chaos_1-/摆线.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,7 +241,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6757621765136719,
+                  "scale": 0.13348388671875,
                   "close": true
                 }
               }
@@ -284,9 +258,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "0058a9536e399630",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -335,36 +317,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fbf33708863eccc",
+  "active": "b747f9986b13c3f0",
   "lastOpenFiles": [
-    "src/微积分-/3_积分-/变限积分/变限积分的求导公式.md",
-    "src/几何学/-chaos/法线.md",
-    "src/几何学/-chaos",
-    "src/几何学/未命名.md",
-    "src/几何学",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/换元积分法.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/分部积分法.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/区间再现公式.md",
-    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的线性性质.md",
-    "src/微积分-/3_积分-/变限积分/变限积分的性质.md",
-    "src/微积分-/3_积分-/定积分-/定积分存在定理.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/-chaos技巧.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "附件/Cycloid_f.gif",
+    "附件/Pasted image 20240112200427.png",
+    "src/微积分-/3_积分-/关于定积分的几何应用.md",
+    "chaos/chaos_1-/摆线.md",
+    "src/符号&记号_.md",
+    "src/符号&记号-/平均值符号.md",
     "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_特殊值.md",
-    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/3_积分-/不定积分-/-计算/分部积分法.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/符号&记号-/!参考.md",
+    "src/符号&记号-/consensus_元素&集合.md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/估值定理.md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的保号性(不等式性质).md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的单调性.md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的可加(拆)性.md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/积分的线性性质.md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/求区间长度.md",
+    "src/微积分-/3_积分-/定积分-/定积分的性质/中值定理.md",
+    "src/微积分-/3_积分-/积分的性质.md",
+    "src/微积分-/3_积分-/几何应用",
+    "src/基础数学(高中数学)/chaos/实用的代数变换.md",
+    "src/基础数学(高中数学)/chaos/因式分解公式.md",
     "src/微积分-/3_积分-/积分表.md",
-    "src/微积分-/3_积分-/不定积分-/-计算/第一换元积分法(凑微分法).md",
-    "src/微积分-/3_积分-/不定积分-/-计算/第二换元积分法(换元法).md",
-    "src/运算法则-/对数运算法则.md",
-    "src/基础数学(高中数学)/数列/常见的数列前n项和.md",
-    "src/基础数学(高中数学)/函数-/基本函数-/指数函数 & 对数函数.md",
-    "src/微积分-/3_积分-/变限积分/积分上限的函数.md",
-    "src/微积分-/3_积分-/变限积分/变限积分的概念.md",
-    "src/微积分-/3_积分-/不定积分-/-计算/换元积分法.md",
-    "src/微积分-/3_积分-/定积分-/定积分的计算/牛顿-莱布尼兹公式.md",
+    "src/数学公理系统-/负负得正.md",
+    "src/数学公理系统_.md",
+    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/3_积分-/定积分-/定积分的计算/分部积分法.md",
+    "src/微积分-/3_积分-/定积分-/定积分的计算/-chaos技巧.md",
+    "src/微积分-/3_积分-/变限积分/变限积分的求导公式.md",
     "src/微积分-/3_积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
+    "src/几何学/-chaos",
+    "src/几何学",
     "附件/IMG_20240107_192106.jpg",
     "附件/IMG_20240107_163239.jpg",
     "附件/Pasted image 20240106223910.png",
@@ -381,9 +365,7 @@
     "附件/v2-52d80726682f2600774b9608967fb480_1440w.webp",
     "附件/v2-c53020c03751418ee4ed2ef467527b8a_1440w.webp",
     "考研",
-    "附件/Sec.svg",
     "chaos/chaos_1_.canvas",
-    "考研/微积分/chaos",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
