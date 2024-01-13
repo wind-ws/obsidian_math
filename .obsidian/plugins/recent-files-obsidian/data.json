@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "扇形",
-      "path": "src/几何学/-图形/扇形.md"
+      "basename": "斜率",
+      "path": "src/基础数学(高中数学)/chaos/斜率.md"
+    },
+    {
+      "basename": "割线",
+      "path": "src/几何学/-图形/直线和曲线/割线.md"
+    },
+    {
+      "basename": "切线",
+      "path": "src/几何学/-图形/直线和曲线/切线.md"
+    },
+    {
+      "basename": "关于定积分的几何应用",
+      "path": "src/微积分-/3_积分-/关于定积分的几何应用.md"
+    },
+    {
+      "basename": "摆线",
+      "path": "src/几何学/-图形/直线和曲线/摆线.md"
+    },
+    {
+      "basename": "三角函数_",
+      "path": "src/基础数学(高中数学)/函数-/基本函数-/三角函数_.md"
+    },
+    {
+      "basename": "换元积分法",
+      "path": "src/微积分-/3_积分-/定积分-/定积分的计算/换元积分法.md"
+    },
+    {
+      "basename": "三角函数_公式",
+      "path": "src/基础数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md"
+    },
+    {
+      "basename": "积分表",
+      "path": "src/微积分-/3_积分-/积分表.md"
+    },
+    {
+      "basename": "常数和基本初等函数的导数公式",
+      "path": "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md"
+    },
+    {
+      "basename": "椭圆",
+      "path": "src/几何学/-图形/平面图形/椭圆.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "sortspec.md"
     },
     {
       "basename": "极坐标系",
       "path": "chaos/术语/极坐标系.md"
+    },
+    {
+      "basename": "扇形",
+      "path": "src/几何学/-图形/平面图形/扇形.md"
     }
   ],
   "omittedPaths": [],
