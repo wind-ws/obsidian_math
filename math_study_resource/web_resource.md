@@ -12,3 +12,4 @@
 | [数学 - 维基语录，自由的名人名言录](https://zh.m.wikiquote.org/zh-hans/%E6%95%B0%E5%AD%A6) | _                                                     |
 
 [Symbolab 数学求解器 - 分步计算器](https://zs.symbolab.com/) 
+视频讲解: [Site Unreachable](https://www.youtube.com/@OnlyLoveMath)
