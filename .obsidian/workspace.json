@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "7e5e4c2c6d3488c4",
+            "id": "ba0843a8452177c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/多元微积分/基本概念/可微.md",
+                "file": "src/微积分-/多元函数微分/偏导数/链式求导规则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "1acdccf5298bc472",
+            "id": "54c22706aa251981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/多元微积分/多元函数的极值与最值.md",
+                "file": "src/微积分-/多元函数微分/多元函数的极值与最值.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "9d1fcee340918346",
+            "id": "b23dfd1c187fb44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/基础数学(高中数学)/chaos/一元二次方程.md",
+                "file": "src/微积分-/3_积分-/二重积分/二重积分的性质.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "18dc144677aa4920",
+            "id": "35f3cc85c24dde69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/多元微积分/偏导数/隐函数存在定理.md",
+                "file": "src/微积分-/3_积分-/二重积分/-计算/普通对称性与轮换对称性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,77 +73,12 @@
             }
           },
           {
-            "id": "05372c20ddfcc8b8",
+            "id": "ea2491cf09a3d606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/多元微积分/基本概念/二元函数的极限.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7aeb07f2ab738ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/多元微积分/偏导数/克莱罗定理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a12cc8c9da16e49e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/多元微积分/偏导数/隐函数存在定理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86b763131c5d2975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/多元微积分/偏导数/链式求导规则.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "514849172e2ea52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/2_导数-/求导法则-/隐函数求导.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "024aee05e280f40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/多元微积分/基本概念/可微.md",
+                "file": "src/数理逻辑-/chaos/量词混合使用顺序含义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "file": "src/微积分-/3_积分-/二重积分/-计算/普通对称性与轮换对称性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "file": "src/微积分-/3_积分-/二重积分/-计算/普通对称性与轮换对称性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md"
+                "file": "src/微积分-/3_积分-/二重积分/-计算/普通对称性与轮换对称性.md"
               }
             }
           },
@@ -257,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+                "file": "src/微积分-/3_积分-/二重积分/-计算/普通对称性与轮换对称性.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -358,52 +293,52 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "src/微积分-/3_积分-/二重积分/-计算/高斯积分的推导.md",
+    "src/微积分-/3_积分-/二重积分/-计算/改变积分次序.md",
+    "src/微积分-/3_积分-/二重积分/-计算/极坐标下的计算法.md",
+    "src/微积分-/3_积分-/二重积分/-计算/直角坐标下的计算法.md",
+    "src/微积分-/3_积分-/二重积分/-计算/普通对称性与轮换对称性.md",
+    "src/数理逻辑-/chaos/量词混合使用顺序含义.md",
+    "附件/Screenshot_20240124_210929.png",
+    "附件/Screenshot_20240124_210913.png",
+    "src/微积分-/3_积分-/二重积分/-计算",
+    "src/微积分-/3_积分-/二重积分/二重积分的定义.md",
+    "src/微积分-/3_积分-/二重积分/二重积分的几何背景.md",
+    "src/微积分-/3_积分-/二重积分/二重积分的性质.md",
+    "附件/Screenshot_20240124_194016.png",
+    "src/微积分-/3_积分-/二重积分/性质",
+    "附件/Screenshot_20240124_192342.png",
+    "src/微积分-/3_积分-/二重积分/-mod.md",
+    "src/微积分-/3_积分-/三重积分",
+    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/3_积分-/二重积分",
+    "src/微积分-/多元函数微分/多元函数的极值与最值.md",
+    "src/微积分-/多元函数微分/偏导数/链式求导规则.md",
+    "src/微积分-/多元函数微分/偏导数/偏导数.md",
+    "src/微积分-/多元函数微分/偏导数/多元函数微分形式不变性.md",
+    "src/微积分-/多元函数微分/基本概念/可微.md",
     "src/基础数学(高中数学)/chaos/一元二次方程.md",
-    "src/微积分-/多元微积分/多元函数的极值与最值.md",
-    "src/微积分-/多元微积分/基本概念/平面点集的基本概念.md",
-    "src/微积分-/多元微积分/偏导数/隐函数存在定理.md",
-    "src/微积分-/多元微积分/偏导数/偏导数.md",
-    "src/微积分-/多元微积分/偏导数/链式求导规则.md",
-    "src/微积分-/多元微积分/偏导数/偏导数求原函数.md",
-    "src/微积分-/多元微积分/偏导数/多元函数微分形式不变性.md",
+    "src/微积分-/多元函数微分/偏导数/导数的几何意义.md",
+    "src/微积分-/多元函数微分/基本概念/二元函数的极限.md",
+    "src/微积分-/2_导数-/求导法则-/隐函数求导.md",
+    "src/微积分-/多元函数微分/偏导数/隐函数存在定理.md",
+    "src/微积分-/多元函数微分/基本概念/连续.md",
+    "src/微积分-/多元函数微分/偏导数/偏导数求原函数.md",
+    "src/微积分-/多元函数微分/偏导数/偏导数间不能约分.md",
+    "src/微积分-/多元函数微分/偏导数/偏导数的连续性.md",
+    "src/微积分-/多元函数微分/偏导数/利用轮换性求解偏导数.md",
     "附件/Screenshot_20240122_192523.png",
     "附件/Screenshot_20240122_192510.png",
     "附件/Screenshot_20240122_192453.png",
-    "src/微积分-/多元微积分/基本概念/可微.md",
     "附件/Screenshot_20240122_192355.png",
-    "src/微积分-/多元微积分/基本概念/二元函数的极限.md",
-    "src/符号&记号_.md",
-    "src/微积分-/多元微积分/偏导数/克莱罗定理.md",
-    "src/微积分-/多元微积分/基本概念/连续.md",
     "附件/Screenshot_20240122_172633.png",
     "附件/Screenshot_20240122_171010.png",
-    "src/微积分-/多元微积分/偏导数/偏导数间不能约分.md",
-    "附件/Screenshot_20240122_165951.png",
-    "src/微积分-/多元微积分/偏导数/偏导数的连续性.md",
-    "附件/Screenshot_20240122_163111.png",
-    "src/微积分-/多元微积分/偏导数/利用轮换性求解偏导数.md",
-    "src/微积分-/多元微积分/偏导数/导数的几何意义.md",
-    "附件/Screenshot_20240122_162248.png",
-    "src/微积分-/多元微积分/偏导数",
-    "src/微积分-/2_导数-/求导法则-/隐函数求导.md",
-    "math_study_resource/web_resource.md",
-    "src/微积分-/2_导数-/导数基础-/导数与微分的区别.md",
-    "src/微积分-/2_导数-/导数基础-/可微性,微分.md",
-    "src/微积分-/2_导数-/导数基础-/微分.md",
-    "src/微积分-/2_导数-/导数基础-/单侧导数.md",
-    "src/微积分-/2_导数-/导数基础-/导数定义.md",
-    "src/微积分-/2_导数-/高阶导数.md",
-    "src/微积分-/2_导数-/导数基础_.md",
+    "src/微积分-/多元函数微分/偏导数",
     "src/微积分-/多元微积分/多元函数的极值与最值",
-    "附件/qq_pic_merged_1705582878862.jpg",
-    "src/微积分-/多元微积分/多元函数微分法则",
+    "src/微积分-/多元函数微分/多元函数微分法则",
     "src/符号&记号-/未命名",
     "src/几何学/-术语",
-    "src/微积分-/多元微积分/基本概念",
-    "src/微积分-/多元微积分",
-    "src/几何学/-图形/直线和曲线未命名",
-    "src/几何学/-图形/直线和曲线",
-    "src/几何学/-图形/曲面",
+    "src/微积分-/多元函数微分/基本概念",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
