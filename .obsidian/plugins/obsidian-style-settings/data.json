@@ -29,7 +29,6 @@
   "minimal-style@@h6-size": "0.7em",
   "minimal-style@@blockquote-font-style": "normal",
   "minimal-style@@titlebar-text-weight": 600,
-  "minimal-style@@inline-title-weight": 600,
   "minimal-style@@minimal-strike-lists": false,
   "minimal-style@@ui2@@dark": "#00000000",
   "minimal-style@@active-line-bg@@dark": "#00000000",
@@ -40,5 +39,16 @@
   "minimal-style@@blockquote-color@@dark": "#0C7F71",
   "minimal-style@@blockquote-border-thickness": 4,
   "minimal-style@@blockquote-size": "1.2em",
-  "minimal-style@@bg2@@dark": "#16191C"
+  "minimal-style@@bg2@@dark": "#16191C",
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@active-line-on": true,
+  "minimal-style@@active-line-bg@@light": "#1E1E1E0A",
+  "minimal-style@@tab-stacked-pane-width": 700,
+  "minimal-style@@tab-stacked-header-width": 40,
+  "minimal-cards-style@@cards-min-width": "180px",
+  "minimal-cards-style@@cards-mobile-width": "120px",
+  "minimal-style@@embed-decoration-style": "solid",
+  "minimal-style@@inline-title-weight": 600,
+  "minimal-cards-style@@cards-max-width": "1fr",
+  "minimal-advanced@@folding-offset": 10
 }
