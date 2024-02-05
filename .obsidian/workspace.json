@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "060fe8269d4aa1da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a502c433465127a7",
             "type": "leaf",
             "state": {
@@ -65,7 +52,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/无穷级数/常数项级数/常数项级数的审敛法.md",
+                "file": "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的运算.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ea846bcb1ebfd69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/微积分/证明技巧/常数K值法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "250bd905f6735d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/无穷级数/函数项级数/幂级数/重要展开式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f827fd93ebad6bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-结论/泰勒公式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md",
+                "file": "考研/微积分/证明技巧/常数K值法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md",
+                "file": "考研/微积分/证明技巧/常数K值法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md"
+                "file": "考研/微积分/证明技巧/常数K值法.md"
               }
             }
           },
@@ -179,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md",
+                "file": "考研/微积分/证明技巧/常数K值法.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -278,54 +304,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "060fe8269d4aa1da",
+  "active": "2ea846bcb1ebfd69",
   "lastOpenFiles": [
-    "src/微积分-/无穷级数/函数项级数/幂级数.md",
+    "附件/QQ截图20240205220524.png",
+    "附件/QQ截图20240205220437.png",
+    "附件/QQ截图20240205220416.png",
+    "附件/QQ截图20240205220509.png",
+    "附件/QQ截图20240205220452.png",
+    "附件/64514afdb9978e62f92e5d5017aa5820.png",
+    "附件/45231b737805953bf34db64ffcfee360.png",
+    "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+    "考研/微积分/证明技巧/常数K值法.md",
+    "考研/微积分/证明技巧",
+    "src/微积分-/-结论/中值定理/零点定理.md",
+    "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+    "src/微积分-/-结论/中值定理/柯西中值定理.md",
+    "src/微积分-/-结论/中值定理/介值定理.md",
+    "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的运算.md",
+    "src/微积分-/无穷级数/函数项级数/幂级数/函数的幂级数展开式.md",
+    "src/微积分-/无穷级数/函数项级数/幂级数/重要展开式.md",
+    "src/微积分-/-结论/泰勒公式.md",
+    "附件/Screenshot_20240205_205058.png",
+    "附件/Screenshot_20240205_190000.png",
+    "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的性质.md",
+    "src/微积分-/无穷级数/函数项级数/和函数.md",
+    "附件/qq_pic_merged_1707123359388.jpg",
+    "附件/Screenshot_20240205_165132.png",
+    "src/微积分-/无穷级数/函数项级数/幂级数/收敛域的求法.md",
+    "src/微积分-/无穷级数/函数项级数/幂级数/幂级数.md",
+    "src/微积分-/无穷级数/chaos/任意项级数.md",
+    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分-/无穷级数/chaos/正项级数.md",
+    "src/微积分-/无穷级数/函数项级数/收敛域.md",
     "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md",
     "src/微积分-/无穷级数/函数项级数/函数项级数.md",
-    "src/微积分-/无穷级数/chaos/收敛级数的性质.md",
-    "src/微积分-/无穷级数/chaos/任意项级数.md",
-    "src/微积分-/无穷级数/chaos/交错级数.md",
-    "src/微积分-/无穷级数/chaos/正项级数.md",
-    "src/微积分-/3_积分-/积分表.md",
-    "src/微积分-/无穷级数/常数项级数/常数项级数的性质.md",
+    "src/微积分-/无穷级数/函数项级数/幂级数",
+    "src/微积分-/无穷级数/函数项级数/幂级数/阿贝尔定理.md",
     "src/微积分-/无穷级数/常数项级数/常数项级数的审敛法.md",
+    "src/微积分-/无穷级数/chaos/收敛级数的性质.md",
+    "src/微积分-/无穷级数/chaos/交错级数.md",
+    "src/微积分-/3_积分-/积分表.md",
     "src/微积分-/无穷级数/chaos",
-    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/无穷级数/常数项级数/常数项级数的概念.md",
-    "附件/Screenshot_20240204_141648.png",
-    "笔记规范-/插件使用规范-/Admonition.md",
-    "笔记规范-/插件使用规范-/Columns.md",
-    "笔记规范-/插件使用规范-/Kanban.md",
-    "笔记规范-/文件夹结构&文件位置 规范.md",
-    "笔记规范-/形式化格式规范.md",
-    "笔记规范-/形式化格式意义.md",
-    "笔记规范-/插件使用规范_.md",
-    "src/微积分-/无穷级数/-mod.md",
-    "src/微积分-/3_积分-/关于定积分的几何应用.md",
     "src/微积分-/无穷级数/函数项级数",
     "src/微积分-/无穷级数/常数项级数",
     "src/微积分-/无穷级数",
-    "src/微积分-/4_微分方程-/-计算/一阶微分方程的求解.md",
-    "src/微积分-/4_微分方程-/-计算/高阶线性微分方程的求解.md",
-    "src/基础数学(高中数学)/chaos/一元二次方程.md",
-    "src/微积分-/4_微分方程-/-计算/二(高)阶可降阶微分方程的求解.md",
-    "src/微积分-/3_积分-/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
-    "附件/Pasted image 20240201212652.png",
-    "附件/qq_pic_merged_1706619544910.jpg",
     "附件/高等数学学习笔记3.0-beta.pdf",
     "附件/数学笔记-知识点笔记.pdf",
     "附件/高等数学学习笔3.0-beta.pdf",
-    "附件/Screenshot_20240130_200055.png",
     "src/微积分-/4_微分方程-/-计算",
-    "附件/Screenshot_20240126_211303.png",
-    "附件/Screenshot_20240126_210636.png",
-    "附件/Screenshot_20240125_161558.png",
-    "附件/Screenshot_20240125_161539.png",
-    "附件/Screenshot_20240125_161524.png",
-    "附件/Screenshot_20240125_161500.png",
-    "src/微积分-/3_积分-/二重积分/-计算",
-    "src/微积分-/3_积分-/二重积分/性质",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
