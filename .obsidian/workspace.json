@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/3_积分-/积分表.md",
+                "file": "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲线.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,77 +21,12 @@
             }
           },
           {
-            "id": "0d9eb960c4a4511d",
+            "id": "6afbf8cb052f1149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a502c433465127a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/无穷级数/chaos/任意项级数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7286507980590be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的运算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ea846bcb1ebfd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/微积分/证明技巧/常数K值法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "250bd905f6735d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/无穷级数/函数项级数/幂级数/重要展开式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f827fd93ebad6bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分-/-结论/泰勒公式.md",
+                "file": "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/微积分/证明技巧/常数K值法.md",
+                "file": "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/微积分/证明技巧/常数K值法.md",
+                "file": "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,16 +122,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/微积分/证明技巧/常数K值法.md"
+                "file": "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md"
               }
-            }
-          },
-          {
-            "id": "919fd50310ccea15",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -205,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "考研/微积分/证明技巧/常数K值法.md",
+                "file": "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -304,54 +231,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ea846bcb1ebfd69",
+  "active": "6afbf8cb052f1149",
   "lastOpenFiles": [
-    "附件/QQ截图20240205220524.png",
-    "附件/QQ截图20240205220437.png",
-    "附件/QQ截图20240205220416.png",
-    "附件/QQ截图20240205220509.png",
-    "附件/QQ截图20240205220452.png",
-    "附件/64514afdb9978e62f92e5d5017aa5820.png",
-    "附件/45231b737805953bf34db64ffcfee360.png",
-    "src/微积分-/-结论/中值定理/罗尔中值定理.md",
-    "考研/微积分/证明技巧/常数K值法.md",
-    "考研/微积分/证明技巧",
-    "src/微积分-/-结论/中值定理/零点定理.md",
-    "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
-    "src/微积分-/-结论/中值定理/柯西中值定理.md",
-    "src/微积分-/-结论/中值定理/介值定理.md",
-    "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的运算.md",
-    "src/微积分-/无穷级数/函数项级数/幂级数/函数的幂级数展开式.md",
+    "附件/Screenshot_20240218_225157.png",
+    "附件/Screenshot_20240218_225142.png",
+    "附件/Screenshot_20240218_225101.png",
+    "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲线.md",
+    "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+    "附件/Screenshot_20240218_224653.png",
+    "src/微积分-/向量代数与空间解析几何/空间平面与直线/平面位置关系.md",
+    "src/微积分-/向量代数与空间解析几何/空间平面与直线/点到平面的距离.md",
+    "附件/Screenshot_20240218_222513.png",
+    "附件/qq_pic_merged_1708266144886.jpg",
+    "附件/qq_pic_merged_1708266123966.jpg",
+    "附件/Screenshot_20240218_220921.png",
+    "附件/Screenshot_20240218_220859.png",
+    "附件/Screenshot_20240218_220613.png",
+    "src/微积分-/向量代数与空间解析几何/空间曲线与曲面",
+    "src/微积分-/向量代数与空间解析几何/空间平面与直线/直线位置关系.md",
+    "src/微积分-/向量代数与空间解析几何/空间平面与直线/直线方程.md",
+    "附件/Screenshot_20240218_215147.png",
+    "src/微积分-/向量代数与空间解析几何/空间平面与直线/平面方程.md",
+    "src/几何学/-图形/直线和曲线/法线(法向量).md",
+    "src/微积分-/向量代数与空间解析几何/向量代数/向量的方向角和方向余弦.md",
+    "src/微积分-/向量代数与空间解析几何/空间平面与直线",
+    "src/微积分-/向量代数与空间解析几何/向量代数/混合积.md",
+    "src/微积分-/向量代数与空间解析几何/向量代数",
+    "src/符号&记号-/° (度数).md",
+    "src/线性代数-/向量/向量/单位向量.md",
+    "src/微积分-/向量代数与空间解析几何/向量代数/向量相关的定义.md",
+    "src/微积分-/向量代数与空间解析几何/向量代数/数量积(内积,点积).md",
+    "src/微积分-/向量代数与空间解析几何/向量代数/向量积.md",
+    "src/线性代数-/向量/向量/向量的模.md",
+    "src/微积分-/向量代数与空间解析几何/向量代数/空间直角坐标系的空间卦限.md",
+    "src/微积分-/3_积分-/积分表.md",
+    "src/微积分-/向量代数与空间解析几何",
+    "src/微积分-/多元函数积分",
+    "src/微积分-/无穷级数/chaos/偏移n项.md",
     "src/微积分-/无穷级数/函数项级数/幂级数/重要展开式.md",
     "src/微积分-/-结论/泰勒公式.md",
-    "附件/Screenshot_20240205_205058.png",
-    "附件/Screenshot_20240205_190000.png",
     "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的性质.md",
+    "src/微积分-/无穷级数/函数项级数/幂级数/幂级数的运算.md",
     "src/微积分-/无穷级数/函数项级数/和函数.md",
-    "附件/qq_pic_merged_1707123359388.jpg",
-    "附件/Screenshot_20240205_165132.png",
-    "src/微积分-/无穷级数/函数项级数/幂级数/收敛域的求法.md",
-    "src/微积分-/无穷级数/函数项级数/幂级数/幂级数.md",
-    "src/微积分-/无穷级数/chaos/任意项级数.md",
-    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分-/无穷级数/chaos/正项级数.md",
-    "src/微积分-/无穷级数/函数项级数/收敛域.md",
-    "src/微积分-/无穷级数/函数项级数/收敛点和发散点.md",
-    "src/微积分-/无穷级数/函数项级数/函数项级数.md",
+    "src/初等数学(高中数学)/数列/等比数列.md",
+    "考研/微积分/证明技巧",
     "src/微积分-/无穷级数/函数项级数/幂级数",
-    "src/微积分-/无穷级数/函数项级数/幂级数/阿贝尔定理.md",
-    "src/微积分-/无穷级数/常数项级数/常数项级数的审敛法.md",
-    "src/微积分-/无穷级数/chaos/收敛级数的性质.md",
-    "src/微积分-/无穷级数/chaos/交错级数.md",
-    "src/微积分-/3_积分-/积分表.md",
     "src/微积分-/无穷级数/chaos",
     "src/微积分-/无穷级数/函数项级数",
     "src/微积分-/无穷级数/常数项级数",
-    "src/微积分-/无穷级数",
-    "附件/高等数学学习笔记3.0-beta.pdf",
-    "附件/数学笔记-知识点笔记.pdf",
-    "附件/高等数学学习笔3.0-beta.pdf",
-    "src/微积分-/4_微分方程-/-计算",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
