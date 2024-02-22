@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d0240b77845b042",
+        "id": "e833efc92130a712",
         "type": "tabs",
         "children": [
           {
-            "id": "82c55c654e8a1d5a",
+            "id": "a02daac7ea0dfbcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/多元函数微分/多元函数微分的几何应用/空间曲线的切线与法平面.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的性质.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "8f03fdd0934b013a",
+            "id": "8b019a0f5c97fa0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/多元函数微分/chaos/散度与旋度.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/多元函数微分/chaos/散度与旋度.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/多元函数微分/chaos/散度与旋度.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,42 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/多元函数微分/chaos/散度与旋度.md"
-              }
-            }
-          },
-          {
-            "id": "969e0c6f0e4b804d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "src/微积分-/多元函数微分/chaos/散度与旋度.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3003387451171875,
-                  "close": true
-                }
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md"
               }
             }
           },
@@ -182,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "aa9b6c7c010ecbfb",
@@ -231,54 +196,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "8b019a0f5c97fa0a",
   "lastOpenFiles": [
-    "src/线性代数-/-术语/矩阵/对称矩阵.md",
-    "src/线性代数-/-术语/矩阵/对角矩阵.md",
-    "src/微积分-/多元函数微分/chaos/散度与旋度.md",
-    "src/线性代数-/线性空间与线性变换/线性变换.md",
-    "src/线性代数-/线性方程组/线性方程组.md",
-    "src/线性代数-/线性方程组/线性方程.md",
-    "src/线性代数-/线性方程组/齐次线性方程组.md",
-    "src/线性代数-/线性方程组/解线性方程组.md",
-    "src/线性代数-/线性方程组/存在与唯一性定理.md",
-    "src/线性代数-/矩阵与行列式/矩阵记号.md",
-    "src/线性代数-/矩阵与行列式/克莱默法则.md",
-    "src/线性代数-/矩阵与行列式/行列式.md",
-    "src/线性代数-/矩阵与行列式/行列式的性质.md",
-    "src/线性代数-/矩阵与行列式/Ax=b的计算.md",
-    "src/线性代数-/矩阵与行列式/雅可比行列式.md",
-    "src/微积分-/多元函数微分/chaos/梯度.md",
-    "src/微积分-/多元函数微分/chaos/方向导数.md",
-    "附件/Screenshot_20240219_231304.png",
-    "附件/Screenshot_20240219_231254.png",
-    "附件/qq_pic_merged_1708353779898.jpg",
-    "附件/Screenshot_20240219_223255.png",
-    "附件/Screenshot_20240219_223238.png",
-    "附件/Screenshot_20240219_222814.png",
-    "附件/Screenshot_20240219_222801.png",
-    "附件/Screenshot_20240219_222400.png",
-    "src/微积分-/多元函数微分/多元函数微分的几何应用/空间曲面的切平面和法线.md",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的概念.md",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
+    "附件/Screenshot_20240222_233853.png",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的性质.md",
+    "附件/qq_pic_merged_1708616239627.jpg",
+    "附件/Screenshot_20240222_225554.png",
+    "附件/Screenshot_20240222_224541.png",
+    "附件/Screenshot_20240222_224503.png",
+    "附件/Screenshot_20240222_224449.png",
+    "附件/Screenshot_20240222_224420.png",
+    "附件/Screenshot_20240222_224353.png",
+    "src/微积分-/3_积分-/曲线曲面积分/曲面积分的概念.md",
+    "src/微积分-/3_积分-/曲线曲面积分/曲线积分的概念.md",
+    "src/微积分-/3_积分-/曲线曲面积分/第二型",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型",
+    "src/微积分-/3_积分-/三重积分/-计算/技巧.md",
+    "src/微积分-/3_积分-/重积分的应用/-mod.md",
+    "src/微积分-/3_积分-/重积分的应用",
+    "src/符号&记号_.md",
+    "附件/Screenshot_20240222_212806.png",
+    "src/微积分-/3_积分-/三重积分/-计算/球坐标系计算三重积分.md",
+    "附件/Screenshot_20240222_212433.png",
+    "src/微积分-/3_积分-/三重积分/-计算/柱面坐标系计算三重积分.md",
+    "chaos/坐标系/球坐标系.md",
+    "chaos/坐标系/圆柱坐标系(柱面坐标系).md",
+    "chaos/坐标系",
+    "src/微积分-/3_积分-/三重积分/-计算/直角坐标系计算三重积分.md",
+    "chaos/术语/极坐标系.md",
+    "src/微积分-/3_积分-/二重积分/-计算/直角坐标下的计算法.md",
+    "src/微积分-/3_积分-/二重积分/-计算/画图的重要性.md",
+    "src/微积分-/3_积分-/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
+    "src/微积分-/3_积分-/三重积分/三重积分的对称性.md",
+    "src/微积分-/3_积分-/二重积分/-计算/二重积分的对称性.md",
+    "src/微积分-/3_积分-/三重积分/-计算",
+    "src/微积分-/3_积分-/三重积分/对称性.md",
+    "src/微积分-/3_积分-/三重积分/三重积分的性质.md",
+    "src/微积分-/3_积分-/三重积分/三重积分的概念.md",
+    "考研/微积分/证明技巧/常数K值法.md",
+    "src/初等数学(高中数学)/函数-/基本函数-/三角函数_.md",
+    "src/初等数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+    "src/微积分-/多元函数微分/多元函数的极值与最值.md",
+    "src/微积分-/3_积分-/曲线曲面积分",
     "src/微积分-/多元函数微分/chaos",
-    "附件/Screenshot_20240219_222154.png",
-    "附件/Screenshot_20240219_222140.png",
-    "src/微积分-/多元函数微分/多元函数微分的几何应用/空间曲线的切线与法平面.md",
-    "src/微积分-/多元函数微分/偏导数/链式求导规则.md",
-    "src/微积分-/多元函数微分/偏导数/偏导数.md",
-    "src/微积分-/多元函数微分/偏导数/隐函数存在定理.md",
-    "src/微积分-/向量代数与空间解析几何/空间曲线与曲面/空间曲线.md",
     "src/微积分-/多元函数微分/多元函数微分的几何应用",
-    "src/微积分-/多元函数微分/偏导数/多元函数微分形式不变性.md",
-    "src/微积分-/多元函数微分/偏导数/导数的几何意义.md",
-    "src/微积分-/多元函数微分/基本概念/平面点集的基本概念.md",
     "src/微积分-/向量代数与空间解析几何/空间曲线与曲面",
     "src/微积分-/向量代数与空间解析几何/空间平面与直线",
-    "src/微积分-/向量代数与空间解析几何/向量代数",
-    "src/微积分-/向量代数与空间解析几何",
-    "src/微积分-/多元函数积分",
-    "考研/微积分/证明技巧",
-    "src/微积分-/无穷级数/函数项级数/幂级数",
-    "src/微积分-/无穷级数/chaos",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
