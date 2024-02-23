@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的性质.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/重积分与第一型线面积分的应用.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "8b019a0f5c97fa0a",
+            "id": "4a9147321babc82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/重积分与第一型线面积分的应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/重积分与第一型线面积分的应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md"
+                "file": "src/微积分-/3_积分-/曲线曲面积分/第一型/重积分与第一型线面积分的应用.md"
               }
             }
           },
@@ -188,62 +187,62 @@
       "templates:插入模板": false,
       "workspaces:管理工作区布局": false,
       "graph:查看关系图谱": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:创建一个新数据库表": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "notion-like-tables:Create loom": false,
-      "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8b019a0f5c97fa0a",
+  "active": "a02daac7ea0dfbcd",
   "lastOpenFiles": [
-    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的概念.md",
+    "附件/qq_pic_merged_1708693009092.jpg",
+    "附件/qq_pic_merged_1708692984294.jpg",
+    "附件/qq_pic_merged_1708692950737.jpg",
+    "附件/qq_pic_merged_1708692929871.jpg",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲面积分的计算.md",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/重积分与第一型线面积分的应用.md",
     "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的计算.md",
-    "附件/Screenshot_20240222_233853.png",
+    "附件/qq_pic_merged_1708692562582.jpg",
+    "附件/qq_pic_merged_1708692542211.jpg",
+    "附件/Screenshot_20240223_204244.png",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲面积分的轮换性.md",
+    "附件/qq_pic_merged_1708692130517.jpg",
+    "附件/Screenshot_20240223_202404.png",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲面积分的概念.md",
+    "附件/Screenshot_20240223_202343.png",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲面积分的性质.md",
+    "附件/qq_pic_merged_1708690866890.jpg",
     "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的性质.md",
-    "附件/qq_pic_merged_1708616239627.jpg",
-    "附件/Screenshot_20240222_225554.png",
-    "附件/Screenshot_20240222_224541.png",
-    "附件/Screenshot_20240222_224503.png",
-    "附件/Screenshot_20240222_224449.png",
-    "附件/Screenshot_20240222_224420.png",
-    "附件/Screenshot_20240222_224353.png",
+    "src/微积分-/3_积分-/三重积分/-计算/技巧.md",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的轮换性.md",
+    "src/微积分-/3_积分-/曲线曲面积分/第一型/第一型曲线积分的概念.md",
+    "src/微积分-/2_导数-/导数基础-/导数定义.md",
+    "考研/微积分/题目/证明题/困难题.md",
+    "src/微积分-/-结论/泰勒公式.md",
+    "考研/微积分/题目/证明题/困难",
+    "考研/微积分/题目/证明题",
+    "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+    "sortspec.md",
+    "folder_introductions.md",
     "src/微积分-/3_积分-/曲线曲面积分/曲面积分的概念.md",
     "src/微积分-/3_积分-/曲线曲面积分/曲线积分的概念.md",
     "src/微积分-/3_积分-/曲线曲面积分/第二型",
     "src/微积分-/3_积分-/曲线曲面积分/第一型",
-    "src/微积分-/3_积分-/三重积分/-计算/技巧.md",
     "src/微积分-/3_积分-/重积分的应用/-mod.md",
     "src/微积分-/3_积分-/重积分的应用",
     "src/符号&记号_.md",
-    "附件/Screenshot_20240222_212806.png",
     "src/微积分-/3_积分-/三重积分/-计算/球坐标系计算三重积分.md",
-    "附件/Screenshot_20240222_212433.png",
     "src/微积分-/3_积分-/三重积分/-计算/柱面坐标系计算三重积分.md",
     "chaos/坐标系/球坐标系.md",
     "chaos/坐标系/圆柱坐标系(柱面坐标系).md",
     "chaos/坐标系",
     "src/微积分-/3_积分-/三重积分/-计算/直角坐标系计算三重积分.md",
-    "chaos/术语/极坐标系.md",
-    "src/微积分-/3_积分-/二重积分/-计算/直角坐标下的计算法.md",
-    "src/微积分-/3_积分-/二重积分/-计算/画图的重要性.md",
-    "src/微积分-/3_积分-/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
-    "src/微积分-/3_积分-/三重积分/三重积分的对称性.md",
-    "src/微积分-/3_积分-/二重积分/-计算/二重积分的对称性.md",
     "src/微积分-/3_积分-/三重积分/-计算",
-    "src/微积分-/3_积分-/三重积分/对称性.md",
-    "src/微积分-/3_积分-/三重积分/三重积分的性质.md",
-    "src/微积分-/3_积分-/三重积分/三重积分的概念.md",
-    "考研/微积分/证明技巧/常数K值法.md",
-    "src/初等数学(高中数学)/函数-/基本函数-/三角函数_.md",
-    "src/初等数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
-    "src/微积分-/多元函数微分/多元函数的极值与最值.md",
     "src/微积分-/3_积分-/曲线曲面积分",
     "src/微积分-/多元函数微分/chaos",
     "src/微积分-/多元函数微分/多元函数微分的几何应用",
-    "src/微积分-/向量代数与空间解析几何/空间曲线与曲面",
-    "src/微积分-/向量代数与空间解析几何/空间平面与直线",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
