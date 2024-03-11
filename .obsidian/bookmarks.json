@@ -109,6 +109,11 @@
             },
             {
               "type": "file",
+              "ctime": 1709638637049,
+              "path": "src/初等数学(高中数学)/chaos/实用的代数变换.md"
+            },
+            {
+              "type": "file",
               "ctime": 1695821917186,
               "path": "src/初等数学(高中数学)/chaos/不等式.md"
             }
@@ -422,6 +427,49 @@
         }
       ],
       "title": "一元函数微分学的几何应用"
+    },
+    {
+      "type": "group",
+      "ctime": 1709371384533,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1709372210922,
+          "items": [],
+          "title": "行列式"
+        },
+        {
+          "type": "group",
+          "ctime": 1709372224451,
+          "items": [],
+          "title": "矩阵"
+        },
+        {
+          "type": "group",
+          "ctime": 1709372229697,
+          "items": [],
+          "title": "向量组"
+        },
+        {
+          "type": "group",
+          "ctime": 1709372236645,
+          "items": [],
+          "title": "线性方程组"
+        },
+        {
+          "type": "group",
+          "ctime": 1709372245298,
+          "items": [],
+          "title": "特征值与特征向量"
+        },
+        {
+          "type": "group",
+          "ctime": 1709372255694,
+          "items": [],
+          "title": "二次型"
+        }
+      ],
+      "title": "线性代数-考研层级结构"
     }
   ]
 }

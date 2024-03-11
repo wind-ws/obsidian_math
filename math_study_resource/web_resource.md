@@ -13,3 +13,8 @@
 
 [Symbolab 数学求解器 - 分步计算器](https://zs.symbolab.com/) 
 视频讲解: [Site Unreachable](https://www.youtube.com/@OnlyLoveMath)
+[四都教育 – 完全免费的数学学习网站](https://www.sudoedu.com/)
+[Symbolab 数学求解器 - 分步计算器](https://zs.symbolab.com/)
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://delta1037.notion.site/87fb69724483410e9c78e3395927f05a)
+[Only Love Math - YouTube](https://www.youtube.com/@OnlyLoveMath)
+	
