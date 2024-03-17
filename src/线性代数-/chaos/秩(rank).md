@@ -32,9 +32,7 @@ $r(A)(矩阵的秩)=A的行秩=A的列秩$
 4. $r(AB)\geq r(A)+r(B)-n$ ($n$是列数)
 5. $r(A+B)\leq r([A~~B])\leq r(A)+r(B)$
 6. $\displaystyle{r(A^{*})=\begin{cases}n,&r(A)=n\\1,&r(A)=n-1\\0,&r(A)<n-1\end{cases}}$
-7. $r(A)=n\Longleftrightarrow r(A^{*})=n$
-8. $r(A)=n-1\Longleftrightarrow r(A^{*})=1$
-9. $r(A)<n-1\Longleftrightarrow r(A^{*})=0$
+7. $r(A)=r(A^{T})=r(A^{T}A)=r(AA^{T})$
 
 
 

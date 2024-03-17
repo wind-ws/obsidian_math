@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5627e851be72af6c",
+        "id": "7c584c23f8b09224",
         "type": "tabs",
         "children": [
           {
-            "id": "64504369d286b7e7",
+            "id": "4157648dc4a4138e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性方程组/线性方程组.md",
+                "file": "src/线性代数-/--整理版/二次型/二次型的标准形和规范形.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "75dc8ae50503ddbc",
+            "id": "ce911d8122266cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性方程组/基础解系和解的结构.md",
+                "file": "src/线性代数-/--整理版/二次型/正定二次型及其判别.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4658f2001a041113",
+            "id": "fb5549d60d5f5515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性方程组/齐次线性方程组.md",
+                "file": "src/线性代数-/--整理版/二次型/二次型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "278b3a99c710493a",
+            "id": "af7d4efa43f8c751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性方程组/非齐次线性方程组.md",
+                "file": "src/线性代数-/chaos/正交性/可正交对角化.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,64 @@
             }
           },
           {
-            "id": "386e149d18fd8da1",
+            "id": "c23487322ad327d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数-/线性方程组/存在与唯一性定理.md",
+                "file": "src/线性代数-/-术语/矩阵/合同矩阵.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c3d735f0591e143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/线性代数-/--整理版/特征值和特征向量/对角化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edb0d1236583c4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/渐近线/斜渐近线.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07844379e386ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/1_极限/-技巧/利用 基本极限 求极限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "955e7e5a7189448f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分-/-术语/曲率.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -102,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "解的结构",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数-/线性方程组/基础解系和解的结构.md",
+                "file": "src/微积分-/-术语/曲率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数-/线性方程组/基础解系和解的结构.md",
+                "file": "src/微积分-/-术语/曲率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数-/线性方程组/基础解系和解的结构.md"
+                "file": "src/微积分-/-术语/曲率.md"
               }
             }
           },
@@ -237,52 +289,51 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/线性代数-/线性方程组/齐次线性方程组.md",
-    "src/线性代数-/线性方程组/非齐次线性方程组.md",
-    "src/线性代数-/线性方程组/基础解系和解的结构.md",
-    "src/线性代数-/线性方程组/线性方程组.md",
-    "src/线性代数-/chaos/参数向量形式.md",
-    "src/线性代数-/-术语/同构.md",
-    "src/线性代数-/-术语/先导元素.md",
-    "src/线性代数-/-术语/非零行(列).md",
-    "src/线性代数-/-术语/分量.md",
-    "src/线性代数-/chaos/代数重数.md",
-    "src/线性代数-/chaos/定义0.md",
-    "src/线性代数-/chaos/定义域&余定义域&值域.md",
-    "src/线性代数-/chaos/基本变量(先导变量) 和 自由变量.md",
-    "src/线性代数-/线性方程组/存在与唯一性定理.md",
-    "src/线性代数-/向量/子空间/零空间和列空间的对比.md",
-    "src/线性代数-/线性方程组/解线性方程组.md",
-    "src/线性代数-/线性方程组/线性方程.md",
-    "src/线性代数-/向量/子空间/基的变换.md",
-    "src/线性代数-/矩阵与行列式/行列式/行列式的性质.md",
-    "src/线性代数-/矩阵与行列式/行列式/行列式.md",
-    "src/微积分-/2_导数-/导数基础-/导数定义.md",
-    "src/微积分-/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/初等数学(高中数学)/chaos/斜率.md",
-    "src/微积分-/向量代数与空间解析几何/空间平面与直线/直线方程.md",
-    "src/微积分-/2_导数-/函数的凹凸性和拐点.md",
-    "src/微积分-/2_导数-/-chaos结论.md",
-    "附件/qq_pic_merged_1709975916705.jpg",
+    "src/微积分-/1_极限/-技巧/利用 基本极限 求极限.md",
+    "src/微积分-/-术语/渐近线/斜渐近线.md",
+    "src/微积分-/-术语/渐近线/水平渐近线.md",
+    "src/线性代数-/--整理版/二次型/正定二次型及其判别.md",
+    "附件/qq_pic_merged_1710678032234.jpg",
+    "src/线性代数-/--整理版/二次型/二次型的标准形和规范形.md",
+    "src/线性代数-/--整理版/二次型/二次型.md",
+    "src/线性代数-/--整理版/-历史原因.md",
+    "src/线性代数-/--整理版/二次型/惯性定理.md",
+    "附件/qq_pic_merged_1710677138237.jpg",
+    "src/线性代数-/-术语/矩阵/对称矩阵.md",
+    "src/线性代数-/chaos/正交性/可正交对角化.md",
+    "附件/4b8d9a0452aa982628129835a092c6c7.jpg",
+    "附件/7694760473c9689ee33137ffd60529fe.jpg",
+    "src/线性代数-/--整理版/特征值和特征向量/对角化.md",
+    "src/线性代数-/-术语/矩阵/合同矩阵.md",
+    "附件/qq_pic_merged_1710672402209.jpg",
+    "src/线性代数-/--整理版/二次型/二次型的分类.md",
+    "src/线性代数-/--整理版/特征值和特征向量/相似性.md",
+    "src/线性代数-/--整理版/二次型",
+    "src/线性代数-/--整理版/特征值和特征向量/特征值与特征向量.md",
+    "src/线性代数-/chaos/正交性/正交向量.md",
+    "src/线性代数-/向量/向量/向量.md",
+    "src/线性代数-/线性空间与线性变换/线性无关.md",
+    "src/线性代数-/矩阵与行列式/矩阵的迹(tr).md",
+    "src/线性代数-/--整理版/特征值和特征向量/特征方程.md",
+    "src/微积分-/-术语/渐近线/铅直渐近线.md",
+    "src/微积分-/1_极限/-技巧/利用 等价无穷小代换 求极限.md",
+    "src/微积分-/1_极限/-技巧/利用 定积分 求极限.md",
+    "src/微积分-/1_极限/-技巧/利用 有理运算法则 求极限.md",
+    "src/微积分-/-术语/渐近线/渐近线.md",
+    "附件/qq_pic_merged_1710501683691.jpg",
+    "附件/qq_pic_merged_1710501620388 1.jpg",
+    "附件/qq_pic_merged_1710501620388.jpg",
+    "附件/qq_pic_merged_1710404021473.jpg",
+    "附件/qq_pic_merged_1710399200155.jpg",
+    "src/线性代数-/--整理版/特征值和特征向量",
     "src/线性代数-/--整理版/向量",
-    "附件/1.svg",
     "src/线性代数-/--整理版/矩阵",
     "src/线性代数-/--整理版/行列式",
     "src/线性代数-/--整理版",
-    "附件/qq_pic_merged_1709639981269.jpg",
-    "附件/abb5ace0a63f5663e634809a4d6fda29_720w.png",
-    "附件/qq_pic_merged_1709389435431.jpg",
     "src/线性代数-/矩阵与行列式/行列式",
-    "附件/Screenshot_20240224_233330.png",
-    "附件/Screenshot_20240224_233321.png",
-    "附件/Screenshot_20240224_233234.png",
-    "附件/Screenshot_20240224_233150.png",
-    "附件/Screenshot_20240224_233119.png",
     "考研/微积分/题目/证明题/困难",
     "考研/微积分/题目/证明题",
     "src/微积分-/3_积分-/曲线曲面积分/第二型",
-    "src/微积分-/3_积分-/曲线曲面积分/第一型",
-    "src/微积分-/3_积分-/重积分的应用",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
     "未命名.canvas",
