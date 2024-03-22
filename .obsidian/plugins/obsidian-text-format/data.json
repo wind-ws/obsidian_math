@@ -1,0 +1,76 @@
+{
+  "MergeParagraph_Newlines": true,
+  "MergeParagraph_Spaces": true,
+  "LowercaseFirst": true,
+  "RemoveBlanksWhenChinese": false,
+  "ZoteroNoteRegExp": "“(?<text>.*)” \\((?<item>.*?)\\) \\(\\[pdf\\]\\((?<pdf_url>.*?)\\)\\)",
+  "ZoteroNoteTemplate": "{text} [🔖]({pdf_url})",
+  "BulletPoints": "•–§",
+  "WrapperList": [
+    {
+      "name": "underline",
+      "prefix": "<u>",
+      "suffix": "</u>"
+    }
+  ],
+  "RequestList": [],
+  "customReplaceList": [
+    {
+      "name": "移除所有行末空格",
+      "data": [
+        {
+          "search": "(\\s*)(?=\\n)|(\\s*)$",
+          "replace": ""
+        }
+      ]
+    },
+    {
+      "name": "移除空行",
+      "data": [
+        {
+          "search": "\\n\\s*\\n",
+          "replace": "\\n"
+        }
+      ]
+    },
+    {
+      "name": "在段落间添加额外换行",
+      "data": [
+        {
+          "search": "\\n",
+          "replace": "\\n\\n"
+        }
+      ]
+    },
+    {
+      "name": "按空格分行",
+      "data": [
+        {
+          "search": " ",
+          "replace": "\\n"
+        }
+      ]
+    }
+  ],
+  "customReplaceBuiltIn": [
+    "remove-trailing-spaces",
+    "remove-blank-line",
+    "add-line-break",
+    "split-lines-by-blank"
+  ],
+  "ToggleSequence": "titleCase\nlowerCase\nupperCase",
+  "RemoveWikiURL2": false,
+  "WikiLinkFormat": {
+    "headingOnly": "{title} (> {heading})",
+    "aliasOnly": "{alias} ({title})",
+    "both": "{alias} ({title} > {heading})"
+  },
+  "UrlLinkFormat": "{text}",
+  "ProperNoun": "",
+  "OrderedListOtherSeparator": "",
+  "Wikilink2mdRelativePath": "relative-obsidian",
+  "calloutType": "NOTE",
+  "debugMode": false,
+  "headingLevelMin": 0,
+  "calloutTypeDecider": "previous-content"
+}

@@ -1,1 +1,183 @@
-{}
+{
+  "workspaces": {
+    "概率论": {
+      "main": {
+        "id": "84ee939e5cfa5fd6",
+        "type": "split",
+        "children": [
+          {
+            "id": "b58121a55ecd8d49",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bde9a63b071883ce",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "174aa8e4a46c3767",
+        "type": "split",
+        "children": [
+          {
+            "id": "a15e1168a1eee83f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe0a6dddaba50f0c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2284de68d834ed87",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 323.5
+      },
+      "right": {
+        "id": "6aa6a817b5e4c25e",
+        "type": "split",
+        "children": [
+          {
+            "id": "b36b82be6f751cee",
+            "type": "tabs",
+            "dimension": 53.61111111111111,
+            "children": [
+              {
+                "id": "2542bcf1f6986c2e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "37fea2f3856dd081",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6b2d71f8f9064ed9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "75bf04f382617caa",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "0058a9536e399630",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "aa9b6c7c010ecbfb",
+            "type": "tabs",
+            "dimension": 46.38888888888889,
+            "children": [
+              {
+                "id": "3e8551d28bbfc98f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d2dcc62d519122e5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 326.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": true,
+          "command-palette:打开命令面板": false,
+          "switcher:打开快速切换": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "graph:查看关系图谱": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "custom-sort:Toggle custom sorting": false,
+          "notion-like-tables:Create loom": false,
+          "dbfolder:创建一个新数据库表": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false
+        }
+      },
+      "active": "bde9a63b071883ce",
+      "mtime": "2024-03-22T14:22:43+08:00"
+    }
+  },
+  "active": "概率论"
+}
