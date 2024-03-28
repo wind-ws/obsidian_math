@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca0baed0896ddf5c",
+        "id": "29e50a0ad6522cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "a09e15fa846f7512",
+            "id": "3e596720f161b39f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/数理逻辑/mod.md",
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/分布函数的概念及性质.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "3797a09f924963f2",
+            "id": "dab60c888c028390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记规范-/文件夹结构&文件位置 规范.md",
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f49027173fd5ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7faee5c8b9dbe8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c3bda444627d692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/随机变量的概念.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记规范-/文件夹结构&文件位置 规范.md",
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记规范-/文件夹结构&文件位置 规范.md",
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记规范-/文件夹结构&文件位置 规范.md"
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md"
               }
             }
           },
@@ -195,8 +234,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3797a09f924963f2",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型分布类型.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/随机变量的概念.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/分布函数的概念及性质.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/连续型/连续型分布类型.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/连续型/连续型随机变量及其概率密度.md",
+    "src/概率论与数理统计/1_随机事件与概念/-计算/概率的基本性质和公式.md",
+    "src/概率论与数理统计/1_随机事件与概念/-计算/事件的关系与运算.md",
+    "src/概率论与数理统计/1_随机事件与概念/古典概率(等可能概型).md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/连续型.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/连续型",
+    "src/概率论与数理统计/2_一维随机变量及其分布/离散型",
+    "笔记规范-/文件夹结构&文件位置 规范.md",
     "笔记规范_.md",
     "src/数理逻辑/mod.md",
     "src/数理逻辑_.md",
@@ -205,26 +258,14 @@
     "src/概率论与数理统计_.md",
     "src/线性代数/mod.md",
     "src/线性代数_.md",
-    "src/概率论与数理统计/2_一维随机变量及其分布/分布函数的概念及性质.md",
     "src/微积分_.md",
     "templates/main.js",
-    "src/概率论与数理统计/2_一维随机变量及其分布/随机变量的概念.md",
     "附件/屏幕截图_20240328_125718.png",
     "src/概率论与数理统计/1_随机事件与概念/n重伯努利概型.md",
     "src/概率论与数理统计/1_随机事件与概念/基本概念/随机事件.md",
-    "src/概率论与数理统计/1_随机事件与概念/-计算/概率的基本性质和公式.md",
     "src/微积分/-结论/中值定理/拉格朗日中值定理.md",
     "src/微积分/-结论/中值定理/有界与最值定理.md",
     "src/微积分/-结论/中值定理/平均值定理.md",
-    "src/微积分/-结论/中值定理/罗尔中值定理.md",
-    "src/微积分/-结论/中值定理/零点定理.md",
-    "src/微积分/-结论/中值定理/介值定理.md",
-    "src/微积分/-结论/中值定理/柯西中值定理.md",
-    "src/微积分/-结论/中值定理/积分第一中值定理.md",
-    "src/微积分/-结论/中值定理/费马引理.md",
-    "src/微积分/-结论/中值定理/达布中值定理.md",
-    "src/初等数学(高中数学)/chaos/不等式.md",
-    "src/初等数学(高中数学)/函数-/基本函数-/三角函数_.md",
     "附件/qq_pic_merged_1711463435139.jpg",
     "附件/qq_pic_merged_1711428511227.jpg",
     "附件/屏幕截图_20240323_203449 1.png",
@@ -240,8 +281,6 @@
     "src/概率论与数理统计/6_数理统计",
     "src/概率论与数理统计/5_大数定律与中心极限定理",
     "src/概率论与数理统计/4_随机变量的数字特征",
-    "src/概率论与数理统计/3_多维随机变量及其分布",
-    "src/概率论与数理统计/2_一维随机变量及其分布",
     "附件/屏幕截图_20240319_163803 1.png",
     "chaos/chaos_1_.canvas",
     "考研/线性代数/题目/困惑.canvas",
