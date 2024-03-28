@@ -3,7 +3,7 @@
 /* Separator  below nav item */
 /*.nav-folder-children > [class*=nav-]:has([data-path="chaos"])::after,*/
 .nav-folder-children > [class*=nav-]:has([data-path="src/术语-"])::after,
-.nav-folder-children > [class*=nav-]:has([data-path="src/运算法则-"])::after,
+.nav-folder-children > [class*=nav-]:has([data-path="src/运算法则"])::after,
 .nav-folder-children > [class*=nav-]:has([data-path="src"])::after,
 .nav-folder-children > [class*=nav-]:has([data-path="____"])::after
 {
