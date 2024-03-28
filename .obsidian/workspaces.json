@@ -41,7 +41,59 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/基本概念/样本空间.md",
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1d653f1b529cad46",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/事件的关系与运算.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d637b798f9435f7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/事件的独立性和独立重复试验.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "abe7b64dc5fd8da1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/n重伯努利概型.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2616d7534753db80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/古典概率(等可能概型).md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -108,7 +160,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/基本概念/样本空间.md",
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -125,7 +177,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/基本概念/样本空间.md",
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -137,7 +189,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/基本概念/样本空间.md"
+                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md"
                   }
                 }
               },
@@ -212,7 +264,351 @@
         }
       },
       "active": "2a7c8128ef91d3b5",
-      "mtime": "2024-03-22T22:00:13+08:00"
+      "mtime": "2024-03-27T21:49:46+08:00"
+    },
+    "高数": {
+      "main": {
+        "id": "84ee939e5cfa5fd6",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5b58891ffc16476",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "271fbc50dc5667bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c93ead3463c88820",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0cf33f78fe65ee54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-术语/拐点.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7b48ce00ddd743a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f628ce7ae7e29dee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-结论/chaos_结论.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c95e72f4fab43a87",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/2_导数-/无穷小增量公式&有限增量公式.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ce2503be21288447",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-结论/泰勒公式.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "03cecb321fa58456",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/初等数学(高中数学)/函数-/基本函数-/三角函数_.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "93dc4accd742c5dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/初等数学(高中数学)/函数-/函数性质/凹凸性.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e4daf7b09a575e35",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/初等数学(高中数学)/chaos/不等式.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7f83f2762cbd359a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/有界与最值定理.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "47fb0aec66c52f8e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/微积分-/3_积分-/定积分-/定积分的定义.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c7347f241d36dd5e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/初等数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 11
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "174aa8e4a46c3767",
+        "type": "split",
+        "children": [
+          {
+            "id": "a15e1168a1eee83f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe0a6dddaba50f0c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2284de68d834ed87",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311.5
+      },
+      "right": {
+        "id": "6aa6a817b5e4c25e",
+        "type": "split",
+        "children": [
+          {
+            "id": "b36b82be6f751cee",
+            "type": "tabs",
+            "dimension": 53.61111111111111,
+            "children": [
+              {
+                "id": "2542bcf1f6986c2e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "37fea2f3856dd081",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6b2d71f8f9064ed9",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md"
+                  }
+                }
+              },
+              {
+                "id": "75bf04f382617caa",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "0058a9536e399630",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "aa9b6c7c010ecbfb",
+            "type": "tabs",
+            "dimension": 46.38888888888889,
+            "children": [
+              {
+                "id": "3e8551d28bbfc98f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "d2dcc62d519122e5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 316.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": true,
+          "command-palette:打开命令面板": false,
+          "switcher:打开快速切换": false,
+          "templates:插入模板": false,
+          "workspaces:管理工作区布局": false,
+          "graph:查看关系图谱": false,
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "custom-sort:Toggle custom sorting": false,
+          "notion-like-tables:Create loom": false,
+          "dbfolder:创建一个新数据库表": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false
+        }
+      },
+      "active": "fe0a6dddaba50f0c",
+      "mtime": "2024-03-28T12:46:17+08:00"
     }
   },
   "active": "概率论"
