@@ -6,16 +6,16 @@
         "type": "split",
         "children": [
           {
-            "id": "b58121a55ecd8d49",
+            "id": "29e50a0ad6522cc7",
             "type": "tabs",
             "children": [
               {
-                "id": "bde9a63b071883ce",
+                "id": "9f49027173fd5ed8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/基本概念/随机试验.md",
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -23,12 +23,12 @@
                 }
               },
               {
-                "id": "3bc41cc450d956ee",
+                "id": "522e60755e13921f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/基本概念/随机事件.md",
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/连续型/连续型随机变量及其概率密度.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -36,25 +36,12 @@
                 }
               },
               {
-                "id": "2a7c8128ef91d3b5",
+                "id": "100fffe63479054e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1d653f1b529cad46",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/事件的关系与运算.md",
+                    "file": "src/微积分/2_导数-/求导法则-/常数和基本初等函数的导数公式.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -62,12 +49,12 @@
                 }
               },
               {
-                "id": "d637b798f9435f7d",
+                "id": "03eefba050349c41",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/事件的独立性和独立重复试验.md",
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/连续型/连续型分布类型.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -75,12 +62,12 @@
                 }
               },
               {
-                "id": "abe7b64dc5fd8da1",
+                "id": "3d1bdfd4cbcdfb8f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/n重伯努利概型.md",
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -88,12 +75,64 @@
                 }
               },
               {
-                "id": "2616d7534753db80",
+                "id": "4d9f2e5058cc391f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/古典概率(等可能概型).md",
+                    "file": "src/概率论与数理统计/1_随机事件与概念/n重伯努利概型.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a9a6c8c41732a87a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计/1_随机事件与概念/古典概率(等可能概型).md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2dc62bb516bdd561",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型分布类型.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "580b76d3828803d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d52f6f3934131077",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/一维随机变量函数的分布.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -101,7 +140,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -120,7 +159,7 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "custom"
                   }
                 }
               },
@@ -143,7 +182,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 323.5
+        "width": 338.5
       },
       "right": {
         "id": "6aa6a817b5e4c25e",
@@ -160,7 +199,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md",
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -177,7 +216,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md",
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -189,7 +228,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "src/概率论与数理统计-/1_随机事件与概念/-计算/概率的基本性质和公式.md"
+                    "file": "src/概率论与数理统计/2_一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md"
                   }
                 }
               },
@@ -257,14 +296,13 @@
           "graph:查看关系图谱": false,
           "templater-obsidian:Templater": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "custom-sort:Toggle custom sorting": false,
           "notion-like-tables:Create loom": false,
           "dbfolder:创建一个新数据库表": false,
           "obsidian-excalidraw-plugin:新建绘图文件": false
         }
       },
-      "active": "2a7c8128ef91d3b5",
-      "mtime": "2024-03-27T21:49:46+08:00"
+      "active": "580b76d3828803d6",
+      "mtime": "2024-03-29T17:48:14+08:00"
     },
     "高数": {
       "main": {
@@ -272,16 +310,16 @@
         "type": "split",
         "children": [
           {
-            "id": "c5b58891ffc16476",
+            "id": "72492ce75973f9a3",
             "type": "tabs",
             "children": [
               {
-                "id": "271fbc50dc5667bc",
+                "id": "bfc35b7d29ac69d6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+                    "file": "src/微积分/3_积分-/定积分-/定积分的定义.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -289,12 +327,12 @@
                 }
               },
               {
-                "id": "c93ead3463c88820",
+                "id": "25019caf7d8de724",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/微积分-/-结论/中值定理/罗尔中值定理.md",
+                    "file": "src/微积分/3_积分-/积分表.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -302,72 +340,7 @@
                 }
               },
               {
-                "id": "0cf33f78fe65ee54",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/微积分-/-术语/拐点.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7b48ce00ddd743a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/微积分-/-结论/中值定理/罗尔中值定理.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f628ce7ae7e29dee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/微积分-/-结论/chaos_结论.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c95e72f4fab43a87",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/微积分-/2_导数-/无穷小增量公式&有限增量公式.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ce2503be21288447",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/微积分-/-结论/泰勒公式.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "03cecb321fa58456",
+                "id": "3832cde3831d2881",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -380,12 +353,12 @@
                 }
               },
               {
-                "id": "93dc4accd742c5dc",
+                "id": "4fa10b7f0eb3da9d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/初等数学(高中数学)/函数-/函数性质/凹凸性.md",
+                    "file": "src/微积分/3_积分-/定积分-/定积分的计算/利用 奇偶性 和 周期性.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -393,7 +366,7 @@
                 }
               },
               {
-                "id": "e4daf7b09a575e35",
+                "id": "55b93c8170f0e0af",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -406,46 +379,19 @@
                 }
               },
               {
-                "id": "7f83f2762cbd359a",
+                "id": "4166155351241cac",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/微积分-/-结论/中值定理/有界与最值定理.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "47fb0aec66c52f8e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/微积分-/3_积分-/定积分-/定积分的定义.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c7347f241d36dd5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "src/初等数学(高中数学)/函数-/基本函数-/三角函数-/三角函数_公式.md",
+                    "file": "src/微积分/-术语/极值/极值的第二充分条件.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 11
+            ]
           }
         ],
         "direction": "vertical"
@@ -464,7 +410,7 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "custom"
                   }
                 }
               },
@@ -487,7 +433,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 311.5
+        "width": 338.5
       },
       "right": {
         "id": "6aa6a817b5e4c25e",
@@ -504,7 +450,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+                    "file": "src/微积分/3_积分-/定积分-/定积分的定义.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -521,7 +467,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md",
+                    "file": "src/微积分/3_积分-/定积分-/定积分的定义.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -533,7 +479,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "src/微积分-/-结论/中值定理/拉格朗日中值定理.md"
+                    "file": "src/微积分/3_积分-/定积分-/定积分的定义.md"
                   }
                 }
               },
@@ -589,7 +535,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 316.5
+        "width": 326.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -601,14 +547,13 @@
           "graph:查看关系图谱": false,
           "templater-obsidian:Templater": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "custom-sort:Toggle custom sorting": false,
           "notion-like-tables:Create loom": false,
           "dbfolder:创建一个新数据库表": false,
           "obsidian-excalidraw-plugin:新建绘图文件": false
         }
       },
-      "active": "fe0a6dddaba50f0c",
-      "mtime": "2024-03-28T12:46:17+08:00"
+      "active": "bfc35b7d29ac69d6",
+      "mtime": "2024-03-30T12:01:16+08:00"
     }
   },
   "active": "概率论"
