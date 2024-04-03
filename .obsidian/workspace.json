@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79f64767545887d0",
+            "id": "2df8b5573d62497e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/3_多维随机变量及其分布/随机变量的相互独立性.md",
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型概率密度.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,20 @@
             }
           },
           {
-            "id": "485eaa2c83fba0e3",
+            "id": "1018995deafb4fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/边缘分布函数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6051d3721980ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +47,77 @@
             }
           },
           {
-            "id": "392c36abe501a7cf",
+            "id": "01624bde706695c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/3_多维随机变量及其分布/边缘分布函数.md",
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量的分布函数的概念和性质.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8471896f2ba575a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型分布类型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01bc206bc1d9614a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型边缘概率密度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aacf91a59b8406c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量的分布函数的概念和性质.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c79d7f8c19a0dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量函数的分布.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d15fd820c3043b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/2_一维随机变量及其分布/连续型/连续型分布类型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,16 +286,36 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "485eaa2c83fba0e3",
+  "active": "3c79d7f8c19a0dab",
   "lastOpenFiles": [
-    "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量的分布函数的概念和性质.md",
-    "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量函数的分布.md",
+    "附件/qq_pic_merged_1712155257407.jpg",
+    "附件/qq_pic_merged_1712155201396.jpg",
+    "附件/qq_pic_merged_1712155154241.jpg",
+    "附件/qq_pic_merged_1712155225885.jpg",
+    "附件/qq_pic_merged_1712155241287.jpg",
+    "附件/qq_pic_merged_1712155174655.jpg",
+    "附件/qq_pic_merged_1712155137827.jpg",
+    "附件/qq_pic_merged_1712155122041.jpg",
+    "附件/qq_pic_merged_1712155103073.jpg",
     "src/概率论与数理统计/3_多维随机变量及其分布/随机变量的相互独立性.md",
-    "附件/qq_pic_merged_1712044526397.jpg",
-    "附件/qq_pic_merged_1712044508208.jpg",
-    "附件/qq_pic_merged_1712044451954.jpg",
-    "src/概率论与数理统计/3_多维随机变量及其分布/边缘分布函数.md",
+    "src/概率论与数理统计/2_一维随机变量及其分布/连续型/连续型分布类型.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型概率密度.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量函数的分布.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型条件概率密度.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型分布类型.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/连续型/连续型边缘概率密度.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/离散型/离散型边缘分布.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量的分布函数的概念和性质.md",
+    "src/概率论与数理统计/1_随机事件与概念/事件的独立性和独立重复试验.md",
+    "src/概率论与数理统计/1_随机事件与概念/-计算/概率的基本性质和公式.md",
+    "src/概率论与数理统计/1_随机事件与概念/-计算/事件的关系与运算.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量的概念.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/离散型/离散型条件分布.md",
     "src/概率论与数理统计/3_多维随机变量及其分布/离散型/离散型联合分布函数.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/离散型/离散型概率分布.md",
+    "src/概率论与数理统计/3_多维随机变量及其分布/边缘分布函数.md",
+    "附件/qq_pic_merged_1712137576443.jpg",
+    "附件/qq_pic_merged_1712137557967.jpg",
     "README.md",
     "Idea-/我认为的笔记软件.md",
     "Idea-/数学的核心.md",
@@ -226,31 +324,11 @@
     "folder_introductions.md",
     "src/组合数学_.md",
     "src/应用数学_.md",
-    "src/图论_.md",
-    "src/离散数学_.md",
-    "src/抽象代数_.md",
-    "src/微积分/3_积分-/反常积分(广义积分,异常积分)/无界函数的反常积分.md",
-    "src/微积分/无穷级数/chaos/正项级数.md",
-    "src/微积分/无穷级数/常数项级数/常数项级数的性质.md",
-    "src/微积分/无穷级数/常数项级数/常数项级数的概念.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/幂级数的性质.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
-    "src/微积分/3_积分-/反常积分(广义积分,异常积分)/无穷积分(无穷区间上的反常积分).md",
-    "src/微积分/3_积分-/变限积分/积分上限的函数.md",
-    "src/微积分/3_积分-/变限积分/变限积分的求导公式.md",
-    "src/微积分/3_积分-/变限积分/变限积分的概念.md",
-    "附件/qq_pic_merged_1711969998499.jpg",
-    "附件/qq_pic_merged_1711969678240.jpg",
     "src/概率论与数理统计/3_多维随机变量及其分布/连续型",
     "src/概率论与数理统计/3_多维随机变量及其分布/离散型",
-    "附件/qq_pic_merged_1711781928338.jpg",
     "src/概率论与数理统计/2_一维随机变量及其分布/连续型",
     "src/概率论与数理统计/2_一维随机变量及其分布/离散型",
     "templates/main.js",
-    "附件/屏幕截图_20240328_125718.png",
-    "附件/qq_pic_merged_1711463435139.jpg",
-    "附件/qq_pic_merged_1711428511227.jpg",
-    "附件/屏幕截图_20240323_203449 1.png",
     "src/概率论与数理统计/1_随机事件与概念/-计算",
     "src/概率论与数理统计-/1_随机事件与概念/事件的关系与运算",
     "src/概率论与数理统计/1_随机事件与概念/基本概念",
