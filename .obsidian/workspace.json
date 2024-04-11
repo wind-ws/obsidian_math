@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "badc91d6e7f70cee",
+        "id": "4e4452d53996f9ff",
         "type": "tabs",
         "children": [
           {
-            "id": "9c89704bbe86338c",
+            "id": "4fc8238fd7199b64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/概率论与数理统计/6_数理统计/假设检验/正态总体下的假设检验.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc384217c971e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,42 +172,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "4fc8238fd7199b64",
   "lastOpenFiles": [
+    "src/初等数学(高中数学)/复数/复数.md",
+    "src/初等数学(高中数学)/复数/复数的算术性质.md",
+    "src/初等数学(高中数学)/复数/共轭复数和绝对值的性质.md",
+    "chaos/chaos_1-/部分分式分解.md",
+    "chaos/chaos_1_.canvas",
+    "src/初等数学(高中数学)/常用公式.md",
+    "笔记规范-/文件夹结构&文件位置 规范.md",
+    "笔记规范-/插件使用规范_.md",
+    "历史遗留问题与内容污染问题.md",
+    "Idea-/对于计算的看法.md",
+    "考研/线性代数/chaos/-学习资源.md",
+    "self/微积分/题目/证明题/困难题.md",
+    "self/线性代数",
+    "self/微积分",
+    "sortspec.md",
+    "self",
+    "考研/微积分/chaos/用函数性态证明不等式.md",
+    "考研/微积分/chaos/压缩映射原理.md",
+    "Idea-/我认为的笔记软件.md",
+    "Idea-/数学的核心.md",
+    "Idea_.md",
+    "学习数学的提醒.md",
+    "当前计划-/笔记结构调整计划.md",
+    "self/自身的问题.md",
+    "self/微积分/题目/一般/2023-10-01.md",
+    "self/微积分/题目/一般/2023-10-02.md",
+    "笔记规范-/ob命令使用.md",
+    "版本控制.md",
     "src/概率论与数理统计/6_数理统计/假设检验/正态总体下的假设检验.md",
+    "README.md",
     "附件/qq_pic_merged_1712843515749.jpg",
     "附件/qq_pic_merged_1712843482492.jpg",
-    "src/概率论与数理统计/6_数理统计/假设检验/假设检验.md",
-    "src/概率论与数理统计/6_数理统计/假设检验/两类错误.md",
     "src/概率论与数理统计/6_数理统计/假设检验",
     "src/概率论与数理统计/6_数理统计/假设检验",
     "附件/qq_pic_merged_1712841839251.jpg",
-    "src/概率论与数理统计/6_数理统计/参数估计/正态总体均值的置信区间(置信水平为1-a).md",
     "附件/qq_pic_merged_1712841563057.jpg",
-    "src/概率论与数理统计/6_数理统计/参数估计/参数估计.md",
-    "src/概率论与数理统计/6_数理统计/参数估计/估计量的评价标准.md",
-    "src/概率论与数理统计/6_数理统计/参数估计/未命名/未命名.md",
     "src/概率论与数理统计/6_数理统计/参数估计/未命名",
-    "src/概率论与数理统计/6_数理统计/参数估计/参数的区间估计.md",
-    "src/概率论与数理统计/6_数理统计/参数估计/参数的点估计.md",
-    "src/概率论与数理统计/6_数理统计/统计量.md",
     "附件/qq_pic_merged_1712828969631.jpg",
-    "src/概率论与数理统计/6_数理统计/总体与样本.md",
-    "src/概率论与数理统计/6_数理统计/三大分布.md",
     "src/概率论与数理统计/6_数理统计/参数估计",
-    "src/概率论与数理统计/6_数理统计/正态总体条件下的常用结论.md",
-    "src/概率论与数理统计/6_数理统计/常用统计量.md",
-    "src/概率论与数理统计/1_随机事件与概念/基本概念/样本空间.md",
-    "src/概率论与数理统计/5_大数定律与中心极限定理/大数定律.md",
-    "src/概率论与数理统计/5_大数定律与中心极限定理/中心极限定理.md",
-    "src/概率论与数理统计/-分布类型/正态分布.md",
-    "src/概率论与数理统计/-分布类型/二项分布.md",
-    "src/概率论与数理统计/-分布类型/指数分布.md",
-    "src/概率论与数理统计/5_大数定律与中心极限定理/依概率收敛.md",
-    "src/概率论与数理统计/3_多维随机变量及其分布/随机变量的相互独立性.md",
-    "src/概率论与数理统计/4_随机变量的数字特征/切比雪夫不等式.md",
-    "src/概率论与数理统计/-分布类型/均匀分布.md",
-    "src/概率论与数理统计/3_多维随机变量及其分布/多维随机变量的概念.md",
     "附件/qq_pic_merged_1712734185308.jpg",
     "src/概率论与数理统计/-分布类型",
     "附件/qq_pic_merged_1712155257407.jpg",
@@ -239,11 +221,7 @@
     "附件/qq_pic_merged_1712155225885.jpg",
     "src/概率论与数理统计/3_多维随机变量及其分布/连续型",
     "src/概率论与数理统计/3_多维随机变量及其分布/离散型",
-    "src/概率论与数理统计/2_一维随机变量及其分布/连续型",
-    "src/概率论与数理统计/2_一维随机变量及其分布/离散型",
-    "templates/main.js",
-    "chaos/chaos_1_.canvas",
-    "考研/线性代数/题目/困惑.canvas",
+    "self/线性代数/题目/困惑.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
