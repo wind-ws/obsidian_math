@@ -7,7 +7,7 @@
   "minimal-style@@row-lines": false,
   "minimal-style@@col-lines": false,
   "minimal-style@@table-lines": false,
-  "minimal-style@@row-alt": false,
+  "minimal-style@@row-alt": true,
   "minimal-style@@col-alt": false,
   "minimal-style@@table-tabular": false,
   "minimal-style@@table-numbers": false,
