@@ -150,6 +150,7 @@ ff
 function
 folder
 frac
+facf
 EP
 Error
 EXCALIDRAW
@@ -164,6 +165,7 @@ document
 distinct
 dots
 displaystyle
+diable
 Vxp
 Vxvy
 VIEW
