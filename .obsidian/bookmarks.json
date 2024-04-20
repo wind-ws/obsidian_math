@@ -38,6 +38,16 @@
           "type": "file",
           "ctime": 1706281631646,
           "path": "src/初等数学(高中数学)/chaos/不等式.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1709638637049,
+          "path": "src/初等数学(高中数学)/chaos/实用的代数变换.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1695813232846,
+          "path": "src/初等数学(高中数学)/chaos/因式分解公式.md"
         }
       ],
       "title": "常用"
@@ -101,16 +111,6 @@
               "type": "file",
               "ctime": 1695813147548,
               "path": "src/运算法则/对数运算法则.md"
-            },
-            {
-              "type": "file",
-              "ctime": 1695813232846,
-              "path": "src/初等数学(高中数学)/chaos/因式分解公式.md"
-            },
-            {
-              "type": "file",
-              "ctime": 1709638637049,
-              "path": "src/初等数学(高中数学)/chaos/实用的代数变换.md"
             },
             {
               "type": "file",
