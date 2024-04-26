@@ -48,9 +48,61 @@
           "type": "file",
           "ctime": 1695813232846,
           "path": "src/初等数学(高中数学)/chaos/因式分解公式.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713948359919,
+          "path": "src/符号&记号/二项式系数.md"
         }
       ],
       "title": "常用"
+    },
+    {
+      "type": "group",
+      "ctime": 1714104442859,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1714106270066,
+          "path": "src/线性代数/--整理版/向量/判别线性相关性的结论.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714104485690,
+          "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵转置.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714104560056,
+          "path": "src/线性代数/-术语/矩阵/伴随矩阵.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714104695901,
+          "path": "src/线性代数/chaos/秩(rank).md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714104478587,
+          "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/逆矩阵.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714105644109,
+          "path": "src/线性代数/--整理版/特征值和特征向量/对角化.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714106013475,
+          "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵乘法.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1714104472959,
+          "path": "src/线性代数/矩阵与行列式/行列式/行列式的性质.md"
+        }
+      ],
+      "title": "线代常用"
     },
     {
       "type": "group",
@@ -427,49 +479,6 @@
         }
       ],
       "title": "一元函数微分学的几何应用"
-    },
-    {
-      "type": "group",
-      "ctime": 1709371384533,
-      "items": [
-        {
-          "type": "group",
-          "ctime": 1709372210922,
-          "items": [],
-          "title": "行列式"
-        },
-        {
-          "type": "group",
-          "ctime": 1709372224451,
-          "items": [],
-          "title": "矩阵"
-        },
-        {
-          "type": "group",
-          "ctime": 1709372229697,
-          "items": [],
-          "title": "向量组"
-        },
-        {
-          "type": "group",
-          "ctime": 1709372236645,
-          "items": [],
-          "title": "线性方程组"
-        },
-        {
-          "type": "group",
-          "ctime": 1709372245298,
-          "items": [],
-          "title": "特征值与特征向量"
-        },
-        {
-          "type": "group",
-          "ctime": 1709372255694,
-          "items": [],
-          "title": "二次型"
-        }
-      ],
-      "title": "线性代数-考研层级结构"
     }
   ]
 }
