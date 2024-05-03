@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80ea9083cd35b45f",
+        "id": "12ad67953d5b1b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8cb91b0f205b9f8",
+            "id": "306ff7cc3049e64e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 324.5
   },
   "right": {
     "id": "6aa6a817b5e4c25e",
@@ -172,8 +172,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f8cb91b0f205b9f8",
+  "active": "d2dcc62d519122e5",
   "lastOpenFiles": [
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数_.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数特殊值与图像.md",
+    "附件/Arccsc.svg",
+    "附件/Arcsec.svg",
+    "附件/Two_kind_of_arccot.svg",
+    "附件/Arctan.svg",
+    "附件/Arccos.svg",
+    "附件/Arcsin.svg",
+    "附件/Csc.svg",
+    "附件/Cotan_proportional 1.svg",
+    "附件/Cotan_proportional.svg",
+    "附件/Tan_proportional.svg",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数_公式推导.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/正弦定理.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/正切定理.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/余弦定理.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角恒等式.md",
     "chaos/chaos_1-/勾股定理.md",
     "考研/线性代数/chaos/-学习资源.md",
     "考研/线性代数/chaos/二阶递推式.md",
@@ -191,28 +209,9 @@
     "考研/微积分/二重积分技巧.md",
     "考研/微积分/不定积分技巧与经验积累.md",
     "考研/概率统计/做题注意事项.md",
-    "src/数理逻辑/预热_.md",
-    "src/数理逻辑/mod.md",
-    "src/集合论/关系_.md",
-    "src/集合论/映射_.md",
-    "src/集合论/集合_.md",
-    "src/集合论/公理化集合论-/-mod.md",
-    "src/集合论/公理化集合论_.md",
-    "src/集合论/表达方式.md",
-    "src/数学公理系统/负负得正.md",
     "src/线性代数/chaos",
     "src/线性代数/未整理内容",
-    "附件/无标题.jpg",
-    "附件/90295-2021121315001761b6ef8125f10.png",
-    "附件/屏幕截图_20240427_214539.png",
-    "附件/屏幕截图_20240427_214035.png",
-    "附件/qq_pic_merged_1714134833128.jpg",
-    "附件/屏幕截图_20240424_223033.png",
     "考研/概率统计",
-    "附件/0cb6803f3f0c402b9219c3499f3764ee 1.jpg",
-    "附件/0cb6803f3f0c402b9219c3499f3764ee.jpg",
-    "附件/qq_pic_merged_1713085099928.jpg",
-    "附件/qq_pic_merged_1713084880328.jpg",
     "chaos/chaos_1_.canvas",
     "self/线性代数",
     "self/微积分",
