@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "判别线性相关性的结论",
-      "path": "src/线性代数/--整理版/向量/判别线性相关性的结论.md"
+      "basename": "勾股定理",
+      "path": "chaos/chaos_1-/勾股定理.md"
     },
     {
-      "basename": "对角化",
-      "path": "src/线性代数/--整理版/特征值和特征向量/对角化.md"
+      "basename": "-学习资源",
+      "path": "考研/线性代数/chaos/-学习资源.md"
     },
     {
-      "basename": "正交向量",
-      "path": "src/线性代数/chaos/正交性/正交向量.md"
+      "basename": "二阶递推式",
+      "path": "考研/线性代数/chaos/二阶递推式.md"
     },
     {
-      "basename": "施密特正交化",
-      "path": "src/线性代数/chaos/正交性/施密特正交化.md"
+      "basename": "chaos_unsafe_self_结论",
+      "path": "考研/微积分/chaos/chaos_unsafe_self_结论.md"
     },
     {
-      "basename": "单位向量",
-      "path": "src/线性代数/向量/向量/单位向量.md"
+      "basename": "用函数性态证明不等式",
+      "path": "考研/微积分/chaos/用函数性态证明不等式.md"
     },
     {
-      "basename": "标准基",
-      "path": "src/线性代数/-术语/标准基.md"
+      "basename": "证明单调性",
+      "path": "考研/微积分/chaos/证明单调性.md"
     },
     {
-      "basename": "内积(点积)",
-      "path": "src/线性代数/chaos/内积(点积).md"
+      "basename": "压缩映射原理",
+      "path": "考研/微积分/chaos/压缩映射原理.md"
     },
     {
-      "basename": "可正交对角化",
-      "path": "src/线性代数/chaos/正交性/可正交对角化.md"
+      "basename": "如何构造辅助函数",
+      "path": "考研/微积分/chaos/如何构造辅助函数.md"
     },
     {
-      "basename": "正交矩阵",
-      "path": "src/线性代数/-术语/矩阵/正交矩阵.md"
+      "basename": "常用的辅助函数",
+      "path": "考研/微积分/chaos/常用的辅助函数.md"
     },
     {
-      "basename": "矩阵 初等变换",
-      "path": "src/线性代数/矩阵与行列式/矩阵 初等变换.md"
+      "basename": "做题注意事项",
+      "path": "考研/微积分/做题注意事项.md"
     },
     {
-      "basename": "等价向量组",
-      "path": "src/线性代数/--整理版/向量/等价向量组.md"
+      "basename": "多项式拟合",
+      "path": "考研/微积分/证明技巧/多项式拟合.md"
     },
     {
-      "basename": "秩(rank)",
-      "path": "src/线性代数/chaos/秩(rank).md"
+      "basename": "常数K值法",
+      "path": "考研/微积分/证明技巧/常数K值法.md"
     },
     {
-      "basename": "线性无关",
-      "path": "src/线性代数/线性空间与线性变换/线性无关.md"
+      "basename": "-通用技巧",
+      "path": "考研/微积分/证明技巧/-通用技巧.md"
     },
     {
-      "basename": "线性 生成(张成) 空间span",
-      "path": "src/线性代数/线性空间与线性变换/线性 生成(张成) 空间span.md"
+      "basename": "连续,可导,导函数连续",
+      "path": "考研/微积分/连续,可导,导函数连续.md"
     },
     {
-      "basename": "线性表出",
-      "path": "src/线性代数/线性空间与线性变换/线性表出.md"
+      "basename": "二重积分技巧",
+      "path": "考研/微积分/二重积分技巧.md"
     },
     {
-      "basename": "线性变换",
-      "path": "src/线性代数/线性空间与线性变换/线性变换.md"
+      "basename": "不定积分技巧与经验积累",
+      "path": "考研/微积分/不定积分技巧与经验积累.md"
     },
     {
-      "basename": "矩阵乘法",
-      "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵乘法.md"
+      "basename": "做题注意事项",
+      "path": "考研/概率统计/做题注意事项.md"
     },
     {
-      "basename": "矩阵乘幂",
-      "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵乘幂.md"
+      "basename": "预热_",
+      "path": "src/数理逻辑/预热_.md"
     },
     {
-      "basename": "矩阵的运算定理",
-      "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵的运算定理.md"
+      "basename": "mod",
+      "path": "src/数理逻辑/mod.md"
     },
     {
-      "basename": "矩阵加法",
-      "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵加法.md"
+      "basename": "关系_",
+      "path": "src/集合论/关系_.md"
     },
     {
-      "basename": "矩阵数乘",
-      "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/矩阵数乘.md"
+      "basename": "-mod",
+      "path": "src/集合论/公理化集合论-/-mod.md"
     },
     {
-      "basename": "逆矩阵",
-      "path": "src/线性代数/矩阵与行列式/矩阵的基本运算/逆矩阵.md"
+      "basename": "表达方式",
+      "path": "src/集合论/表达方式.md"
     },
     {
-      "basename": "行列式的性质",
-      "path": "src/线性代数/矩阵与行列式/行列式/行列式的性质.md"
-    },
-    {
-      "basename": "-提醒",
-      "path": "src/线性代数/--整理版/矩阵/-提醒.md"
-    },
-    {
-      "basename": "Ax=b的计算",
-      "path": "src/线性代数/矩阵与行列式/Ax=b的计算.md"
-    },
-    {
-      "basename": "chaos-结论",
-      "path": "src/线性代数/--整理版/向量/chaos-结论.md"
-    },
-    {
-      "basename": "基础解系和解的结构",
-      "path": "src/线性代数/线性方程组/基础解系和解的结构.md"
-    },
-    {
-      "basename": "证明 u,v属于span  u+v属于span",
-      "path": "src/线性代数/线性空间与线性变换/证明 u,v属于span  u+v属于span.md"
-    },
-    {
-      "basename": "线性组合",
-      "path": "src/线性代数/线性空间与线性变换/线性组合.md"
-    },
-    {
-      "basename": "线性映射",
-      "path": "src/线性代数/线性空间与线性变换/线性映射.md"
-    },
-    {
-      "basename": "向量",
-      "path": "src/线性代数/向量/向量/向量.md"
+      "basename": "负负得正",
+      "path": "src/数学公理系统/负负得正.md"
     },
     {
       "basename": "向量空间",
       "path": "src/线性代数/向量/向量空间.md"
     },
     {
-      "basename": "线性子空间(向量子空间)",
-      "path": "src/线性代数/向量/子空间/线性子空间(向量子空间).md"
+      "basename": "秩(rank)",
+      "path": "src/线性代数/chaos/秩(rank).md"
     },
     {
-      "basename": "谱定理",
-      "path": "src/线性代数/chaos/谱定理.md"
+      "basename": "线性方程组矩阵 与 线性组合",
+      "path": "src/线性代数/chaos/例子/线性方程组矩阵 与 线性组合.md"
     },
     {
-      "basename": "谱分解",
-      "path": "src/线性代数/chaos/谱分解.md"
+      "basename": "分块矩阵的行列式",
+      "path": "src/线性代数/行列式/分块矩阵的行列式.md"
     },
     {
-      "basename": "代数重数",
-      "path": "src/线性代数/chaos/代数重数.md"
+      "basename": "范德蒙德行列式",
+      "path": "src/线性代数/行列式/范德蒙德行列式.md"
     },
     {
-      "basename": "参数向量形式",
-      "path": "src/线性代数/chaos/参数向量形式.md"
+      "basename": "-提醒",
+      "path": "src/线性代数/矩阵/-提醒.md"
     },
     {
-      "basename": "子空间的维数(dim)",
-      "path": "src/线性代数/向量/子空间/子空间的维数(dim).md"
+      "basename": "-mod",
+      "path": "src/线性代数/-mod.md"
     },
     {
-      "basename": "零子空间",
-      "path": "src/线性代数/向量/子空间/零子空间.md"
+      "basename": "克莱默法则",
+      "path": "src/线性代数/矩阵/克莱默法则.md"
     },
     {
-      "basename": "基的变换",
-      "path": "src/线性代数/向量/子空间/基的变换.md"
+      "basename": "Ax=b的计算",
+      "path": "src/线性代数/矩阵/Ax=b的计算.md"
     },
     {
-      "basename": "零空间和列空间的对比",
-      "path": "src/线性代数/向量/子空间/零空间和列空间的对比.md"
+      "basename": "矩阵方程Ax=b",
+      "path": "src/线性代数/矩阵/矩阵方程Ax=b.md"
     },
     {
-      "basename": "向量加法",
-      "path": "src/线性代数/向量/向量/向量加法.md"
+      "basename": "矩阵的迹(tr)",
+      "path": "src/线性代数/矩阵/矩阵的迹(tr).md"
     },
     {
-      "basename": "向量相等",
-      "path": "src/线性代数/向量/向量/向量相等.md"
+      "basename": "微分方程的各种定义",
+      "path": "src/微积分/微分方程/微分方程的各种定义.md"
     },
     {
-      "basename": "标量乘法",
-      "path": "src/线性代数/向量/向量/标量乘法.md"
+      "basename": "数列极限_",
+      "path": "src/微积分/极限/数列极限_.md"
     },
     {
-      "basename": "零向量",
-      "path": "src/线性代数/向量/向量/零向量.md"
+      "basename": "-mod",
+      "path": "src/微积分/导数/导数基础/-mod.md"
     },
     {
-      "basename": "向量的模",
-      "path": "src/线性代数/向量/向量/向量的模.md"
+      "basename": "-mod",
+      "path": "src/微积分/导数/-mod.md"
     },
     {
-      "basename": "子空间的基",
-      "path": "src/线性代数/向量/子空间/子空间的基.md"
+      "basename": "-chaos结论",
+      "path": "src/微积分/导数/-chaos结论.md"
     },
     {
-      "basename": "k阶子式",
-      "path": "src/线性代数/chaos/k阶子式.md"
+      "basename": "数列极限与函数极限",
+      "path": "src/微积分/极限/数列极限与函数极限.md"
     },
     {
-      "basename": "draw_捋清楚关系_chaos",
-      "path": "src/线性代数/chaos/draw_捋清楚关系_chaos.md"
+      "basename": "极限的定理们",
+      "path": "src/微积分/极限/极限的定理们.md"
     },
     {
-      "basename": "对称矩阵",
-      "path": "src/线性代数/-术语/矩阵/对称矩阵.md"
+      "basename": "利用 夹逼定理 求极限",
+      "path": "src/微积分/极限/-技巧/利用 夹逼定理 求极限.md"
+    },
+    {
+      "basename": "夹逼定理",
+      "path": "src/微积分/-结论/夹逼定理.md"
+    },
+    {
+      "basename": "利用 洛必达法则 求极限",
+      "path": "src/微积分/极限/-技巧/利用 洛必达法则 求极限.md"
+    },
+    {
+      "basename": "利用 泰勒公式 求极限",
+      "path": "src/微积分/极限/-技巧/利用 泰勒公式 求极限.md"
+    },
+    {
+      "basename": "利用 有理运算法则 求极限",
+      "path": "src/微积分/极限/-技巧/利用 有理运算法则 求极限.md"
+    },
+    {
+      "basename": "利用 基本极限 求极限",
+      "path": "src/微积分/极限/-技巧/利用 基本极限 求极限.md"
+    },
+    {
+      "basename": "利用 定积分 求极限",
+      "path": "src/微积分/极限/-技巧/利用 定积分 求极限.md"
+    },
+    {
+      "basename": "利用 等价无穷小代换 求极限",
+      "path": "src/微积分/极限/-技巧/利用 等价无穷小代换 求极限.md"
+    },
+    {
+      "basename": "chaos_结论",
+      "path": "src/微积分/-结论/chaos_结论.md"
     }
   ],
   "omittedPaths": [],
