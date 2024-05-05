@@ -131,6 +131,8 @@ arcsin
 arccos
 arctan
 arccot
+arcsec
+arccsc
 unset
 unsafe
 understand
@@ -185,6 +187,7 @@ Leibnitz
 LZbR
 LaTeX
 Layout
+Latex
 Rolle
 Remove
 README
@@ -218,3 +221,4 @@ zNSVLF
 JtzHOB
 yuan
 GeoGebra
+json

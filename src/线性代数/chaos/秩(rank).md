@@ -34,6 +34,7 @@ $r(A)(矩阵的秩)=A的行秩=A的列秩$
 6. $\displaystyle{r(A^{*})=\begin{cases}n,&r(A)=n\\1,&r(A)=n-1\\0,&r(A)<n-1\end{cases}}$
 7. $r(A)=r(A^{T})=r(A^{T}A)=r(AA^{T})$
 
-
+#### #unsafe/self 
+$r(A)=列数 \Longleftrightarrow  线性无关\Longleftrightarrow A可逆$
 
 

@@ -1,88 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "三角函数_",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数_.md"
+      "basename": "无穷级数系列",
+      "path": "考研/微积分/无穷级数系列.md"
     },
     {
-      "basename": "三角函数特殊值与图像",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数特殊值与图像.md"
+      "basename": "幂级数",
+      "path": "src/微积分/无穷级数/函数项级数/幂级数/幂级数.md"
     },
     {
-      "basename": "三角函数_公式推导",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数_公式推导.md"
+      "basename": "重要展开式",
+      "path": "src/微积分/无穷级数/函数项级数/幂级数/重要展开式.md"
     },
     {
-      "basename": "三角函数公式",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md"
+      "basename": "幂级数的运算",
+      "path": "src/微积分/无穷级数/函数项级数/幂级数/幂级数的运算.md"
     },
     {
-      "basename": "正弦定理",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/正弦定理.md"
+      "basename": "正项级数",
+      "path": "src/微积分/无穷级数/chaos/正项级数.md"
     },
     {
-      "basename": "正切定理",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/正切定理.md"
+      "basename": "幂级数的性质",
+      "path": "src/微积分/无穷级数/函数项级数/幂级数/幂级数的性质.md"
     },
     {
-      "basename": "余弦定理",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/余弦定理.md"
+      "basename": "阿贝尔定理",
+      "path": "src/微积分/无穷级数/函数项级数/幂级数/阿贝尔定理.md"
     },
     {
-      "basename": "三角恒等式",
-      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角恒等式.md"
+      "basename": "和函数",
+      "path": "src/微积分/无穷级数/函数项级数/和函数.md"
     },
     {
-      "basename": "勾股定理",
-      "path": "chaos/chaos_1-/勾股定理.md"
+      "basename": "收敛域的求法",
+      "path": "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md"
     },
     {
-      "basename": "-学习资源",
-      "path": "考研/线性代数/chaos/-学习资源.md"
+      "basename": "函数项级数",
+      "path": "src/微积分/无穷级数/函数项级数/函数项级数.md"
     },
     {
-      "basename": "二阶递推式",
-      "path": "考研/线性代数/chaos/二阶递推式.md"
+      "basename": "收敛域",
+      "path": "src/微积分/无穷级数/函数项级数/收敛域.md"
     },
     {
-      "basename": "chaos_unsafe_self_结论",
-      "path": "考研/微积分/chaos/chaos_unsafe_self_结论.md"
+      "basename": "利用 基本极限 求极限",
+      "path": "src/微积分/极限/-技巧/利用 基本极限 求极限.md"
     },
     {
-      "basename": "用函数性态证明不等式",
-      "path": "考研/微积分/chaos/用函数性态证明不等式.md"
+      "basename": "交错级数",
+      "path": "src/微积分/无穷级数/chaos/交错级数.md"
     },
     {
-      "basename": "证明单调性",
-      "path": "考研/微积分/chaos/证明单调性.md"
+      "basename": "几何级数",
+      "path": "src/微积分/无穷级数/chaos/几何级数.md"
     },
     {
-      "basename": "压缩映射原理",
-      "path": "考研/微积分/chaos/压缩映射原理.md"
+      "basename": "调和级数",
+      "path": "src/微积分/无穷级数/chaos/调和级数.md"
     },
     {
-      "basename": "如何构造辅助函数",
-      "path": "考研/微积分/chaos/如何构造辅助函数.md"
-    },
-    {
-      "basename": "常用的辅助函数",
-      "path": "考研/微积分/chaos/常用的辅助函数.md"
+      "basename": "p级数",
+      "path": "src/微积分/无穷级数/chaos/p级数.md"
     },
     {
       "basename": "做题注意事项",
       "path": "考研/微积分/做题注意事项.md"
-    },
-    {
-      "basename": "多项式拟合",
-      "path": "考研/微积分/证明技巧/多项式拟合.md"
-    },
-    {
-      "basename": "常数K值法",
-      "path": "考研/微积分/证明技巧/常数K值法.md"
-    },
-    {
-      "basename": "-通用技巧",
-      "path": "考研/微积分/证明技巧/-通用技巧.md"
     },
     {
       "basename": "连续,可导,导函数连续",
@@ -97,108 +81,124 @@
       "path": "考研/微积分/不定积分技巧与经验积累.md"
     },
     {
-      "basename": "做题注意事项",
-      "path": "考研/概率统计/做题注意事项.md"
+      "basename": "收敛点和发散点",
+      "path": "src/微积分/无穷级数/函数项级数/收敛点和发散点.md"
     },
     {
-      "basename": "预热_",
-      "path": "src/数理逻辑/预热_.md"
+      "basename": "任意项级数",
+      "path": "src/微积分/无穷级数/chaos/任意项级数.md"
     },
     {
-      "basename": "mod",
-      "path": "src/数理逻辑/mod.md"
+      "basename": "等差数列",
+      "path": "src/初等数学(高中数学)/数列/等差数列.md"
     },
     {
-      "basename": "关系_",
-      "path": "src/集合论/关系_.md"
+      "basename": "偏移n项",
+      "path": "src/微积分/无穷级数/chaos/偏移n项.md"
+    },
+    {
+      "basename": "不等式",
+      "path": "src/初等数学(高中数学)/chaos/不等式.md"
+    },
+    {
+      "basename": "区间再现公式",
+      "path": "src/微积分/积分/定积分/定积分的计算/区间再现公式.md"
+    },
+    {
+      "basename": "牛顿-莱布尼兹公式",
+      "path": "src/微积分/积分/定积分/定积分的计算/牛顿-莱布尼兹公式.md"
+    },
+    {
+      "basename": "利用 已有公式",
+      "path": "src/微积分/积分/定积分/定积分的计算/利用 已有公式.md"
+    },
+    {
+      "basename": "一阶微分方程的求解",
+      "path": "src/微积分/微分方程/-计算/一阶微分方程的求解.md"
+    },
+    {
+      "basename": "常数项级数的概念",
+      "path": "src/微积分/无穷级数/常数项级数/常数项级数的概念.md"
+    },
+    {
+      "basename": "常数项级数的性质",
+      "path": "src/微积分/无穷级数/常数项级数/常数项级数的性质.md"
+    },
+    {
+      "basename": "等比数列",
+      "path": "src/初等数学(高中数学)/数列/等比数列.md"
+    },
+    {
+      "basename": "收敛数列的性质",
+      "path": "src/微积分/极限/数列极限-/收敛数列的性质.md"
+    },
+    {
+      "basename": "收敛级数的性质",
+      "path": "src/微积分/无穷级数/chaos/收敛级数的性质.md"
+    },
+    {
+      "basename": "泰勒公式",
+      "path": "src/微积分/-结论/泰勒公式.md"
+    },
+    {
+      "basename": "三角函数公式",
+      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md"
+    },
+    {
+      "basename": "常见的收敛与发散的级数",
+      "path": "src/微积分/无穷级数/常见的收敛与发散的级数.md"
+    },
+    {
+      "basename": "三角函数特殊值与图像",
+      "path": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数特殊值与图像.md"
+    },
+    {
+      "basename": "充分&必要&充分必要条件",
+      "path": "chaos/chaos_1-/充分&必要&充分必要条件.md"
     },
     {
       "basename": "-mod",
-      "path": "src/集合论/公理化集合论-/-mod.md"
+      "path": "src/微积分/无穷级数/-mod.md"
     },
     {
-      "basename": "表达方式",
-      "path": "src/集合论/表达方式.md"
-    },
-    {
-      "basename": "负负得正",
-      "path": "src/数学公理系统/负负得正.md"
-    },
-    {
-      "basename": "向量空间",
-      "path": "src/线性代数/向量/向量空间.md"
+      "basename": "常见的数列前n项和",
+      "path": "src/初等数学(高中数学)/数列/常见的数列前n项和.md"
     },
     {
       "basename": "秩(rank)",
       "path": "src/线性代数/chaos/秩(rank).md"
     },
     {
-      "basename": "线性方程组矩阵 与 线性组合",
-      "path": "src/线性代数/chaos/例子/线性方程组矩阵 与 线性组合.md"
+      "basename": "逆矩阵",
+      "path": "src/线性代数/矩阵/矩阵的基本运算/逆矩阵.md"
+    },
+    {
+      "basename": "同解方程组",
+      "path": "src/线性代数/线性方程组/同解方程组.md"
+    },
+    {
+      "basename": "等价向量组",
+      "path": "src/线性代数/向量/等价向量组.md"
+    },
+    {
+      "basename": "分块初等阵与分块矩阵的初等变换",
+      "path": "src/线性代数/矩阵/分块矩阵的基本运算/分块初等阵与分块矩阵的初等变换.md"
     },
     {
       "basename": "分块矩阵的行列式",
       "path": "src/线性代数/行列式/分块矩阵的行列式.md"
     },
     {
-      "basename": "范德蒙德行列式",
-      "path": "src/线性代数/行列式/范德蒙德行列式.md"
+      "basename": "非齐次线性方程组",
+      "path": "src/线性代数/线性方程组/非齐次线性方程组.md"
     },
     {
-      "basename": "-提醒",
-      "path": "src/线性代数/矩阵/-提醒.md"
+      "basename": "解线性方程组",
+      "path": "src/线性代数/线性方程组/解线性方程组.md"
     },
     {
-      "basename": "-mod",
-      "path": "src/线性代数/-mod.md"
-    },
-    {
-      "basename": "克莱默法则",
-      "path": "src/线性代数/矩阵/克莱默法则.md"
-    },
-    {
-      "basename": "Ax=b的计算",
-      "path": "src/线性代数/矩阵/Ax=b的计算.md"
-    },
-    {
-      "basename": "矩阵方程Ax=b",
-      "path": "src/线性代数/矩阵/矩阵方程Ax=b.md"
-    },
-    {
-      "basename": "矩阵的迹(tr)",
-      "path": "src/线性代数/矩阵/矩阵的迹(tr).md"
-    },
-    {
-      "basename": "微分方程的各种定义",
-      "path": "src/微积分/微分方程/微分方程的各种定义.md"
-    },
-    {
-      "basename": "数列极限_",
-      "path": "src/微积分/极限/数列极限_.md"
-    },
-    {
-      "basename": "-mod",
-      "path": "src/微积分/导数/导数基础/-mod.md"
-    },
-    {
-      "basename": "-mod",
-      "path": "src/微积分/导数/-mod.md"
-    },
-    {
-      "basename": "-chaos结论",
-      "path": "src/微积分/导数/-chaos结论.md"
-    },
-    {
-      "basename": "数列极限与函数极限",
-      "path": "src/微积分/极限/数列极限与函数极限.md"
-    },
-    {
-      "basename": "极限的定理们",
-      "path": "src/微积分/极限/极限的定理们.md"
-    },
-    {
-      "basename": "利用 夹逼定理 求极限",
-      "path": "src/微积分/极限/-技巧/利用 夹逼定理 求极限.md"
+      "basename": "线性方程组",
+      "path": "src/线性代数/线性方程组/线性方程组.md"
     }
   ],
   "omittedPaths": [],
