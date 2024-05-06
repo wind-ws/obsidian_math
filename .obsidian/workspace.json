@@ -34,45 +34,6 @@
             }
           },
           {
-            "id": "5cf04111dc4f222f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/chaos/正项级数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8995805d3449941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/函数项级数/幂级数/幂级数的运算.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc3eaaa0f5c624f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/函数项级数/收敛域.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c756a7fb6aeb2c23",
             "type": "leaf",
             "state": {
@@ -91,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/无穷级数/敛散性判别法.md",
+                "file": "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,12 +60,12 @@
             }
           },
           {
-            "id": "da476d4f0a7bdf64",
+            "id": "58b5a8788e4d1a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/-术语/上极限和下极限.md",
+                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,12 +73,12 @@
             }
           },
           {
-            "id": "11d9cc19edbf69ca",
+            "id": "15908170d7928984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/无穷级数/函数项级数/幂级数/重要展开式.md",
+                "file": "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,12 +86,51 @@
             }
           },
           {
-            "id": "b663f1bc1f67ff62",
+            "id": "8efe683e3cbc8377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/-结论/泰勒公式.md",
+                "file": "src/微积分/无穷级数/三角级数.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f9e6701d426d771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/微分方程/-计算/欧拉方程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4946ade200fcb12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/无穷级数/常数项级数/常数项级数的性质.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af8577263de894ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/微积分/无穷级数系列.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分/无穷级数/敛散性判别法.md",
+                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分/无穷级数/敛散性判别法.md",
+                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分/无穷级数/敛散性判别法.md"
+                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md"
               }
             }
           },
@@ -301,42 +301,44 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分/无穷级数/chaos/正项级数.md",
+    "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
+    "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
+    "src/微积分/无穷级数/傅里叶级数/函数展开成傅里叶级数.md",
+    "附件/屏幕截图_20240506_223023.png",
+    "src/微积分/无穷级数/傅里叶级数/傅里叶级数.md",
+    "src/微积分/无穷级数/三角级数.md",
+    "附件/高等数学学习笔记3.0-beta.pdf",
+    "src/微积分/微分方程/-计算/欧拉方程.md",
+    "src/微积分/无穷级数/傅里叶级数/延拓.md",
+    "src/微积分/无穷级数/复数项级数.md",
+    "src/微积分/无穷级数/傅里叶级数",
+    "附件/屏幕截图_20240506_214732.png",
+    "附件/屏幕截图_20240506_214632.png",
+    "附件/屏幕截图_20240506_213817.png",
+    "附件/屏幕截图_20240506_213801.png",
+    "附件/屏幕截图_20240506_213750.png",
     "src/微积分/无穷级数/敛散性判别法.md",
+    "src/微积分/无穷级数/函数项级数/幂级数/重要展开式.md",
+    "考研/微积分/未命名",
+    "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
+    "src/微积分/无穷级数/函数项级数/幂级数/幂级数的运算.md",
+    "src/微积分/无穷级数/函数项级数/幂级数/幂级数的性质.md",
+    "src/微积分/无穷级数/函数项级数/幂级数/幂级数.md",
+    "src/微积分/无穷级数/函数项级数/幂级数/阿贝尔定理.md",
+    "考研/微积分/无穷级数系列.md",
+    "src/微积分/无穷级数/常数项级数/常数项级数的性质.md",
+    "src/初等数学(高中数学)/函数/基本函数-/指数函数 & 对数函数.md",
+    "考研/微积分/做题注意事项.md",
+    "src/微积分/无穷级数/chaos/正项级数.md",
     "src/微积分/-术语/上极限和下极限.md",
     "src/微积分/极限/极限基础-/两个重要的极限.md",
     "src/微积分/极限/极限基础-/极限运算法则.md",
     "src/微积分/极限/极限基础-/极限的定义.md",
     "src/微积分/极限/极限基础-/极限的存在准则.md",
-    "src/微积分/极限/连续性/连续性的性质.md",
-    "src/微积分/极限/连续性/连续点.md",
-    "src/微积分/极限/连续性/闭区间上连续函数的性质.md",
-    "src/微积分/极限/极限基础-/单侧极限.md",
-    "src/微积分/无穷级数/常见的收敛与发散的级数.md",
-    "src/微积分/无穷级数/函数项级数/收敛域.md",
-    "src/微积分/无穷级数/函数项级数/收敛点和发散点.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/幂级数的运算.md",
-    "src/微积分/无穷级数/chaos/交错级数.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/重要展开式.md",
-    "考研/微积分/做题注意事项.md",
-    "src/微积分/-结论/泰勒公式.md",
-    "src/初等数学(高中数学)/数列/等比数列.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/阿贝尔定理.md",
-    "src/初等数学(高中数学)/chaos/实用的代数变换.md",
-    "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分/极限/-技巧/利用 基本极限 求极限.md",
-    "src/微积分/无穷级数/函数项级数/和函数.md",
     "附件/Arccsc.svg",
     "附件/Arcsec.svg",
     "附件/Two_kind_of_arccot.svg",
     "附件/Arctan.svg",
-    "附件/Arccos.svg",
-    "附件/Arcsin.svg",
-    "附件/Csc.svg",
-    "附件/Cotan_proportional 1.svg",
-    "附件/Cotan_proportional.svg",
-    "附件/Tan_proportional.svg",
     "src/线性代数/chaos",
     "src/线性代数/未整理内容",
     "考研/概率统计",
@@ -345,9 +347,6 @@
     "self/微积分",
     "self",
     "src/概率论与数理统计/数理统计/假设检验",
-    "src/概率论与数理统计/数理统计/假设检验",
-    "src/概率论与数理统计/6_数理统计/参数估计/未命名",
-    "src/概率论与数理统计/数理统计/参数估计",
     "self/线性代数/题目/困惑.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
