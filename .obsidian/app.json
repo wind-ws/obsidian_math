@@ -8,5 +8,6 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "defaultViewMode": "preview"
 }

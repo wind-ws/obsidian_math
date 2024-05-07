@@ -4,141 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "3984011fc911adb8",
+        "id": "43a49c1e9e8755b7",
         "type": "tabs",
         "children": [
           {
-            "id": "9b0d50efb63cf663",
+            "id": "39c99bfe47167059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
-                "mode": "source",
+                "file": "src/概率论与数理统计/-分布类型/三大分布.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "a42cc2cd884b9303",
+            "id": "ab7abacbb31603b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/无穷级数/chaos/交错级数.md",
-                "mode": "source",
+                "file": "src/概率论与数理统计/-分布类型/正态分布.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "c756a7fb6aeb2c23",
+            "id": "8b313e3579aa7f2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/无穷级数/chaos/正项级数.md",
-                "mode": "source",
+                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "3b16d03ea3fe8dcf",
+            "id": "5760e0981b82259f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58b5a8788e4d1a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15908170d7928984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8efe683e3cbc8377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/三角级数.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f9e6701d426d771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/微分方程/-计算/欧拉方程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4946ade200fcb12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/无穷级数/常数项级数/常数项级数的性质.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af8577263de894ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/微积分/无穷级数系列.md",
-                "mode": "source",
+                "file": "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
+                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
+                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md"
+                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md"
               }
             }
           },
@@ -299,46 +221,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "8b313e3579aa7f2c",
   "lastOpenFiles": [
-    "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+    "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
+    "src/概率论与数理统计/-分布类型/正态分布.md",
+    "src/概率论与数理统计/-分布类型/二项分布.md",
+    "src/概率论与数理统计/大数定律与中心极限定理/大数定律.md",
+    "src/概率论与数理统计/随机变量的数字特征/二维随机变量函数的数学期望.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
+    "src/概率论与数理统计/多维随机变量及其分布/多维随机变量函数的分布.md",
+    "src/概率论与数理统计/-分布类型/泊松分布.md",
+    "src/概率论与数理统计/-分布类型/均匀分布.md",
+    "src/概率论与数理统计/数理统计/常用统计量.md",
+    "src/概率论与数理统计/-分布类型/指数分布.md",
+    "src/概率论与数理统计/大数定律与中心极限定理/依概率收敛.md",
+    "src/概率论与数理统计/数理统计/总体与样本.md",
+    "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md",
+    "src/概率论与数理统计/数理统计/统计量.md",
+    "src/概率论与数理统计/-分布类型/三大分布.md",
+    "src/微积分/微分方程/-计算/一阶微分方程的求解.md",
+    "src/微积分/微分方程/-计算/高阶线性微分方程的求解.md",
     "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
+    "考研/微积分/无穷级数系列.md",
+    "附件/qq_pic_merged_1715066013149.jpg",
     "src/微积分/无穷级数/傅里叶级数/函数展开成傅里叶级数.md",
-    "附件/屏幕截图_20240506_223023.png",
-    "src/微积分/无穷级数/傅里叶级数/傅里叶级数.md",
-    "src/微积分/无穷级数/三角级数.md",
-    "附件/高等数学学习笔记3.0-beta.pdf",
-    "src/微积分/微分方程/-计算/欧拉方程.md",
+    "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
     "src/微积分/无穷级数/傅里叶级数/延拓.md",
-    "src/微积分/无穷级数/复数项级数.md",
+    "src/微积分/无穷级数/傅里叶级数/傅里叶级数.md",
+    "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
+    "附件/屏幕截图_20240506_223023.png",
+    "附件/高等数学学习笔记3.0-beta.pdf",
     "src/微积分/无穷级数/傅里叶级数",
     "附件/屏幕截图_20240506_214732.png",
     "附件/屏幕截图_20240506_214632.png",
     "附件/屏幕截图_20240506_213817.png",
     "附件/屏幕截图_20240506_213801.png",
     "附件/屏幕截图_20240506_213750.png",
-    "src/微积分/无穷级数/敛散性判别法.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/重要展开式.md",
     "考研/微积分/未命名",
-    "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/幂级数的运算.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/幂级数的性质.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/幂级数.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/阿贝尔定理.md",
-    "考研/微积分/无穷级数系列.md",
-    "src/微积分/无穷级数/常数项级数/常数项级数的性质.md",
-    "src/初等数学(高中数学)/函数/基本函数-/指数函数 & 对数函数.md",
-    "考研/微积分/做题注意事项.md",
-    "src/微积分/无穷级数/chaos/正项级数.md",
-    "src/微积分/-术语/上极限和下极限.md",
-    "src/微积分/极限/极限基础-/两个重要的极限.md",
-    "src/微积分/极限/极限基础-/极限运算法则.md",
-    "src/微积分/极限/极限基础-/极限的定义.md",
-    "src/微积分/极限/极限基础-/极限的存在准则.md",
     "附件/Arccsc.svg",
     "附件/Arcsec.svg",
     "附件/Two_kind_of_arccot.svg",
-    "附件/Arctan.svg",
     "src/线性代数/chaos",
     "src/线性代数/未整理内容",
     "考研/概率统计",
