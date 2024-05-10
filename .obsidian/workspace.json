@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43a49c1e9e8755b7",
+        "id": "0c431070b0bd706d",
         "type": "tabs",
         "children": [
           {
-            "id": "39c99bfe47167059",
+            "id": "038202fd66566659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/-分布类型/三大分布.md",
+                "file": "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲面的切平面和法线.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ab7abacbb31603b7",
+            "id": "da1fa7c591ec2efd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/-分布类型/正态分布.md",
+                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "8b313e3579aa7f2c",
+            "id": "0df0bf19fe5cf31a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
+                "file": "src/几何学/-图形/曲面/锥面.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99db7413c1e9a07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -47,12 +60,12 @@
             }
           },
           {
-            "id": "5760e0981b82259f",
+            "id": "6bc4c078d5feabb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+                "file": "src/微积分/向量代数与空间解析几何/空间平面与直线/平面方程.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "上极限",
+                "query": "tr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
+                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
+                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md"
+                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md"
               }
             }
           },
@@ -221,35 +234,35 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b313e3579aa7f2c",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
-    "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
-    "src/概率论与数理统计/-分布类型/正态分布.md",
-    "src/概率论与数理统计/-分布类型/二项分布.md",
-    "src/概率论与数理统计/大数定律与中心极限定理/大数定律.md",
-    "src/概率论与数理统计/随机变量的数字特征/二维随机变量函数的数学期望.md",
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
-    "src/概率论与数理统计/多维随机变量及其分布/多维随机变量函数的分布.md",
-    "src/概率论与数理统计/-分布类型/泊松分布.md",
-    "src/概率论与数理统计/-分布类型/均匀分布.md",
-    "src/概率论与数理统计/数理统计/常用统计量.md",
-    "src/概率论与数理统计/-分布类型/指数分布.md",
-    "src/概率论与数理统计/大数定律与中心极限定理/依概率收敛.md",
-    "src/概率论与数理统计/数理统计/总体与样本.md",
-    "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md",
-    "src/概率论与数理统计/数理统计/统计量.md",
-    "src/概率论与数理统计/-分布类型/三大分布.md",
-    "src/微积分/微分方程/-计算/一阶微分方程的求解.md",
-    "src/微积分/微分方程/-计算/高阶线性微分方程的求解.md",
-    "src/微积分/无穷级数/傅里叶级数/傅里叶正弦级数与余弦级数.md",
-    "考研/微积分/无穷级数系列.md",
+    "src/几何学/-图形/曲面/锥面.md",
+    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
+    "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+    "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲面的切平面和法线.md",
+    "src/微积分/向量代数与空间解析几何/空间平面与直线/平面方程.md",
+    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线位置关系.md",
+    "src/微积分/多元函数微分/偏导数/隐函数存在定理.md",
+    "src/微积分/多元函数微分/偏导数/链式求导规则.md",
+    "src/微积分/多元函数微分/偏导数/偏导数.md",
+    "src/微积分/多元函数微分/基本概念/可微.md",
+    "src/微积分/多元函数微分/基本概念/连续.md",
+    "src/微积分/多元函数微分/基本概念/平面点集的基本概念.md",
+    "src/微积分/多元函数微分/偏导数/导数的几何意义.md",
+    "src/微积分/多元函数微分/偏导数/多元函数微分形式不变性.md",
+    "src/微积分/多元函数微分/偏导数/克莱罗定理.md",
+    "src/微积分/多元函数微分/偏导数/利用轮换性求解偏导数.md",
+    "src/微积分/多元函数微分/偏导数/偏导数求原函数.md",
+    "src/微积分/多元函数微分/偏导数/偏导数间不能约分.md",
+    "src/微积分/多元函数微分/偏导数/偏导数的连续性.md",
+    "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲线的切线与法平面.md",
+    "src/微积分/积分/曲线曲面积分/第二型/格林公式.md",
+    "src/微积分/-结论/泰勒公式.md",
+    "src/微积分/多元函数微分/chaos/方向导数.md",
+    "src/微积分/多元函数微分/chaos/散度与旋度.md",
+    "src/微积分/多元函数微分/chaos/梯度.md",
+    "src/微积分/向量代数与空间解析几何/向量代数/数量积(内积,点积).md",
     "附件/qq_pic_merged_1715066013149.jpg",
-    "src/微积分/无穷级数/傅里叶级数/函数展开成傅里叶级数.md",
-    "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
-    "src/微积分/无穷级数/傅里叶级数/延拓.md",
-    "src/微积分/无穷级数/傅里叶级数/傅里叶级数.md",
-    "src/微积分/无穷级数/函数项级数/幂级数/收敛域的求法.md",
     "附件/屏幕截图_20240506_223023.png",
     "附件/高等数学学习笔记3.0-beta.pdf",
     "src/微积分/无穷级数/傅里叶级数",
