@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -234,11 +234,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "da1fa7c591ec2efd",
   "lastOpenFiles": [
     "src/几何学/-图形/曲面/锥面.md",
-    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
     "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
     "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲面的切平面和法线.md",
     "src/微积分/向量代数与空间解析几何/空间平面与直线/平面方程.md",
     "src/微积分/向量代数与空间解析几何/空间平面与直线/直线位置关系.md",
