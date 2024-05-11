@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c431070b0bd706d",
+        "id": "f1ce972aa8dafbaa",
         "type": "tabs",
         "children": [
           {
-            "id": "038202fd66566659",
+            "id": "962f955969eedbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲面的切平面和法线.md",
+                "file": "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的计算.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "da1fa7c591ec2efd",
+            "id": "6ac548f1bc0b3365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "0df0bf19fe5cf31a",
+            "id": "0343d3640e5dc89f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/几何学/-图形/曲面/锥面.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99db7413c1e9a07e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
+                "file": "src/微积分/积分/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -60,12 +47,90 @@
             }
           },
           {
-            "id": "6bc4c078d5feabb7",
+            "id": "6532f383e36fdbc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间平面与直线/平面方程.md",
+                "file": "src/线性代数/行列式/雅可比行列式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d87db1a270af0c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06f0f81541ab737e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/积分/积分表.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c3e19636b874893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3789704fc46ae97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/积分/三重积分/-计算/直角坐标系计算三重积分.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31c657d64aa4cfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的概念.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c3555dc153486d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/积分/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -102,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tr",
+                "query": "投影",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md"
+                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md"
               }
             }
           },
@@ -234,34 +299,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "da1fa7c591ec2efd",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/几何学/-图形/曲面/锥面.md",
-    "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
-    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
-    "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲面的切平面和法线.md",
-    "src/微积分/向量代数与空间解析几何/空间平面与直线/平面方程.md",
-    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线位置关系.md",
-    "src/微积分/多元函数微分/偏导数/隐函数存在定理.md",
-    "src/微积分/多元函数微分/偏导数/链式求导规则.md",
-    "src/微积分/多元函数微分/偏导数/偏导数.md",
-    "src/微积分/多元函数微分/基本概念/可微.md",
-    "src/微积分/多元函数微分/基本概念/连续.md",
-    "src/微积分/多元函数微分/基本概念/平面点集的基本概念.md",
-    "src/微积分/多元函数微分/偏导数/导数的几何意义.md",
-    "src/微积分/多元函数微分/偏导数/多元函数微分形式不变性.md",
-    "src/微积分/多元函数微分/偏导数/克莱罗定理.md",
-    "src/微积分/多元函数微分/偏导数/利用轮换性求解偏导数.md",
-    "src/微积分/多元函数微分/偏导数/偏导数求原函数.md",
-    "src/微积分/多元函数微分/偏导数/偏导数间不能约分.md",
-    "src/微积分/多元函数微分/偏导数/偏导数的连续性.md",
-    "src/微积分/多元函数微分/多元函数微分的几何应用/空间曲线的切线与法平面.md",
+    "src/微积分/积分/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
+    "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
+    "src/线性代数/行列式/雅可比行列式.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的计算.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的性质.md",
+    "src/微积分/积分/二重积分/-计算/直角坐标下的计算法.md",
+    "src/微积分/积分/二重积分/二重积分的性质.md",
+    "src/微积分/积分/二重积分/二重积分的几何背景.md",
+    "src/微积分/积分/二重积分/二重积分的定义.md",
+    "src/微积分/积分/二重积分/-计算/画图的重要性.md",
+    "src/微积分/积分/二重积分/-计算/高斯积分的推导.md",
+    "src/微积分/积分/二重积分/-计算/二重积分的对称性.md",
+    "src/微积分/积分/二重积分/-计算/改变积分次序.md",
+    "src/微积分/积分/二重积分/-计算/极坐标下的计算法.md",
+    "src/微积分/积分/曲线曲面积分/第二型/高斯公式.md",
     "src/微积分/积分/曲线曲面积分/第二型/格林公式.md",
-    "src/微积分/-结论/泰勒公式.md",
-    "src/微积分/多元函数微分/chaos/方向导数.md",
-    "src/微积分/多元函数微分/chaos/散度与旋度.md",
+    "src/微积分/积分/曲线曲面积分/第二型/斯托克斯公式.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的轮换性.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的概念.md",
+    "src/微积分/积分/积分表.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
+    "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
     "src/微积分/多元函数微分/chaos/梯度.md",
-    "src/微积分/向量代数与空间解析几何/向量代数/数量积(内积,点积).md",
+    "src/微积分/积分/曲线曲面积分/曲面积分和二重积分的区别.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的概念.md",
+    "src/微积分/积分/定积分/定积分的计算/利用 已有公式.md",
+    "附件/屏幕截图_20240511_161448.png",
+    "附件/屏幕截图_20240511_151356.png",
+    "附件/屏幕截图_20240511_125038.png",
+    "附件/屏幕截图_20240511_120735.png",
     "附件/qq_pic_merged_1715066013149.jpg",
     "附件/屏幕截图_20240506_223023.png",
     "附件/高等数学学习笔记3.0-beta.pdf",
@@ -270,11 +339,7 @@
     "附件/屏幕截图_20240506_214632.png",
     "附件/屏幕截图_20240506_213817.png",
     "附件/屏幕截图_20240506_213801.png",
-    "附件/屏幕截图_20240506_213750.png",
     "考研/微积分/未命名",
-    "附件/Arccsc.svg",
-    "附件/Arcsec.svg",
-    "附件/Two_kind_of_arccot.svg",
     "src/线性代数/chaos",
     "src/线性代数/未整理内容",
     "考研/概率统计",
