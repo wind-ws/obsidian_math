@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "962f955969eedbc2",
+            "id": "f3eea8ae3d9f96b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的计算.md",
+                "file": "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的概念.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6ac548f1bc0b3365",
+            "id": "058dfd30944fdbf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
+                "file": "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的计算.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "0343d3640e5dc89f",
+            "id": "7439bfbe5d2e7168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/微积分/积分/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
+                "file": "src/微积分/积分/曲线曲面积分/第二型/格林公式.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "6532f383e36fdbc7",
+            "id": "2eed231891eb7dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/线性代数/行列式/雅可比行列式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d87db1a270af0c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
+                "file": "src/微积分/多元函数微分/基本概念/可微.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -73,59 +60,7 @@
             }
           },
           {
-            "id": "06f0f81541ab737e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/积分/积分表.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c3e19636b874893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3789704fc46ae97d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/积分/三重积分/-计算/直角坐标系计算三重积分.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31c657d64aa4cfcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的概念.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6c3555dc153486d",
+            "id": "4cb256f81fca9c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
+                "file": "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
+                "file": "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/微积分/积分/二重积分/-计算/二重积分换元法.md"
+                "file": "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的计算.md"
               }
             }
           },
@@ -301,32 +236,32 @@
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的概念.md",
+    "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的计算.md",
+    "src/微积分/多元函数微分/chaos/梯度.md",
+    "src/微积分/积分/曲线曲面积分/第二型/格林公式.md",
+    "src/微积分/多元函数微分/偏导数/克莱罗定理.md",
+    "src/微积分/多元函数微分/基本概念/可微.md",
+    "src/微积分/积分/曲线曲面积分/第二型/第二型曲线积分的性质.md",
+    "src/微积分/积分/曲线曲面积分/第二型/高斯公式.md",
+    "src/微积分/积分/曲线曲面积分/第二型/斯托克斯公式.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的性质.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的概念.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的计算.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的轮换性.md",
+    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的计算.md",
+    "src/微积分/积分/定积分/定积分的计算/利用 已有公式.md",
+    "考研/微积分/做题注意事项.md",
     "src/微积分/积分/二重积分/-计算/极坐标系与直角坐标系的互相转换.md",
+    "src/微积分/向量代数与空间解析几何/空间曲线与曲面/空间曲面.md",
+    "src/微积分/积分/三重积分/-计算/直角坐标系计算三重积分.md",
     "src/微积分/积分/二重积分/-计算/二重积分换元法.md",
     "src/线性代数/行列式/雅可比行列式.md",
-    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的计算.md",
     "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的性质.md",
     "src/微积分/积分/二重积分/-计算/直角坐标下的计算法.md",
     "src/微积分/积分/二重积分/二重积分的性质.md",
     "src/微积分/积分/二重积分/二重积分的几何背景.md",
     "src/微积分/积分/二重积分/二重积分的定义.md",
-    "src/微积分/积分/二重积分/-计算/画图的重要性.md",
-    "src/微积分/积分/二重积分/-计算/高斯积分的推导.md",
-    "src/微积分/积分/二重积分/-计算/二重积分的对称性.md",
-    "src/微积分/积分/二重积分/-计算/改变积分次序.md",
-    "src/微积分/积分/二重积分/-计算/极坐标下的计算法.md",
-    "src/微积分/积分/曲线曲面积分/第二型/高斯公式.md",
-    "src/微积分/积分/曲线曲面积分/第二型/格林公式.md",
-    "src/微积分/积分/曲线曲面积分/第二型/斯托克斯公式.md",
-    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的轮换性.md",
-    "src/微积分/积分/曲线曲面积分/第一型/第一型曲面积分的概念.md",
-    "src/微积分/积分/积分表.md",
-    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
-    "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
-    "src/微积分/多元函数微分/chaos/梯度.md",
-    "src/微积分/积分/曲线曲面积分/曲面积分和二重积分的区别.md",
-    "src/微积分/积分/曲线曲面积分/第一型/第一型曲线积分的概念.md",
-    "src/微积分/积分/定积分/定积分的计算/利用 已有公式.md",
     "附件/屏幕截图_20240511_161448.png",
     "附件/屏幕截图_20240511_151356.png",
     "附件/屏幕截图_20240511_125038.png",
