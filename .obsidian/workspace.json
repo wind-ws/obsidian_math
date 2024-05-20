@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d48656decdb7e2f3",
+        "id": "d5d9e84f5db159c7",
         "type": "tabs",
         "children": [
           {
-            "id": "8c2d9a95851a737d",
+            "id": "b06440e84a551b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/真题/18年.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08eaf4b61d0e731b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研/线性代数/注意事项.md",
+                "file": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数特殊值与图像.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -34,25 +21,12 @@
             }
           },
           {
-            "id": "88440cbb320ee5d3",
+            "id": "7e54a4e7ef0ac7b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研/真题/18年.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b895e10019b5d37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
+                "file": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -60,12 +34,116 @@
             }
           },
           {
-            "id": "047eddba0a113d0f",
+            "id": "a18f00fc79bd6452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/数理统计/常用统计量.md",
+                "file": "src/微积分/极限/-技巧/利用 基本极限 求极限.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f2bceb9fe7cc119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/极限/-技巧/利用 等价无穷小代换 求极限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e931b64a1cdd38ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/-结论/泰勒公式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b34267618751dfe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/极限/-技巧/利用 基本极限 求极限.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dddbbc78173f14f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "accfdfd4ea580b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/极限/连续性/间断点.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "907af7656a406df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebbadbaa8de6dbc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3298453d52b66984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -73,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "投影",
+                "query": "tag:#term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/线性代数/注意事项.md",
+                "file": "src/微积分/极限/-技巧/利用 基本极限 求极限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/线性代数/注意事项.md",
+                "file": "src/微积分/极限/-技巧/利用 基本极限 求极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/线性代数/注意事项.md"
+                "file": "src/微积分/极限/-技巧/利用 基本极限 求极限.md"
               }
             }
           },
@@ -234,36 +312,36 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "b34267618751dfe7",
   "lastOpenFiles": [
+    "src/微积分/极限/-技巧/利用 等价无穷小代换 求极限.md",
+    "src/微积分/-结论/泰勒公式.md",
+    "src/微积分/极限/-技巧/利用 基本极限 求极限.md",
+    "src/微积分/导数/求导法则-/常数和基本初等函数的导数公式.md",
+    "src/微积分/极限/连续性/间断点.md",
+    "src/微积分/极限/无穷大/无穷大.md",
+    "src/微积分/极限/无穷大/无穷大与无穷小的关系.md",
+    "src/微积分/极限/无穷大/无穷大量与无界变量.md",
+    "src/微积分/极限/无穷大/无穷大比较.md",
+    "src/微积分/极限/无穷大/无穷大的性质.md",
+    "考研/微积分/做题注意事项.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数公式.md",
+    "src/微积分/极限/-技巧/利用 泰勒公式 求极限.md",
+    "src/初等数学(高中数学)/函数/基本函数-/三角函数-/三角函数特殊值与图像.md",
+    "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md",
+    "chaos/术语/逆映射(反函数).md",
+    "src/微积分/多元函数微分/多元函数的极值与最值.md",
     "考研/真题/18年.md",
+    "src/几何学/-图形/直线和曲线/法线方程.md",
+    "src/几何学/-图形/直线和曲线/法线(法向量).md",
+    "标签系统.md",
+    "考研/概率统计/注意事项.md",
     "考研/线性代数/注意事项.md",
-    "src/概率论与数理统计/数理统计/常用统计量.md",
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
-    "src/线性代数/二次型/二次型的标准形和规范形.md",
+    "考研/线性代数/技巧.md",
+    "考研/线性代数/chaos/二阶递推式.md",
+    "考研/微积分/chaos/chaos_unsafe_self_结论.md",
     "附件/屏幕截图_20240519_165229.png",
     "附件/屏幕截图_20240519_165159.png",
-    "src/线性代数/二次型/二次型.md",
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
-    "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md",
-    "src/概率论与数理统计/数理统计/参数估计/参数的区间估计.md",
-    "src/概率论与数理统计/-分布类型/正态分布.md",
-    "src/概率论与数理统计/-分布类型/三大分布.md",
-    "src/概率论与数理统计/-分布类型/指数分布.md",
-    "src/概率论与数理统计/-分布类型/几何分布.md",
-    "src/概率论与数理统计/-分布类型/二项分布.md",
-    "src/概率论与数理统计/-分布类型/超几何分布.md",
-    "src/概率论与数理统计/-分布类型/泊松分布.md",
-    "src/概率论与数理统计/-分布类型/均匀分布.md",
-    "src/概率论与数理统计/一维随机变量及其分布/离散型/离散型随机变量及其概率分布.md",
-    "考研/概率统计/注意事项.md",
-    "src/概率论与数理统计/一维随机变量及其分布/连续型/连续型随机变量及其概率密度.md",
-    "src/概率论与数理统计/随机事件与概念/-计算/概率的基本性质和公式.md",
-    "src/概率论与数理统计/随机变量的数字特征/协方差.md",
-    "src/线性代数/矩阵/矩阵的基本运算/逆矩阵.md",
-    "src/初等数学(高中数学)/chaos/不等式.md",
-    "考研/微积分/chaos/证明单调性.md",
-    "src/初等数学(高中数学)/函数/函数性质/周期性.md",
     "附件/屏幕截图_20240519_115257.png",
     "附件/屏幕截图_20240518_215052.png",
     "附件/屏幕截图_20240518_181311.png",
