@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "主元位置",
-      "path": "src/线性代数/-术语/主元位置.md"
+      "basename": "sortspec",
+      "path": "sortspec.md"
+    },
+    {
+      "basename": "笔记规范_",
+      "path": "笔记规范_.md"
     },
     {
       "basename": "直线方程",
       "path": "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md"
+    },
+    {
+      "basename": "主元位置",
+      "path": "src/线性代数/-术语/主元位置.md"
     },
     {
       "basename": "线性方程组",
@@ -187,21 +195,12 @@
     {
       "basename": "复数的算术性质",
       "path": "src/初等数学(高中数学)/复数/复数的算术性质.md"
-    },
-    {
-      "basename": "复数",
-      "path": "src/初等数学(高中数学)/复数/复数.md"
-    },
-    {
-      "basename": "常用公式",
-      "path": "src/初等数学(高中数学)/常用公式.md"
-    },
-    {
-      "basename": "谱分解",
-      "path": "src/线性代数/chaos/谱分解.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }

@@ -4,167 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cfdbbe330ca5bce3",
+        "id": "d3dabefc1eefd6db",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1e769e86f4d408",
+            "id": "434cc6e59efa0ffb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b09d064107f4eb47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/向量代数与空间解析几何/空间平面与直线/直线位置关系.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daa7e4258eed0f4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/初等数学(高中数学)/chaos/斜率.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5abb06b49afc937c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数/线性空间与线性变换/线性变换.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9355bcf8fd32bfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/向量代数与空间解析几何/向量代数/向量积.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e3a6638377f3d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/微积分/向量代数与空间解析几何/向量代数/向量积.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ae6647ce50f3e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chaos/chaos_1-/勾股定理.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d4302eafa3887d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数/chaos/投影.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5784f43128f6d699",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数/chaos/坐标向量.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb5c70c27882b46a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数/矩阵/矩阵 初等变换.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "723f210ff156eb2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数/线性方程组/线性方程组.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5fe5a92a9ebc879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/线性代数/-术语/主元位置.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom"
-              }
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -199,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
@@ -223,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/线性代数/-术语/主元位置.md",
+                "file": "sortspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +89,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "sortspec 的反向链接列表"
             }
           },
           {
@@ -240,10 +100,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/线性代数/-术语/主元位置.md",
+                "file": "sortspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "sortspec 的出链列表"
             }
           },
           {
@@ -252,8 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/线性代数/-术语/主元位置.md"
-              }
+                "file": "sortspec.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "sortspec 的大纲"
             }
           },
           {
@@ -265,7 +132,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -273,7 +142,19 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "1d98635e4f99fec2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -291,8 +172,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -300,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ],
@@ -322,39 +209,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "notion-like-tables:Create loom": false,
       "dbfolder:创建一个新数据库表": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:创建新看板": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
-    "src/微积分/向量代数与空间解析几何/空间平面与直线/直线方程.md",
-    "src/线性代数/线性方程组/线性方程组.md",
-    "src/线性代数/矩阵/矩阵 初等变换.md",
-    "src/线性代数/矩阵/矩阵的基本运算/矩阵的运算定理.md",
-    "src/微积分/向量代数与空间解析几何/向量代数/向量相关的定义.md",
-    "src/微积分/向量代数与空间解析几何/向量代数/向量积.md",
-    "src/初等数学(高中数学)/函数/基本函数-/三角函数_.md",
-    "src/微积分/向量代数与空间解析几何/向量代数/向量的方向角和方向余弦.md",
-    "src/微积分/向量代数与空间解析几何/向量代数/数量积(内积,点积).md",
-    "src/微积分/向量代数与空间解析几何/向量代数/混合积.md",
-    "src/微积分/向量代数与空间解析几何/向量代数/空间直角坐标系的空间卦限.md",
-    "src/线性代数/线性空间与线性变换/线性变换.md",
-    "src/线性代数/线性空间与线性变换/线性映射.md",
-    "src/线性代数/chaos/投影.md",
-    "src/线性代数/chaos/坐标向量.md",
-    "src/线性代数/二次型/惯性定理.md",
-    "src/线性代数/线性空间与线性变换/线性表出.md",
-    "src/线性代数/线性空间与线性变换/线性无关.md",
-    "src/线性代数/-mod.md",
-    "README.md",
-    "数学学习资源/web_resource.md",
-    "数学学习资源/books.md",
-    "数学学习资源/books/线性代数books.md",
-    "数学学习资源/books/微积分books.md",
-    "数学学习资源/books/数理逻辑books.md",
-    "chaos/chaos_1-/部分分式分解.md",
+    "crates/computer_science/src/量化/choas/学习资源.md",
+    "crates/computer_science/src/量化/高频交易/学习资源.md",
+    "crates/computer_science/src/量化/高频交易/未命名.md",
+    "crates/computer_science/src/chaos/优化手册.md",
+    "crates/computer_science/src/chaos/未命名.md",
+    "crates/computer_science/src/chaos/未命名",
+    "src/统计学/chaos",
+    "src/统计学",
+    "index.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Range.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Index.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Deref.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Copy.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/设计模式/choas.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/所有指针/Box.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/属性/choas.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/feature/choas.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/默认移动语义.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/静态断言.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/静态分发与动态分发.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/生命周期.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/泛型.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/所有权.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/学习资源.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/内存布局.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/不常用语法.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/trait.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/async.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/choas/Sized and ?Sized.md",
+    "crates/computer_science/src/编程语言/Rust/语言学习/设计模式",
+    "crates/computer_science/src/编程语言/Rust/语言学习/所有指针",
+    "crates/computer_science/src/编程语言/Rust/语言学习/属性",
+    "crates/computer_science/src/编程语言/Rust/语言学习/优化大法",
+    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典",
+    "crates/computer_science/src/编程语言/Rust/语言学习/feature",
+    "crates/computer_science/附件/20190313105710222.png",
     "self/线性代数/题目/困惑.canvas",
-    "Excalidraw",
     "附件/qq_pic_merged_1716381133591(1).jpg",
     "附件/qq_pic_merged_1716381133591.jpg",
     "附件/屏幕截图_20240519_165229.png",
@@ -364,17 +263,7 @@
     "附件/屏幕截图_20240518_181311.png",
     "附件/屏幕截图_20240518_181254.png",
     "附件/屏幕截图_20240518_163830.png",
-    "附件/屏幕截图_20240518_163811.png",
-    "考研/真题",
-    "附件/高等数学学习笔记3.0-beta.pdf",
-    "src/微积分/无穷级数/傅里叶级数",
-    "考研/微积分/未命名",
-    "src/线性代数/chaos",
-    "src/线性代数/未整理内容",
-    "考研/概率统计",
     "chaos/chaos_1_.canvas",
-    "self/线性代数",
-    "self/微积分",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
