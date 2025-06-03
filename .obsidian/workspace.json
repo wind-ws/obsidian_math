@@ -4,17 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d3dabefc1eefd6db",
+        "id": "9b177414bc092105",
         "type": "tabs",
         "children": [
           {
-            "id": "434cc6e59efa0ffb",
+            "id": "9ff1693d6603e660",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/chaos/数据的种类.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数据的种类"
+            }
+          },
+          {
+            "id": "056d1259a2b6e175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "随机变量的方差"
             }
           }
         ]
@@ -36,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#play",
+                "query": "标准差",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,8 +191,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -205,53 +243,53 @@
       "templates:插入模板": false,
       "workspaces:管理工作区布局": false,
       "graph:查看关系图谱": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
-      "dbfolder:创建一个新数据库表": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:创建新看板": false,
+      "dbfolder:创建一个新数据库表": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fe0a6dddaba50f0c",
+  "active": "9ff1693d6603e660",
   "lastOpenFiles": [
-    "crates/computer_science/src/量化/choas/学习资源.md",
-    "crates/computer_science/src/量化/高频交易/学习资源.md",
-    "crates/computer_science/src/量化/高频交易/未命名.md",
-    "crates/computer_science/src/chaos/优化手册.md",
-    "crates/computer_science/src/chaos/未命名.md",
+    "src/概率论与数理统计/数理统计/假设检验/T检验.md",
+    "src/概率论与数理统计/chaos/数据的种类.md",
+    "src/概率论与数理统计/chaos",
+    "src/概率论与数理统计/数理统计/假设检验/Z检验.md",
+    "src/概率论与数理统计/数理统计/常用统计量.md",
+    "src/概率论与数理统计/数理统计/统计量.md",
+    "src/概率论与数理统计/数理统计/正态总体条件下的常用结论.md",
+    "src/概率论与数理统计/数理统计/总体与样本.md",
+    "src/概率论与数理统计/数理统计/假设检验/假设检验.md",
+    "src/概率论与数理统计/数理统计/假设检验/两类错误.md",
+    "src/概率论与数理统计/数理统计/假设检验/正态总体下的假设检验.md",
+    "src/概率论与数理统计/数理统计/参数估计/参数的区间估计.md",
+    "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md",
+    "src/概率论与数理统计/数理统计/参数估计/参数估计.md",
+    "src/概率论与数理统计/数理统计/参数估计/正态总体均值的置信区间(置信水平为1-a).md",
+    "src/概率论与数理统计/数理统计/参数估计/估计量的评价标准.md",
+    "src/概率论与数理统计/数理统计/假设检验/备择假设.md",
+    "src/概率论与数理统计/数理统计/假设检验/Z值.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+    "src/概率论与数理统计/数理统计/假设检验/P值.md",
+    "src/概率论与数理统计/数理统计/假设检验/零假设.md",
+    "src/概率论与数理统计/回归分析",
+    "src/概率论与数理统计/统计检验",
+    "src/概率论与数理统计/随机变量的数字特征/协方差.md",
+    "src/线性代数/向量/子空间/子空间的基.md",
+    "src/线性代数/矩阵/矩阵 初等变换.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
+    "src/概率论与数理统计/-分布类型/二项分布.md",
+    "README.md",
     "crates/computer_science/src/chaos/未命名",
     "src/统计学/chaos",
     "src/统计学",
-    "index.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Range.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Index.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Deref.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait/Copy.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/设计模式/choas.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/所有指针/Box.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/属性/choas.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/feature/choas.md",
     "crates/computer_science/src/编程语言/Rust/语言学习/std宝典/Trait",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/默认移动语义.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/静态断言.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/静态分发与动态分发.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/生命周期.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/泛型.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/所有权.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/学习资源.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/内存布局.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/不常用语法.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/trait.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/async.md",
-    "crates/computer_science/src/编程语言/Rust/语言学习/choas/Sized and ?Sized.md",
     "crates/computer_science/src/编程语言/Rust/语言学习/设计模式",
     "crates/computer_science/src/编程语言/Rust/语言学习/所有指针",
     "crates/computer_science/src/编程语言/Rust/语言学习/属性",
-    "crates/computer_science/src/编程语言/Rust/语言学习/优化大法",
-    "crates/computer_science/src/编程语言/Rust/语言学习/std宝典",
-    "crates/computer_science/src/编程语言/Rust/语言学习/feature",
     "crates/computer_science/附件/20190313105710222.png",
     "self/线性代数/题目/困惑.canvas",
     "附件/qq_pic_merged_1716381133591(1).jpg",

@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "数据的种类",
+      "path": "src/概率论与数理统计/chaos/数据的种类.md"
+    },
+    {
+      "basename": "T检验",
+      "path": "src/概率论与数理统计/数理统计/假设检验/T检验.md"
+    },
+    {
+      "basename": "Z检验",
+      "path": "src/概率论与数理统计/数理统计/假设检验/Z检验.md"
+    },
+    {
+      "basename": "常用统计量",
+      "path": "src/概率论与数理统计/数理统计/常用统计量.md"
+    },
+    {
+      "basename": "统计量",
+      "path": "src/概率论与数理统计/数理统计/统计量.md"
+    },
+    {
+      "basename": "正态总体条件下的常用结论",
+      "path": "src/概率论与数理统计/数理统计/正态总体条件下的常用结论.md"
+    },
+    {
+      "basename": "总体与样本",
+      "path": "src/概率论与数理统计/数理统计/总体与样本.md"
+    },
+    {
+      "basename": "假设检验",
+      "path": "src/概率论与数理统计/数理统计/假设检验/假设检验.md"
+    },
+    {
+      "basename": "两类错误",
+      "path": "src/概率论与数理统计/数理统计/假设检验/两类错误.md"
+    },
+    {
+      "basename": "正态总体下的假设检验",
+      "path": "src/概率论与数理统计/数理统计/假设检验/正态总体下的假设检验.md"
+    },
+    {
+      "basename": "参数的区间估计",
+      "path": "src/概率论与数理统计/数理统计/参数估计/参数的区间估计.md"
+    },
+    {
+      "basename": "参数的点估计",
+      "path": "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md"
+    },
+    {
+      "basename": "参数估计",
+      "path": "src/概率论与数理统计/数理统计/参数估计/参数估计.md"
+    },
+    {
+      "basename": "正态总体均值的置信区间(置信水平为1-a)",
+      "path": "src/概率论与数理统计/数理统计/参数估计/正态总体均值的置信区间(置信水平为1-a).md"
+    },
+    {
+      "basename": "估计量的评价标准",
+      "path": "src/概率论与数理统计/数理统计/参数估计/估计量的评价标准.md"
+    },
+    {
+      "basename": "备择假设",
+      "path": "src/概率论与数理统计/数理统计/假设检验/备择假设.md"
+    },
+    {
+      "basename": "Z值",
+      "path": "src/概率论与数理统计/数理统计/假设检验/Z值.md"
+    },
+    {
+      "basename": "随机变量的方差",
+      "path": "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md"
+    },
+    {
+      "basename": "P值",
+      "path": "src/概率论与数理统计/数理统计/假设检验/P值.md"
+    },
+    {
+      "basename": "零假设",
+      "path": "src/概率论与数理统计/数理统计/假设检验/零假设.md"
+    },
+    {
+      "basename": "协方差",
+      "path": "src/概率论与数理统计/随机变量的数字特征/协方差.md"
+    },
+    {
+      "basename": "子空间的基",
+      "path": "src/线性代数/向量/子空间/子空间的基.md"
+    },
+    {
+      "basename": "矩阵 初等变换",
+      "path": "src/线性代数/矩阵/矩阵 初等变换.md"
+    },
+    {
+      "basename": "随机变量的数学期望",
+      "path": "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md"
+    },
+    {
+      "basename": "二项分布",
+      "path": "src/概率论与数理统计/-分布类型/二项分布.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "sortspec",
       "path": "sortspec.md"
     },
@@ -19,10 +123,6 @@
     {
       "basename": "线性方程组",
       "path": "src/线性代数/线性方程组/线性方程组.md"
-    },
-    {
-      "basename": "矩阵 初等变换",
-      "path": "src/线性代数/矩阵/矩阵 初等变换.md"
     },
     {
       "basename": "矩阵的运算定理",
@@ -99,102 +199,6 @@
     {
       "basename": "法线(法向量)",
       "path": "src/几何学/-图形/直线和曲线/法线(法向量).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "web_resource",
-      "path": "数学学习资源/web_resource.md"
-    },
-    {
-      "basename": "books",
-      "path": "数学学习资源/books.md"
-    },
-    {
-      "basename": "线性代数books",
-      "path": "数学学习资源/books/线性代数books.md"
-    },
-    {
-      "basename": "微积分books",
-      "path": "数学学习资源/books/微积分books.md"
-    },
-    {
-      "basename": "数理逻辑books",
-      "path": "数学学习资源/books/数理逻辑books.md"
-    },
-    {
-      "basename": "部分分式分解",
-      "path": "chaos/chaos_1-/部分分式分解.md"
-    },
-    {
-      "basename": "充分&必要&充分必要条件",
-      "path": "chaos/chaos_1-/充分&必要&充分必要条件.md"
-    },
-    {
-      "basename": "非规范小数",
-      "path": "chaos/chaos_1-/非规范小数.md"
-    },
-    {
-      "basename": "符号(海维赛德,Heviside)函数",
-      "path": "chaos/chaos_1-/符号(海维赛德,Heviside)函数.md"
-    },
-    {
-      "basename": "解k次多项式方程",
-      "path": "chaos/chaos_1-/解k次多项式方程.md"
-    },
-    {
-      "basename": "两点连线的方程",
-      "path": "chaos/chaos_1-/两点连线的方程.md"
-    },
-    {
-      "basename": "皮亚诺公理",
-      "path": "chaos/chaos_1-/皮亚诺公理.md"
-    },
-    {
-      "basename": "上界, 下界, 有界集",
-      "path": "chaos/chaos_1-/上界, 下界, 有界集.md"
-    },
-    {
-      "basename": "未整理",
-      "path": "chaos/chaos_1-/未整理.md"
-    },
-    {
-      "basename": "一堆记号",
-      "path": "chaos/chaos_1-/一堆记号.md"
-    },
-    {
-      "basename": "因式分解",
-      "path": "chaos/chaos_1-/因式分解.md"
-    },
-    {
-      "basename": "圆柱坐标系(柱面坐标系)",
-      "path": "chaos/坐标系/圆柱坐标系(柱面坐标系).md"
-    },
-    {
-      "basename": "球坐标系",
-      "path": "chaos/坐标系/球坐标系.md"
-    },
-    {
-      "basename": "常数和基本初等函数的导数公式_证明",
-      "path": "chaos/证明库-/常数和基本初等函数的导数公式_证明.md"
-    },
-    {
-      "basename": "困惑",
-      "path": "self/线性代数/题目/困惑.canvas"
-    },
-    {
-      "basename": "自身的问题",
-      "path": "self/自身的问题.md"
-    },
-    {
-      "basename": "共轭复数和绝对值的性质",
-      "path": "src/初等数学(高中数学)/复数/共轭复数和绝对值的性质.md"
-    },
-    {
-      "basename": "复数的算术性质",
-      "path": "src/初等数学(高中数学)/复数/复数的算术性质.md"
     }
   ],
   "omittedPaths": [],
