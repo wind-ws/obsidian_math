@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ff1693d6603e660",
+            "id": "51f26ea0c87c92c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/chaos/数据的种类.md",
+                "file": "src/概率论与数理统计/chaos/描述统计学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "数据的种类"
+              "title": "描述统计学"
+            }
+          },
+          {
+            "id": "9ff1693d6603e660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/数理统计/常用统计量.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "常用统计量"
             }
           },
           {
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "标准差",
+                "query": "显著",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,41 +272,41 @@
       "obsidian-kanban:创建新看板": false,
       "dbfolder:创建一个新数据库表": false,
       "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "custom-sort:Toggle custom sorting": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9ff1693d6603e660",
+  "active": "fe0a6dddaba50f0c",
   "lastOpenFiles": [
+    "src/概率论与数理统计/数理统计/假设检验/两类错误.md",
+    "src/概率论与数理统计/数理统计/参数估计/参数的区间估计.md",
+    "src/概率论与数理统计/数理统计/假设检验/显著性差异.md",
+    "src/概率论与数理统计/数理统计/假设检验/假设检验.md",
     "src/概率论与数理统计/数理统计/假设检验/T检验.md",
+    "src/概率论与数理统计/chaos/描述统计学.md",
+    "src/概率论与数理统计/-分布类型/三大分布.md",
+    "src/概率论与数理统计/-分布类型/正态分布.md",
+    "src/概率论与数理统计/-分布类型/均匀分布.md",
+    "src/概率论与数理统计/-分布类型/泊松分布.md",
+    "src/概率论与数理统计/-分布类型/几何分布.md",
+    "src/概率论与数理统计/-分布类型/二项分布.md",
+    "src/概率论与数理统计/-分布类型/超几何分布.md",
+    "src/概率论与数理统计/chaos/峰度.md",
+    "src/概率论与数理统计/chaos/偏度.md",
+    "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
+    "src/概率论与数理统计/chaos/中位数.md",
+    "src/概率论与数理统计/chaos/众数.md",
+    "附件/Pasted image 20250604094504.png",
     "src/概率论与数理统计/chaos/数据的种类.md",
+    "src/概率论与数理统计/数理统计/常用统计量.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
     "src/概率论与数理统计/chaos",
     "src/概率论与数理统计/数理统计/假设检验/Z检验.md",
-    "src/概率论与数理统计/数理统计/常用统计量.md",
     "src/概率论与数理统计/数理统计/统计量.md",
     "src/概率论与数理统计/数理统计/正态总体条件下的常用结论.md",
     "src/概率论与数理统计/数理统计/总体与样本.md",
-    "src/概率论与数理统计/数理统计/假设检验/假设检验.md",
-    "src/概率论与数理统计/数理统计/假设检验/两类错误.md",
     "src/概率论与数理统计/数理统计/假设检验/正态总体下的假设检验.md",
-    "src/概率论与数理统计/数理统计/参数估计/参数的区间估计.md",
-    "src/概率论与数理统计/数理统计/参数估计/参数的点估计.md",
-    "src/概率论与数理统计/数理统计/参数估计/参数估计.md",
-    "src/概率论与数理统计/数理统计/参数估计/正态总体均值的置信区间(置信水平为1-a).md",
-    "src/概率论与数理统计/数理统计/参数估计/估计量的评价标准.md",
-    "src/概率论与数理统计/数理统计/假设检验/备择假设.md",
-    "src/概率论与数理统计/数理统计/假设检验/Z值.md",
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
-    "src/概率论与数理统计/数理统计/假设检验/P值.md",
-    "src/概率论与数理统计/数理统计/假设检验/零假设.md",
     "src/概率论与数理统计/回归分析",
     "src/概率论与数理统计/统计检验",
-    "src/概率论与数理统计/随机变量的数字特征/协方差.md",
-    "src/线性代数/向量/子空间/子空间的基.md",
-    "src/线性代数/矩阵/矩阵 初等变换.md",
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
-    "src/概率论与数理统计/-分布类型/二项分布.md",
-    "README.md",
     "crates/computer_science/src/chaos/未命名",
     "src/统计学/chaos",
     "src/统计学",
@@ -300,7 +324,6 @@
     "附件/屏幕截图_20240518_215052.png",
     "附件/屏幕截图_20240518_181311.png",
     "附件/屏幕截图_20240518_181254.png",
-    "附件/屏幕截图_20240518_163830.png",
     "chaos/chaos_1_.canvas",
     "未命名.canvas",
     "未命名 1.canvas"
