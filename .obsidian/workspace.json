@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
+                "file": "src/概率论与数理统计/一维随机变量及其分布/随机变量的概念.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "随机变量的数学期望"
+              "title": "随机变量的概念"
             }
           },
           {
@@ -174,9 +174,57 @@
               "icon": "lucide-file",
               "title": "随机变量的数学期望"
             }
+          },
+          {
+            "id": "11951db086e59b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/数理统计/假设检验/T检验.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "T检验"
+            }
+          },
+          {
+            "id": "583ac0c763e5571a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/概率论与数理统计/随机变量的数字特征/秩相关系数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "秩相关系数"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -297,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+                "file": "src/概率论与数理统计/随机变量的数字特征/秩相关系数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "随机变量的方差 的大纲"
+              "title": "秩相关系数 的大纲"
             }
           }
         ],
@@ -358,6 +406,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "canvas:新建白板": true,
       "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
@@ -372,14 +421,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bc7c2dc4822692c7",
+  "active": "583ac0c763e5571a",
   "lastOpenFiles": [
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
-    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+    "src/概率论与数理统计/随机变量的数字特征/相关系数.md",
+    "src/概率论与数理统计/随机变量的数字特征/秩相关系数.md",
+    "src/概率论与数理统计/数理统计/假设检验/假设检验.md",
     "src/概率论与数理统计/数理统计/假设检验/T检验.md",
+    "src/概率论与数理统计/数理统计/常用统计量.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的方差.md",
+    "src/概率论与数理统计/随机变量的数字特征/随机变量的数学期望.md",
+    "src/概率论与数理统计/一维随机变量及其分布/连续型/连续型随机变量及其概率密度.md",
+    "src/概率论与数理统计/一维随机变量及其分布/随机变量的概念.md",
+    "src/概率论与数理统计/随机变量的数字特征/二维随机变量函数的数学期望.md",
     "src/概率论与数理统计/数理统计/假设检验/Z检验.md",
     "src/概率论与数理统计/数理统计/假设检验/Z值.md",
-    "src/概率论与数理统计/数理统计/假设检验/假设检验.md",
     "src/概率论与数理统计/数理统计/假设检验/零假设.md",
     "src/概率论与数理统计/数理统计/假设检验/P值.md",
     "src/概率论与数理统计/数理统计/假设检验/显著性差异.md",
@@ -389,17 +444,11 @@
     "src/概率论与数理统计/数理统计/总体与样本.md",
     "src/概率论与数理统计/数理统计/正态总体条件下的常用结论.md",
     "src/概率论与数理统计/数理统计/统计量.md",
-    "src/概率论与数理统计/数理统计/常用统计量.md",
     "src/概率论与数理统计/大数定律与中心极限定理/中心极限定理.md",
     "src/概率论与数理统计/大数定律与中心极限定理/依概率收敛.md",
     "src/概率论与数理统计/大数定律与中心极限定理/大数定律.md",
     "src/概率论与数理统计/随机变量的数字特征/协方差.md",
-    "src/概率论与数理统计/随机变量的数字特征/相关系数.md",
     "src/概率论与数理统计/随机变量的数字特征/切比雪夫不等式.md",
-    "src/概率论与数理统计/随机变量的数字特征/二维随机变量函数的数学期望.md",
-    "src/微积分/无穷级数/傅里叶级数/一般周期的傅里叶级数.md",
-    "src/微积分/无穷级数/傅里叶级数/延拓.md",
-    "src/微积分/无穷级数/傅里叶级数/函数展开成傅里叶级数.md",
     "附件/Pasted image 20250604094504.png",
     "src/概率论与数理统计/chaos",
     "src/概率论与数理统计/回归分析",
